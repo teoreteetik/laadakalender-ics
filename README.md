@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/teoreteetik/laadakalender-ics/refs/heads/main/
 ```
 
 ## Näidis
-<img width="1728" alt="Calendar example" src="https://github.com/user-attachments/assets/a079e928-8696-4811-a566-7a4961251295">
+<img width="1728" alt="Calendar example" src="https://github.com/user-attachments/assets/0d0b1d7a-c2ef-40d8-a2c3-b2f12b7b1c1f">
