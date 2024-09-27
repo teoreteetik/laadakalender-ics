@@ -1488,6 +1488,15 @@ URL:https://laadakalender.ee/loksa-oktoobri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-12.Mustika Lastekas kogupere laat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Mustika Lastekas kogupere laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustikas-lastekas-perelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-13.Veganmess
 DTSTART:20241013
 DTEND:20241014
