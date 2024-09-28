@@ -1416,6 +1416,15 @@ URL:https://laadakalender.ee/ehitus-ja-sisustus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-11.Haapsalu Rannarootsi sügiskuu laat
+DTSTART:20241011
+DTEND:20241012
+SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-12.Veganmess
 DTSTART:20241012
 DTEND:20241013
@@ -1497,6 +1506,15 @@ URL:https://laadakalender.ee/mustikas-lastekas-perelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-12.Haapsalu Rannarootsi sügiskuu laat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-13.Veganmess
 DTSTART:20241013
 DTEND:20241014
@@ -1557,6 +1575,15 @@ DTEND:20241014
 SUMMARY:Valga: Otepää laat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Kohila sügiskuu laat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Rapla: Kohila sügiskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1632,12 +1659,30 @@ URL:https://laadakalender.ee/haapsalu-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-19.Rapla sügiskuu laat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Rapla: Rapla sügiskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-20.Räpina laat
 DTSTART:20241020
 DTEND:20241021
 SUMMARY:Põlva: Räpina laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Türi sügiskuu laat
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Järva: Türi sügiskuu laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2097,6 +2142,15 @@ DTEND:20241216
 SUMMARY:Ida-Viru: Jõhvi jõululaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/johvi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Kohila jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Rapla: Kohila jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
