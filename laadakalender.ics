@@ -1389,6 +1389,15 @@ URL:https://laadakalender.ee/lumanda-sugislaat/#google_vignette
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-06.Tapa sügiskuu laat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Lääne-Viru: Tapa sügiskuu laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-09.Märjamaa õhtuturg
 DTSTART:20241009
 DTEND:20241010
@@ -1421,7 +1430,7 @@ DTSTART:20241011
 DTEND:20241012
 SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
 LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
+URL:Haapsalu Rannarootsi sügiskuu laat
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1511,7 +1520,7 @@ DTSTART:20241012
 DTEND:20241013
 SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
 LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
+URL:Haapsalu Rannarootsi sügiskuu laat
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1583,7 +1592,7 @@ DTSTART:20241013
 DTEND:20241014
 SUMMARY:Rapla: Kohila sügiskuu laat
 LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kohila-sugislaat/
+URL:https://laadakalender.ee/blog/kohila-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1664,7 +1673,7 @@ DTSTART:20241019
 DTEND:20241020
 SUMMARY:Rapla: Rapla sügiskuu laat
 LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-sugislaat/
+URL:https://laadakalender.ee/rapla-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1749,6 +1758,15 @@ URL:https://laadakalender.ee/rapina-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-03.Kohila sügislaat
+DTSTART:20241103
+DTEND:20241104
+SUMMARY:Rapla: Kohila sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-06.OSTUBUUMI laat Järve keskuses
 DTSTART:20241106
 DTEND:20241107
@@ -1818,6 +1836,15 @@ DTEND:20241109
 SUMMARY:Harju: OSTUBUUMI laat Järve keskuses
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ostubuumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-08.Haapsalu Rannarootsi sügislaat
+DTSTART:20241108
+DTEND:20241109
+SUMMARY:Lääne: Haapsalu Rannarootsi sügislaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1893,12 +1920,30 @@ URL:https://laadakalender.ee/ostubuumi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-10.Tapa sügislaat
+DTSTART:20241110
+DTEND:20241111
+SUMMARY:Lääne-Viru: Tapa sügislaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-16.Lihula Mardi-Kadri laat
 DTSTART:20241116
 DTEND:20241117
 SUMMARY:Pärnu: Lihula Mardi-Kadri laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/lihula-mardi-kadri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-16.Rapla sügislaat
+DTSTART:20241116
+DTEND:20241117
+SUMMARY:Rapla: Rapla sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1944,6 +1989,15 @@ DTEND:20241201
 SUMMARY:Harju: Andresepäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/andresepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-01.Rapla jõulukuu laat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Rapla: Rapla jõulukuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-joulukuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2070,6 +2124,15 @@ DTEND:20241209
 SUMMARY:Harju: Magistrali keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/magistrali-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Tapa jõulukuu laat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Lääne-Viru: Tapa jõulukuu laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
