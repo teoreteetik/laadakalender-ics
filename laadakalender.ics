@@ -1335,6 +1335,15 @@ URL:https://laadakalender.ee/vaala-keskuse-suur-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-05.Torgu sügislaat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Saare: Torgu sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/torgu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-06.Tagadi restauraatorite päev
 DTSTART:20241006
 DTEND:20241007
@@ -1596,6 +1605,15 @@ URL:https://laadakalender.ee/blog/kohila-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-13.Kiviõli sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Ida-Viru: Kiviõli sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-16.Tallinna kollektsionääride laat
 DTSTART:20241016
 DTEND:20241017
@@ -1674,6 +1692,15 @@ DTEND:20241020
 SUMMARY:Rapla: Rapla sügiskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Paide oktoobrilaat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Järva: Paide oktoobrilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-oktoobrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1929,6 +1956,15 @@ URL:https://laadakalender.ee/tapa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-11.Kiviõli mardilaat
+DTSTART:20241111
+DTEND:20241112
+SUMMARY:Ida-Viru: Kiviõli mardilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-16.Lihula Mardi-Kadri laat
 DTSTART:20241116
 DTEND:20241117
@@ -2136,6 +2172,15 @@ URL:https://laadakalender.ee/tapa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Kiviõli jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:: Kiviõli jõululaat
+LOCATION:, Estonia
+URL:https://laadakalender.ee/joululaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-13.Hiiumaa Talvine Käsitöö- ja omatoodangu laat
 DTSTART:20241213
 DTEND:20241214
@@ -2289,6 +2334,15 @@ URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-20.Pargi Keskuse jõululaat
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-21.Jõulumüük Mustamäe Keskuses
 DTSTART:20241221
 DTEND:20241222
@@ -2331,6 +2385,15 @@ DTEND:20241222
 SUMMARY:Pärnu: Pärnu Turu Jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-turu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Pargi Keskuse jõululaat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
