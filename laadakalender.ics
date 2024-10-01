@@ -1439,7 +1439,7 @@ DTSTART:20241011
 DTEND:20241012
 SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
 LOCATION:Läänemaa, Estonia
-URL:Haapsalu Rannarootsi sügiskuu laat
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1529,7 +1529,16 @@ DTSTART:20241012
 DTEND:20241013
 SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
 LOCATION:Läänemaa, Estonia
-URL:Haapsalu Rannarootsi sügiskuu laat
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Turba OTT
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1701,6 +1710,15 @@ DTEND:20241020
 SUMMARY:Järva: Paide oktoobrilaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/paide-oktoobrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Turba OTT
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
