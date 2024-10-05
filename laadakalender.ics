@@ -273,6 +273,24 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-12.Liivimaa Mihklilaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Valga: Liivimaa Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Buduaari ilumess
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Buduaari ilumess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/buduaari-ilumess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-13.Veganmess
 DTSTART:20241013
 DTEND:20241014
