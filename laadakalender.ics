@@ -372,6 +372,15 @@ URL:https://laadakalender.ee/kivioli-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-13.Laine Plaaditurg
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-16.Tallinna kollektsionääride laat
 DTSTART:20241016
 DTEND:20241017
@@ -864,6 +873,15 @@ DTEND:20241207
 SUMMARY:Harju: Magistrali keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/magistrali-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-06.Värska jõululaat
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Võru: Värska jõululaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/varska-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
