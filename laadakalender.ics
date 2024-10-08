@@ -966,6 +966,15 @@ URL:https://laadakalender.ee/kaerepere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Kaja jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Harju: Kaja jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kaja-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1116,6 +1125,15 @@ DTEND:20241216
 SUMMARY:Rapla: Kohila jõululaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Järvakandi jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Rapla: Järvakandi jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/jarvakandi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
