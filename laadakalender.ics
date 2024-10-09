@@ -156,6 +156,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-10.Simuna laat
+DTSTART:20241010
+DTEND:20241011
+SUMMARY:Lääne-Viru: Simuna laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/simuna-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-11.Ehitus ja Sisustus
 DTSTART:20241011
 DTEND:20241012
@@ -300,6 +309,15 @@ URL:https://laadakalender.ee/buduaari-ilumess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-12.Risti taluturg
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Lääne: Risti taluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-13.Veganmess
 DTSTART:20241013
 DTEND:20241014
@@ -387,6 +405,15 @@ DTEND:20241014
 SUMMARY:Harju: Laine Plaaditurg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Kose oktoobrilaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Kose oktoobrilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-oktoobrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -534,12 +561,30 @@ URL:https://laadakalender.ee/turi-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-20.Moerännak
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Pärnu: Moerännak
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/moerannak/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-24.Elva OTT
 DTSTART:20241024
 DTEND:20241025
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-26.Risti taluturg
+DTSTART:20241026
+DTEND:20241027
+SUMMARY:Lääne: Risti taluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -921,10 +966,10 @@ URL:https://laadakalender.ee/t1-suur-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-12-07.Kodu käsitöölaat
+UID:2024-12-07.Põltsamaa kodu- ja käsitöölaat
 DTSTART:20241207
 DTEND:20241208
-SUMMARY:Põltsa: Kodu käsitöölaat
+SUMMARY:Põltsa: Põltsamaa kodu- ja käsitöölaat
 LOCATION:Põltsamaa, Estonia
 URL:https://laadakalender.ee/kodu-kasitoolaat/
 END:VEVENT
@@ -972,6 +1017,33 @@ DTEND:20241208
 SUMMARY:Harju: Kaja jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kaja-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kadrina jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Lääne-Viru: Kadrina jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kanepi jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Põlva: Kanepi jõululaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kanepi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kambja jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Tartu: Kambja jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kambja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1023,9 +1095,27 @@ BEGIN:VEVENT
 UID:2024-12-08.Kiviõli jõululaat
 DTSTART:20241208
 DTEND:20241209
-SUMMARY:: Kiviõli jõululaat
-LOCATION:, Estonia
+SUMMARY:Ida-Viru: Kiviõli jõululaat
+LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/joululaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Mooste jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Põlva: Mooste jõululaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mooste-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Kõmsi jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Pärnu: Kõmsi jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/komsi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
