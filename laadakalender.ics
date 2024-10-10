@@ -453,6 +453,15 @@ URL:https://laadakalender.ee/voru-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-18.Põltsamaa turutänava laadapäevad
+DTSTART:20241018
+DTEND:20241019
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-19.Kuuse Tänava Kirbuturg
 DTSTART:20241019
 DTEND:20241020
@@ -540,6 +549,15 @@ DTEND:20241020
 SUMMARY:Pärnu: Pärnu oktoobrikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Põltsamaa turutänava laadapäevad
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
