@@ -417,6 +417,15 @@ URL:https://laadakalender.ee/kose-oktoobrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-13.Valkla kirbuturg
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-16.Tallinna kollektsionääride laat
 DTSTART:20241016
 DTEND:20241017
@@ -1065,6 +1074,15 @@ URL:https://laadakalender.ee/kambja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Vaala keskuse suur jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Lääne-Viru: Vaala keskuse suur jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vaala-keskuse-suur-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1341,6 +1359,15 @@ DTEND:20241221
 SUMMARY:Pärnu: Pärnu jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Jõulueelne gurmeelaat
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Harju: Jõulueelne gurmeelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/joulueelne-gurmeelaat/
 END:VEVENT
 
 BEGIN:VEVENT
