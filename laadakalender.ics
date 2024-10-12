@@ -939,6 +939,15 @@ URL:https://laadakalender.ee/rapla-joulukuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-03.Väätsa jõuluturg
+DTSTART:20241203
+DTEND:20241204
+SUMMARY:Järva: Väätsa jõuluturg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/vaatsa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-05.Magistrali keskuse jõululaat
 DTSTART:20241205
 DTEND:20241206
