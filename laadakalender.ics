@@ -444,6 +444,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-17.Tabasalu OTT
+DTSTART:20241017
+DTEND:20241018
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-18.Pärnu oktoobrikuu laat
 DTSTART:20241018
 DTEND:20241019
@@ -606,6 +615,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-10-24.Tabasalu OTT
+DTSTART:20241024
+DTEND:20241025
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-10-26.Risti taluturg
 DTSTART:20241026
 DTEND:20241027
@@ -639,6 +657,15 @@ DTEND:20241101
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-31.Tabasalu OTT
+DTSTART:20241031
+DTEND:20241101
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -711,6 +738,15 @@ DTEND:20241108
 SUMMARY:Harju: OSTUBUUMI laat Järve keskuses
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ostubuumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-07.Tabasalu OTT
+DTSTART:20241107
+DTEND:20241108
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -849,6 +885,15 @@ URL:https://laadakalender.ee/kivioli-mardilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-14.Tabasalu OTT
+DTSTART:20241114
+DTEND:20241115
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-15.Pärnu novembrikuu laat
 DTSTART:20241115
 DTEND:20241116
@@ -891,6 +936,15 @@ DTEND:20241121
 SUMMARY:Harju: Tallinna kollektsionääride laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-21.Tabasalu OTT
+DTSTART:20241121
+DTEND:20241122
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
