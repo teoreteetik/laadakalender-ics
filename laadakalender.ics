@@ -584,7 +584,7 @@ DTSTART:20241019
 DTEND:20241020
 SUMMARY:Harju: Tabasalu koolivaheaja sügislaat
 LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/blog/tabasalu-koolivaheaja-sugislaat/
+URL:https://laadakalender.ee/tabasalu-koolivaheaja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -612,6 +612,15 @@ DTEND:20241021
 SUMMARY:Pärnu: Moerännak
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moerannak/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Paldiski oktoobrikuu laat
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Harju: Paldiski oktoobrikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-oktoobrikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1323,6 +1332,15 @@ DTEND:20241215
 SUMMARY:Lääne: Rannarootsi keskuse jõululaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/rannarootsi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Põhjala jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Põhjala jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohjala-tehase-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
