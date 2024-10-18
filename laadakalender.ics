@@ -1371,6 +1371,15 @@ URL:https://laadakalender.ee/jarvakandi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-15.Väätsa jõuluturg
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Järva: Väätsa jõuluturg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/vaatsa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-16.Järve keskuse jõululaat
 DTSTART:20241216
 DTEND:20241217
