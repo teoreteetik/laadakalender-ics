@@ -1011,6 +1011,15 @@ URL:https://laadakalender.ee/andresepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-30.Abja-Paluoja jõuluootuse laat
+DTSTART:20241130
+DTEND:20241201
+SUMMARY:Viljandi: Abja-Paluoja jõuluootuse laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-jouluootuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-01.Rapla jõulukuu laat
 DTSTART:20241201
 DTEND:20241202
