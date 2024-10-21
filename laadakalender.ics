@@ -1182,6 +1182,15 @@ URL:https://laadakalender.ee/vaala-keskuse-suur-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Nõmme jõuluturg
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Harju: Nõmme jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/nomme-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
