@@ -876,6 +876,15 @@ URL:https://laadakalender.ee/uma-mekk-suurlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-09.Turba OTT
+DTSTART:20241109
+DTEND:20241110
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-10.Mustamäe keskuse terviselaat
 DTSTART:20241110
 DTEND:20241111
@@ -954,6 +963,15 @@ DTEND:20241117
 SUMMARY:Pärnu: Pärnu novembrikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-novembrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-16.Turba OTT
+DTSTART:20241116
+DTEND:20241117
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1188,6 +1206,24 @@ DTEND:20241208
 SUMMARY:Harju: Nõmme jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/nomme-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Virtsu jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Pärnu: Virtsu jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/virtsu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Karksi-Nuia käsitöömeistrite jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Viljandi: Karksi-Nuia käsitöömeistrite jõululaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
