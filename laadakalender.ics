@@ -822,6 +822,15 @@ URL:https://laadakalender.ee/haapsalu-rannarootsi-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-08.Jõgeva laat
+DTSTART:20241108
+DTEND:20241109
+SUMMARY:Jõgeva: Jõgeva laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-09.Läti Maitsed
 DTSTART:20241109
 DTEND:20241110
@@ -1044,6 +1053,15 @@ DTEND:20241202
 SUMMARY:Rapla: Rapla jõulukuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-joulukuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-01.Wittensteini käsitöö- ja jõulumaitsete turg
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Järva: Wittensteini käsitöö- ja jõulumaitsete turg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/wittensteini-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
