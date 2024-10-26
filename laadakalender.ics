@@ -1083,6 +1083,15 @@ URL:https://laadakalender.ee/wittensteini-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.Keila advendilaat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Harju: Keila advendilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/keila-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
