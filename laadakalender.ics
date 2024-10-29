@@ -930,9 +930,9 @@ URL:https://laadakalender.ee/tapa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-11-11.Kiviõli mardilaat
-DTSTART:20241111
-DTEND:20241112
+UID:2024-11-10.Kiviõli mardilaat
+DTSTART:20241110
+DTEND:20241111
 SUMMARY:Ida-Viru: Kiviõli mardilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kivioli-mardilaat/
@@ -1485,6 +1485,15 @@ DTEND:20241215
 SUMMARY:Lääne-Viru: Rakke jõululaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/rakke-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Otepää Kogukonnakeskuse advenditurg
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Valga: Otepää Kogukonnakeskuse advenditurg
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-kogukonnakeskuse-advenditurg/
 END:VEVENT
 
 BEGIN:VEVENT
