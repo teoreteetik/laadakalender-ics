@@ -1029,6 +1029,15 @@ URL:https://laadakalender.ee/suur-kadrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-23.Karksi-Nuia kadripäeva laat
+DTSTART:20241123
+DTEND:20241124
+SUMMARY:Viljandi: Karksi-Nuia kadripäeva laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-kadripaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-24.Suur kadrilaat
 DTSTART:20241124
 DTEND:20241125
@@ -1380,6 +1389,15 @@ URL:https://laadakalender.ee/vahiravifondi-heategevuslik-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Käsitöö ja väiketootjate jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Järva: Käsitöö ja väiketootjate jõululaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/kasitoo-ja-joulukaupade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-13.Hiiumaa Talvine Käsitöö- ja omatoodangu laat
 DTSTART:20241213
 DTEND:20241214
@@ -1530,6 +1548,24 @@ DTEND:20241216
 SUMMARY:Järva: Väätsa jõuluturg
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/vaatsa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Tõstamaa jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Pärnu: Tõstamaa jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/tostamaa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Lohkva jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Tartu: Lohkva jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/lohkva-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
