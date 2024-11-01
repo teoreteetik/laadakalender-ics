@@ -3,696 +3,12 @@ VERSION:2.0
 PRODID:https://github.com/teoreteetik/laadakalender-ics
 
 BEGIN:VEVENT
-UID:2024-10-03.Elva OTT
-DTSTART:20241003
-DTEND:20241004
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-04.Viljandi pärandusfestivali päranduspidu
-DTSTART:20241004
-DTEND:20241005
-SUMMARY:Viljandi: Viljandi pärandusfestivali päranduspidu
-LOCATION:Viljandimaa, Estonia
-URL:https://laadakalender.ee/viljandi-parandusfestivali-paranduspidu/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Viljandi pärandusfestivali päranduspidu
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Viljandi: Viljandi pärandusfestivali päranduspidu
-LOCATION:Viljandimaa, Estonia
-URL:https://laadakalender.ee/viljandi-parandusfestivali-paranduspidu/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Aruvalla antiigi-, vanavara- ja militaarlaat
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Harju: Aruvalla antiigi-, vanavara- ja militaarlaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Elva laat
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Tartu: Elva laat
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Velise sügislaat
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Rapla: Velise sügislaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/velise-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Vaala keskuse suur sügislaat
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Lääne-Viru: Vaala keskuse suur sügislaat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vaala-keskuse-suur-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-05.Torgu sügislaat
-DTSTART:20241005
-DTEND:20241006
-SUMMARY:Saare: Torgu sügislaat
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/torgu-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Tagadi restauraatorite päev
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Harju: Tagadi restauraatorite päev
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Põhja-Tallinna suur sügislaat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Harju: Põhja-Tallinna suur sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/pohja-tallinna-suur-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Räpina laat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Põlva: Räpina laat
-LOCATION:Põlvamaa, Estonia
-URL:https://laadakalender.ee/rapina-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Laekvere sügislaat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Lääne-Viru: Laekvere sügislaat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/laekvere-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Vääna-Jõesuu sügislaat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Harju: Vääna-Jõesuu sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/vaana-joesuu-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Lümanda sügislaat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Saare: Lümanda sügislaat
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/lumanda-sugislaat/#google_vignette
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-06.Tapa sügiskuu laat
-DTSTART:20241006
-DTEND:20241007
-SUMMARY:Lääne-Viru: Tapa sügiskuu laat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/tapa-sugiskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-09.Märjamaa õhtuturg
-DTSTART:20241009
-DTEND:20241010
-SUMMARY:Rapla: Märjamaa õhtuturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/marjamaa-ohtuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-10.Elva OTT
-DTSTART:20241010
-DTEND:20241011
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-10.Simuna laat
-DTSTART:20241010
-DTEND:20241011
-SUMMARY:Lääne-Viru: Simuna laat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/simuna-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-11.Ehitus ja Sisustus
-DTSTART:20241011
-DTEND:20241012
-SUMMARY:Tartu: Ehitus ja Sisustus
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/ehitus-ja-sisustus/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-11.Haapsalu Rannarootsi sügiskuu laat
-DTSTART:20241011
-DTEND:20241012
-SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
+UID:2024-11-01.Oru OTT
+DTSTART:20241101
+DTEND:20241102
+SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-11.Jõgeva sügislaat
-DTSTART:20241011
-DTEND:20241012
-SUMMARY:Jõgeva: Jõgeva sügislaat
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/jogeva-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Veganmess
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Veganmess
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/veganmess/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Valga Mihklilaat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Valga: Valga Mihklilaat
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/valga-mihklilaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Mustamäe keskuse sügislaat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Mustamäe keskuse sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Ehitus ja Sisustus
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Tartu: Ehitus ja Sisustus
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/ehitus-ja-sisustus/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Kostitee laadapäev
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Põlva: Kostitee laadapäev
-LOCATION:Põlvamaa, Estonia
-URL:https://laadakalender.ee/kostitee-paev-laat-ja-loikuspidu/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Kehra turu sügislaat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Kehra turu sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kehra-turu-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Tabasalu suur sügislaat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Tabasalu suur sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tabasalu-suur-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Loksa oktoobri laat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Loksa oktoobri laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/loksa-oktoobri-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Mustika Lastekas kogupere laat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Mustika Lastekas kogupere laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustikas-lastekas-perelaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Haapsalu Rannarootsi sügiskuu laat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Turba OTT
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Turba OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turba-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Liivimaa Mihklilaat
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Valga: Liivimaa Mihklilaat
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/liivimaa-mihklilaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Buduaari ilumess
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Harju: Buduaari ilumess
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/buduaari-ilumess/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-12.Risti taluturg
-DTSTART:20241012
-DTEND:20241013
-SUMMARY:Lääne: Risti taluturg
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/risti-taluturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Veganmess
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Veganmess
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/veganmess/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Mustamäe keskuse sügislaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Mustamäe keskuse sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Ehitus ja Sisustus
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Tartu: Ehitus ja Sisustus
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/ehitus-ja-sisustus/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Varbola sügislaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Rapla: Varbola sügislaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/varbola-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Seljametsa sügislaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Pärnu: Seljametsa sügislaat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/seljametsa-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Vääna sügislaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Vääna sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/vaana-sugislaat-ja-kirbukas/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Otepää laat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Valga: Otepää laat
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/otepaa-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Kohila sügiskuu laat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Rapla: Kohila sügiskuu laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/blog/kohila-sugiskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Kiviõli sügislaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Ida-Viru: Kiviõli sügislaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kivioli-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Laine Plaaditurg
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Laine Plaaditurg
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/laine-plaaditurg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Kose oktoobrilaat
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Kose oktoobrilaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kose-oktoobrilaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-13.Valkla kirbuturg
-DTSTART:20241013
-DTEND:20241014
-SUMMARY:Harju: Valkla kirbuturg
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/valkla-kirbuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-16.Tallinna kollektsionääride laat
-DTSTART:20241016
-DTEND:20241017
-SUMMARY:Harju: Tallinna kollektsionääride laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-17.Elva OTT
-DTSTART:20241017
-DTEND:20241018
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-17.Tabasalu OTT
-DTSTART:20241017
-DTEND:20241018
-SUMMARY:Harju: Tabasalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tabasalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-18.Pärnu oktoobrikuu laat
-DTSTART:20241018
-DTEND:20241019
-SUMMARY:Pärnu: Pärnu oktoobrikuu laat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-18.Võru sügislaat
-DTSTART:20241018
-DTEND:20241019
-SUMMARY:Võru: Võru sügislaat
-LOCATION:Võrumaa, Estonia
-URL:https://laadakalender.ee/voru-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-18.Põltsamaa turutänava laadapäevad
-DTSTART:20241018
-DTEND:20241019
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Kuuse Tänava Kirbuturg
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Põlva: Kuuse Tänava Kirbuturg
-LOCATION:Põlvamaa, Estonia
-URL:https://laadakalender.ee/kuuse-tanava-kirbuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Salme oma turupäev - Kuida külvad nõnda lõikad
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Saare: Salme oma turupäev - Kuida külvad nõnda lõikad
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/salme-oma-turupaev-kuidas-kulvad-nonda-loikad/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Karksi-Nuia oktoobrikuu laat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Viljandi: Karksi-Nuia oktoobrikuu laat
-LOCATION:Viljandimaa, Estonia
-URL:https://laadakalender.ee/karksi-nuia-oktoobrikuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Kaerepere sügislaat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Rapla: Kaerepere sügislaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kaerepere-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Mustvee viinakuu laat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Jõgeva: Mustvee viinakuu laat
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/mustvee-viinakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Haapsalu sügislaat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Lääne: Haapsalu sügislaat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Rapla sügiskuu laat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Rapla: Rapla sügiskuu laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-sugiskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Paide oktoobrilaat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Järva: Paide oktoobrilaat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/paide-oktoobrilaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Turba OTT
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Harju: Turba OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turba-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Pärnu oktoobrikuu laat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Pärnu: Pärnu oktoobrikuu laat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Põltsamaa turutänava laadapäevad
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-19.Tabasalu koolivaheaja sügislaat
-DTSTART:20241019
-DTEND:20241020
-SUMMARY:Harju: Tabasalu koolivaheaja sügislaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tabasalu-koolivaheaja-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-20.Räpina laat
-DTSTART:20241020
-DTEND:20241021
-SUMMARY:Põlva: Räpina laat
-LOCATION:Põlvamaa, Estonia
-URL:https://laadakalender.ee/rapina-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-20.Türi sügiskuu laat
-DTSTART:20241020
-DTEND:20241021
-SUMMARY:Järva: Türi sügiskuu laat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/turi-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-20.Moerännak
-DTSTART:20241020
-DTEND:20241021
-SUMMARY:Pärnu: Moerännak
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/moerannak/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-20.Paldiski oktoobrikuu laat
-DTSTART:20241020
-DTEND:20241021
-SUMMARY:Harju: Paldiski oktoobrikuu laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/paldiski-oktoobrikuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-23.Märjamaa õhtuturg
-DTSTART:20241023
-DTEND:20241024
-SUMMARY:Rapla: Märjamaa õhtuturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/marjamaa-ohtuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-24.Elva OTT
-DTSTART:20241024
-DTEND:20241025
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-24.Tabasalu OTT
-DTSTART:20241024
-DTEND:20241025
-SUMMARY:Harju: Tabasalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tabasalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-26.Risti taluturg
-DTSTART:20241026
-DTEND:20241027
-SUMMARY:Lääne: Risti taluturg
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/risti-taluturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-27.Tartu kollektsionääride laat
-DTSTART:20241027
-DTEND:20241028
-SUMMARY:Tartu: Tartu kollektsionääride laat
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-28.Lindora laat
-DTSTART:20241028
-DTEND:20241029
-SUMMARY:Võru: Lindora laat
-LOCATION:Võrumaa, Estonia
-URL:https://laadakalender.ee/lindora-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-31.Elva OTT
-DTSTART:20241031
-DTEND:20241101
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2024-10-31.Tabasalu OTT
-DTSTART:20241031
-DTEND:20241101
-SUMMARY:Harju: Tabasalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tabasalu-ott/
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -786,6 +102,24 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-07.Elva OTT
+DTSTART:20241107
+DTEND:20241108
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-07.Rapla õhtuturg
+DTSTART:20241107
+DTEND:20241108
+SUMMARY:Rapla: Rapla õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-08.Läti Maitsed
 DTSTART:20241108
 DTEND:20241109
@@ -837,6 +171,15 @@ DTEND:20241109
 SUMMARY:Jõgeva: Jõgeva laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/jogeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-08.Oru OTT
+DTSTART:20241108
+DTEND:20241109
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -957,12 +300,39 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-14.Elva OTT
+DTSTART:20241114
+DTEND:20241115
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-14.Rapla õhtuturg
+DTSTART:20241114
+DTEND:20241115
+SUMMARY:Rapla: Rapla õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-15.Pärnu novembrikuu laat
 DTSTART:20241115
 DTEND:20241116
 SUMMARY:Pärnu: Pärnu novembrikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-novembrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-15.Oru OTT
+DTSTART:20241115
+DTEND:20241116
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1029,6 +399,33 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-21.Elva OTT
+DTSTART:20241121
+DTEND:20241122
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-21.Rapla õhtuturg
+DTSTART:20241121
+DTEND:20241122
+SUMMARY:Rapla: Rapla õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-22.Oru OTT
+DTSTART:20241122
+DTEND:20241123
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-23.Suur kadrilaat
 DTSTART:20241123
 DTEND:20241124
@@ -1062,6 +459,24 @@ DTEND:20241125
 SUMMARY:Tartu: Tartu kollektsionääride laat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-28.Elva OTT
+DTSTART:20241128
+DTEND:20241129
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-11-29.Oru OTT
+DTSTART:20241129
+DTEND:20241130
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1137,6 +552,24 @@ URL:https://laadakalender.ee/magistrali-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-05.Elva OTT
+DTSTART:20241205
+DTEND:20241206
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-05.Rapla õhtuturg
+DTSTART:20241205
+DTEND:20241206
+SUMMARY:Rapla: Rapla õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-06.Tartu jõululaat messikeskuses
 DTSTART:20241206
 DTEND:20241207
@@ -1170,6 +603,15 @@ DTEND:20241207
 SUMMARY:Harju: Vähiravifondi heategevuslik jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/vahiravifondi-heategevuslik-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-06.Oru OTT
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1344,6 +786,24 @@ URL:https://laadakalender.ee/kadrioru-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Kehtna jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Rapla: Kehtna jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kehtna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kuimetsa jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Rapla: Kuimetsa jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kuimetsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1443,6 +903,24 @@ URL:https://laadakalender.ee/kose-uuemoisa-joulutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-12.Elva OTT
+DTSTART:20241212
+DTEND:20241213
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-12.Rapla õhtuturg
+DTSTART:20241212
+DTEND:20241213
+SUMMARY:Rapla: Rapla õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-13.Hiiumaa Talvine Käsitöö- ja omatoodangu laat
 DTSTART:20241213
 DTEND:20241214
@@ -1458,6 +936,15 @@ DTEND:20241214
 SUMMARY:Järva: Türi jõululaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-13.ate öine jõuluturg
+DTSTART:20241213
+DTEND:20241214
+SUMMARY:Võru: ate öine jõuluturg
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/ate-oine-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1668,6 +1155,15 @@ URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-19.Elva OTT
+DTSTART:20241219
+DTEND:20241220
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-20.Tartu jõuluturg
 DTSTART:20241220
 DTEND:20241221
@@ -1737,6 +1233,15 @@ DTEND:20241221
 SUMMARY:Rapla: Rapla jõulumaa jõuluturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-joulumaa-ja-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Oru OTT
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -10179,6 +9684,699 @@ DTEND:20240930
 SUMMARY:Tartu: Tartu kollektsionääride laat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-03.Elva OTT
+DTSTART:20241003
+DTEND:20241004
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-04.Viljandi pärandusfestivali päranduspidu
+DTSTART:20241004
+DTEND:20241005
+SUMMARY:Viljandi: Viljandi pärandusfestivali päranduspidu
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-parandusfestivali-paranduspidu/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Viljandi pärandusfestivali päranduspidu
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Viljandi: Viljandi pärandusfestivali päranduspidu
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-parandusfestivali-paranduspidu/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Harju: Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Elva laat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Tartu: Elva laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Velise sügislaat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Rapla: Velise sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/velise-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Vaala keskuse suur sügislaat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Lääne-Viru: Vaala keskuse suur sügislaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vaala-keskuse-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-05.Torgu sügislaat
+DTSTART:20241005
+DTEND:20241006
+SUMMARY:Saare: Torgu sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/torgu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Tagadi restauraatorite päev
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Harju: Tagadi restauraatorite päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Põhja-Tallinna suur sügislaat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Harju: Põhja-Tallinna suur sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Räpina laat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Põlva: Räpina laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Laekvere sügislaat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Lääne-Viru: Laekvere sügislaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/laekvere-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Vääna-Jõesuu sügislaat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Harju: Vääna-Jõesuu sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-joesuu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Lümanda sügislaat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Saare: Lümanda sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/lumanda-sugislaat/#google_vignette
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-06.Tapa sügiskuu laat
+DTSTART:20241006
+DTEND:20241007
+SUMMARY:Lääne-Viru: Tapa sügiskuu laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-09.Märjamaa õhtuturg
+DTSTART:20241009
+DTEND:20241010
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-10.Elva OTT
+DTSTART:20241010
+DTEND:20241011
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-10.Simuna laat
+DTSTART:20241010
+DTEND:20241011
+SUMMARY:Lääne-Viru: Simuna laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/simuna-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-11.Ehitus ja Sisustus
+DTSTART:20241011
+DTEND:20241012
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-11.Haapsalu Rannarootsi sügiskuu laat
+DTSTART:20241011
+DTEND:20241012
+SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-11.Jõgeva sügislaat
+DTSTART:20241011
+DTEND:20241012
+SUMMARY:Jõgeva: Jõgeva sügislaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Veganmess
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Veganmess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/veganmess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Valga Mihklilaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Valga: Valga Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Mustamäe keskuse sügislaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Ehitus ja Sisustus
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Kostitee laadapäev
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Põlva: Kostitee laadapäev
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kostitee-paev-laat-ja-loikuspidu/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Kehra turu sügislaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Kehra turu sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-turu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Tabasalu suur sügislaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Tabasalu suur sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Loksa oktoobri laat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Loksa oktoobri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-oktoobri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Mustika Lastekas kogupere laat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Mustika Lastekas kogupere laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustikas-lastekas-perelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Haapsalu Rannarootsi sügiskuu laat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Lääne: Haapsalu Rannarootsi sügiskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Turba OTT
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Liivimaa Mihklilaat
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Valga: Liivimaa Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Buduaari ilumess
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Harju: Buduaari ilumess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/buduaari-ilumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-12.Risti taluturg
+DTSTART:20241012
+DTEND:20241013
+SUMMARY:Lääne: Risti taluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Veganmess
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Veganmess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/veganmess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Mustamäe keskuse sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Ehitus ja Sisustus
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Varbola sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Rapla: Varbola sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Seljametsa sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Pärnu: Seljametsa sügislaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Vääna sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Vääna sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-sugislaat-ja-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Otepää laat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Valga: Otepää laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Kohila sügiskuu laat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Rapla: Kohila sügiskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/blog/kohila-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Kiviõli sügislaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Ida-Viru: Kiviõli sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Laine Plaaditurg
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Kose oktoobrilaat
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Kose oktoobrilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-oktoobrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-13.Valkla kirbuturg
+DTSTART:20241013
+DTEND:20241014
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-16.Tallinna kollektsionääride laat
+DTSTART:20241016
+DTEND:20241017
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-17.Elva OTT
+DTSTART:20241017
+DTEND:20241018
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-17.Tabasalu OTT
+DTSTART:20241017
+DTEND:20241018
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-18.Pärnu oktoobrikuu laat
+DTSTART:20241018
+DTEND:20241019
+SUMMARY:Pärnu: Pärnu oktoobrikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-18.Võru sügislaat
+DTSTART:20241018
+DTEND:20241019
+SUMMARY:Võru: Võru sügislaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-18.Põltsamaa turutänava laadapäevad
+DTSTART:20241018
+DTEND:20241019
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Kuuse Tänava Kirbuturg
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Põlva: Kuuse Tänava Kirbuturg
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kuuse-tanava-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Salme oma turupäev - Kuida külvad nõnda lõikad
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Saare: Salme oma turupäev - Kuida külvad nõnda lõikad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/salme-oma-turupaev-kuidas-kulvad-nonda-loikad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Karksi-Nuia oktoobrikuu laat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Viljandi: Karksi-Nuia oktoobrikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Kaerepere sügislaat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Rapla: Kaerepere sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kaerepere-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Mustvee viinakuu laat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Jõgeva: Mustvee viinakuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-viinakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Haapsalu sügislaat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Lääne: Haapsalu sügislaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Rapla sügiskuu laat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Rapla: Rapla sügiskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Paide oktoobrilaat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Järva: Paide oktoobrilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-oktoobrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Turba OTT
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Pärnu oktoobrikuu laat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Pärnu: Pärnu oktoobrikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Põltsamaa turutänava laadapäevad
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-19.Tabasalu koolivaheaja sügislaat
+DTSTART:20241019
+DTEND:20241020
+SUMMARY:Harju: Tabasalu koolivaheaja sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-koolivaheaja-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Räpina laat
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Põlva: Räpina laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Türi sügiskuu laat
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Järva: Türi sügiskuu laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Moerännak
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Pärnu: Moerännak
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/moerannak/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-20.Paldiski oktoobrikuu laat
+DTSTART:20241020
+DTEND:20241021
+SUMMARY:Harju: Paldiski oktoobrikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-23.Märjamaa õhtuturg
+DTSTART:20241023
+DTEND:20241024
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-24.Elva OTT
+DTSTART:20241024
+DTEND:20241025
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-24.Tabasalu OTT
+DTSTART:20241024
+DTEND:20241025
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-26.Risti taluturg
+DTSTART:20241026
+DTEND:20241027
+SUMMARY:Lääne: Risti taluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-27.Tartu kollektsionääride laat
+DTSTART:20241027
+DTEND:20241028
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-28.Lindora laat
+DTSTART:20241028
+DTEND:20241029
+SUMMARY:Võru: Lindora laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/lindora-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-31.Elva OTT
+DTSTART:20241031
+DTEND:20241101
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-10-31.Tabasalu OTT
+DTSTART:20241031
+DTEND:20241101
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 END:VCALENDAR
