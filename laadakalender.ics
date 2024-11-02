@@ -471,6 +471,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-28.Jõuluootuse turg Tabasalus
+DTSTART:20241128
+DTEND:20241129
+SUMMARY:Harju: Jõuluootuse turg Tabasalus
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-29.Oru OTT
 DTSTART:20241129
 DTEND:20241130
@@ -534,6 +543,15 @@ URL:https://laadakalender.ee/palamuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.Kurepalu advendilaat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Tartu: Kurepalu advendilaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kurepalu-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
@@ -567,6 +585,15 @@ DTEND:20241206
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-05.Jõuluootuse turg Tabasalus
+DTSTART:20241205
+DTEND:20241206
+SUMMARY:Harju: Jõuluootuse turg Tabasalus
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -804,6 +831,15 @@ URL:https://laadakalender.ee/kuimetsa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Otepää aiandusmaja käsitöö jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Valga: Otepää aiandusmaja käsitöö jõululaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -918,6 +954,15 @@ DTEND:20241213
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-12.Jõuluootuse turg Tabasalus
+DTSTART:20241212
+DTEND:20241213
+SUMMARY:Harju: Jõuluootuse turg Tabasalus
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1047,6 +1092,15 @@ URL:https://laadakalender.ee/otepaa-kogukonnakeskuse-advenditurg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Kehra turu jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Kehra turu jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1161,6 +1215,15 @@ DTEND:20241220
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-19.Jõuluootuse turg Tabasalus
+DTSTART:20241219
+DTEND:20241220
+SUMMARY:Harju: Jõuluootuse turg Tabasalus
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
 END:VEVENT
 
 BEGIN:VEVENT
