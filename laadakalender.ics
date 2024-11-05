@@ -840,6 +840,15 @@ URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Võru linna jõuluturg
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Võru: Võru linna jõuluturg
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-linna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -936,6 +945,15 @@ DTEND:20241209
 SUMMARY:Harju: Kose-Uuemõisa jõulutänav
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kose-uuemoisa-joulutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Jõulud Viljandis
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Viljandi: Jõulud Viljandis
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/joulud-viljandis/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1152,6 +1170,33 @@ DTEND:20241216
 SUMMARY:Tartu: Lohkva jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/lohkva-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Maarja-Magdaleena jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Tartu: Maarja-Magdaleena jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/maarja-magdaleena-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Lasnamäe jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Harju: Lasnamäe jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Jõulud Viljandis
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Viljandi: Jõulud Viljandis
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/joulud-viljandis/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1413,6 +1458,15 @@ DTEND:20241223
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-22.Jõulud Viljandis
+DTSTART:20241222
+DTEND:20241223
+SUMMARY:Viljandi: Jõulud Viljandis
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/joulud-viljandis/
 END:VEVENT
 
 BEGIN:VEVENT
