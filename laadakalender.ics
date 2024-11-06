@@ -462,6 +462,15 @@ URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-24.Alavere jõululaat - Jõuluootuses
+DTSTART:20241124
+DTEND:20241125
+SUMMARY:Harju: Alavere jõululaat - Jõuluootuses
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/alavere-joululaat-jouluootuses/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-28.Elva OTT
 DTSTART:20241128
 DTEND:20241129
@@ -795,15 +804,6 @@ URL:https://laadakalender.ee/aegviidu-rahvamaja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-12-07.Varbola jõululaat
-DTSTART:20241207
-DTEND:20241208
-SUMMARY:Rapla: Varbola jõululaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/varbola-joululaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2024-12-07.Kadrioru jõululaat
 DTSTART:20241207
 DTEND:20241208
@@ -846,6 +846,33 @@ DTEND:20241208
 SUMMARY:Võru: Võru linna jõuluturg
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-linna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Mustvee jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Jõgeva: Mustvee jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kose valla isetegijate jõuluturg
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Harju: Kose valla isetegijate jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-valla-isetegijate-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Alatskivi lossi jõuluturg
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Tartu: Alatskivi lossi jõuluturg
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/alatskivi-lossi-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -954,6 +981,33 @@ DTEND:20241209
 SUMMARY:Viljandi: Jõulud Viljandis
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/joulud-viljandis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Varbola jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Rapla: Varbola jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Advendilaat ja disainiturg
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Viljandi: Advendilaat ja disainiturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.EKA Jõuluturg
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Harju: EKA Jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eka-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
