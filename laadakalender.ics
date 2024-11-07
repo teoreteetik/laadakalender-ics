@@ -1011,6 +1011,24 @@ URL:https://laadakalender.ee/eka-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Seljametsa jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Pärnu: Seljametsa jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Vastse-Kuuste jõulumeelne laat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Põlva: Vastse-Kuuste jõulumeelne laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/vastse-kuuste-joulumeelne-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-12.Elva OTT
 DTSTART:20241212
 DTEND:20241213
