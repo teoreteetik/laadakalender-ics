@@ -561,6 +561,15 @@ URL:https://laadakalender.ee/kurepalu-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.Tamsalu kogukonna jõululaat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Lääne-Viru: Tamsalu kogukonna jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tamsalu-kogukonna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
@@ -1029,6 +1038,15 @@ URL:https://laadakalender.ee/vastse-kuuste-joulumeelne-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Metsanurme jõuluaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Harju: Metsanurme jõuluaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/metsanurme-jouluaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-12.Elva OTT
 DTSTART:20241212
 DTEND:20241213
@@ -1191,6 +1209,24 @@ URL:https://laadakalender.ee/kehra-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.ERMi jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Tartu: ERMi jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ermi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Kiisa jõuluturg
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Kiisa jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kiisa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1269,6 +1305,15 @@ DTEND:20241216
 SUMMARY:Viljandi: Jõulud Viljandis
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/joulud-viljandis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.ERMi jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Tartu: ERMi jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ermi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1503,6 +1548,15 @@ DTEND:20241222
 SUMMARY:Rapla: Rapla jõulumaa jõuluturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-joulumaa-ja-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Saku jõulutelk
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Harju: Saku jõulutelk
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/saku-joulutelk/
 END:VEVENT
 
 BEGIN:VEVENT
