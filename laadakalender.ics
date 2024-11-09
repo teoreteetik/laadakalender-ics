@@ -570,6 +570,15 @@ URL:https://laadakalender.ee/tamsalu-kogukonna-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.Narva advendilaat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
@@ -657,6 +666,15 @@ DTEND:20241207
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-06.Kärdla jõululaat
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Hiiu: Kärdla jõululaat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/kardla-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -885,6 +903,24 @@ URL:https://laadakalender.ee/alatskivi-lossi-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Narva advendilaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Kärdla jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Hiiu: Kärdla jõululaat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/kardla-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1044,6 +1080,24 @@ DTEND:20241209
 SUMMARY:Harju: Metsanurme jõuluaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/metsanurme-jouluaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Narva advendilaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-11.Põlva advendiajalaat
+DTSTART:20241211
+DTEND:20241212
+SUMMARY:Põlva: Põlva advendiajalaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/polva-advendiajalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1227,6 +1281,15 @@ URL:https://laadakalender.ee/kiisa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Narva advendilaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1314,6 +1377,15 @@ DTEND:20241216
 SUMMARY:Tartu: ERMi jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/ermi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Narva advendilaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1560,6 +1632,15 @@ URL:https://laadakalender.ee/saku-joulutelk/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Narva advendilaat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
@@ -1596,12 +1677,84 @@ URL:https://laadakalender.ee/joulud-viljandis/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-22.Narva advendilaat
+DTSTART:20241222
+DTEND:20241223
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-23.Järve keskuse jõululaat
 DTSTART:20241223
 DTEND:20241224
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-23.Narva advendilaat
+DTSTART:20241223
+DTEND:20241224
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-24.Narva advendilaat
+DTSTART:20241224
+DTEND:20241225
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-25.Narva advendilaat
+DTSTART:20241225
+DTEND:20241226
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-26.Narva advendilaat
+DTSTART:20241226
+DTEND:20241227
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-27.Narva advendilaat
+DTSTART:20241227
+DTEND:20241228
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-28.Narva advendilaat
+DTSTART:20241228
+DTEND:20241229
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-29.Narva advendilaat
+DTSTART:20241229
+DTEND:20241230
+SUMMARY:Ida-Viru: Narva advendilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
