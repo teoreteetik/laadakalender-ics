@@ -921,6 +921,15 @@ URL:https://laadakalender.ee/kardla-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Eriline Kingiturg Astangul
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Harju: Eriline Kingiturg Astangul
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eriline-kingiturg-astangul/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1125,6 +1134,15 @@ DTEND:20241213
 SUMMARY:Harju: Jõuluootuse turg Tabasalus
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-12.Heategevuslik jõululaat "Oma asi"
+DTSTART:20241212
+DTEND:20241213
+SUMMARY:Saare: Heategevuslik jõululaat "Oma asi"
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/heategevuslik-joululaat-oma-asi/
 END:VEVENT
 
 BEGIN:VEVENT
