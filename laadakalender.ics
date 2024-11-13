@@ -579,6 +579,15 @@ URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.Ääsmäe jõuluorg
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Harju: Ääsmäe jõuluorg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-jouluorg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
@@ -1404,6 +1413,15 @@ DTEND:20241216
 SUMMARY:Ida-Viru: Narva advendilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Telliskivi Loomelinnaku jõuluturg
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Harju: Telliskivi Loomelinnaku jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/telliskivi-loomelinnaku-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
