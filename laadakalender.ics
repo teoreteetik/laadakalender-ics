@@ -1110,6 +1110,15 @@ URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Kuusalu kihelkonna jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Harju: Kuusalu kihelkonna jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-kihelkonna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
@@ -1674,6 +1683,15 @@ DTEND:20241222
 SUMMARY:Ida-Viru: Narva advendilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Otepää talveturg
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Valga: Otepää talveturg
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-talveturg/
 END:VEVENT
 
 BEGIN:VEVENT
