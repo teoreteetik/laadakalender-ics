@@ -471,6 +471,15 @@ URL:https://laadakalender.ee/alavere-joululaat-jouluootuses/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-24.Kiiu kõrtsi kirbukas
+DTSTART:20241124
+DTEND:20241125
+SUMMARY:Harju: Kiiu kõrtsi kirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kiiu-kortsi-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-28.Elva OTT
 DTSTART:20241128
 DTEND:20241129
@@ -939,6 +948,15 @@ URL:https://laadakalender.ee/eriline-kingiturg-astangul/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Jõulu käsitöölaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Viljandi: Jõulu käsitöölaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/joulu-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1119,12 +1137,57 @@ URL:https://laadakalender.ee/kuusalu-kihelkonna-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Puka jõuluvana laat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Valga: Puka jõuluvana laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/puka-ohtune-jouluvana-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Haapsalu jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Lääne: Haapsalu jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-kultuurikeskus-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Vastseliina jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Võru: Vastseliina jõululaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/vastseliina-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
 SUMMARY:Põlva: Põlva advendiajalaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/polva-advendiajalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-11.Jõululaat "Ise tehtud, hästi tehtud"
+DTSTART:20241211
+DTEND:20241212
+SUMMARY:Võru: Jõululaat "Ise tehtud, hästi tehtud"
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/joululaat-ise-tehtud-hasti-tehtud/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-11.Ardu jõululaat
+DTSTART:20241211
+DTEND:20241212
+SUMMARY:Harju: Ardu jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/ardu-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1326,6 +1389,15 @@ URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Lõpe jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Pärnu: Lõpe jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lope-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1434,12 +1506,39 @@ URL:https://laadakalender.ee/telliskivi-loomelinnaku-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-15.Simuna jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Lääne-Viru: Simuna jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/simuna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Uue-Antsla advendilaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Võru: Uue-Antsla advendilaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/uue-antsla-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-16.Järve keskuse jõululaat
 DTSTART:20241216
 DTEND:20241217
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-16.Eidapere jõululaat
+DTSTART:20241216
+DTEND:20241217
+SUMMARY:Rapla: Eidapere jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/eidapere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1692,6 +1791,15 @@ DTEND:20241222
 SUMMARY:Valga: Otepää talveturg
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-talveturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Kirbla jõuluturg
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Lääne: Kirbla jõuluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kirbla-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
