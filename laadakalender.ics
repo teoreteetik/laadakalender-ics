@@ -1164,6 +1164,15 @@ URL:https://laadakalender.ee/vastseliina-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Kuremaa lossi jõuluturg
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Jõgeva: Kuremaa lossi jõuluturg
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kuremaa-lossi-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
