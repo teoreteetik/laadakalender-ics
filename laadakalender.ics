@@ -606,6 +606,15 @@ URL:https://laadakalender.ee/vaatsa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-04.Märjamaa õhtuturg
+DTSTART:20241204
+DTEND:20241205
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-05.Magistrali keskuse jõululaat
 DTSTART:20241205
 DTEND:20241206
@@ -954,6 +963,15 @@ DTEND:20241208
 SUMMARY:Viljandi: Jõulu käsitöölaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/joulu-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-07.Paide "Jõulukroon"
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Järva: Paide "Jõulukroon"
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-joulukroon/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1407,6 +1425,15 @@ URL:https://laadakalender.ee/lope-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Turba OTT
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1575,6 +1602,15 @@ DTEND:20241219
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-18.Märjamaa õhtuturg
+DTSTART:20241218
+DTEND:20241219
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1809,6 +1845,15 @@ DTEND:20241222
 SUMMARY:Lääne: Kirbla jõuluturg
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/kirbla-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Turba OTT
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
