@@ -975,6 +975,15 @@ URL:https://laadakalender.ee/paide-joulukroon/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Haanja jõulumeelne laat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Võru: Haanja jõulumeelne laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/haanja-joulumeelne-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
