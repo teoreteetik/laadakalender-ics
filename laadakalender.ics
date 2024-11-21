@@ -444,6 +444,15 @@ URL:https://laadakalender.ee/karksi-nuia-kadripaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-23.Nasva kadripäeva laat
+DTSTART:20241123
+DTEND:20241124
+SUMMARY:Saare: Nasva kadripäeva laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/nasva-kadripaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-11-24.Suur kadrilaat
 DTSTART:20241124
 DTEND:20241125
@@ -525,6 +534,15 @@ URL:https://laadakalender.ee/abja-paluoja-jouluootuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-11-30.Koeru advendilaat
+DTSTART:20241130
+DTEND:20241201
+SUMMARY:Järva: Koeru advendilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/koeru-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-01.Rapla jõulukuu laat
 DTSTART:20241201
 DTEND:20241202
@@ -597,6 +615,15 @@ URL:https://laadakalender.ee/aasmae-jouluorg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.EHTNE Saaremaa jõuluturg
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
@@ -648,6 +675,15 @@ DTEND:20241206
 SUMMARY:Harju: Jõuluootuse turg Tabasalus
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-05.Tallinna puuetega inimeste jõuluturg
+DTSTART:20241205
+DTEND:20241206
+SUMMARY:Harju: Tallinna puuetega inimeste jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-puuetega-inimeste-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -984,6 +1020,15 @@ URL:https://laadakalender.ee/haanja-joulumeelne-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.EHTNE Saaremaa jõuluturg
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1197,6 +1242,15 @@ DTEND:20241209
 SUMMARY:Jõgeva: Kuremaa lossi jõuluturg
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kuremaa-lossi-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.EHTNE Saaremaa jõuluturg
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1443,6 +1497,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.EHTNE Saaremaa jõuluturg
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1569,6 +1632,15 @@ URL:https://laadakalender.ee/uue-antsla-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-15.EHTNE Saaremaa jõuluturg
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-16.Järve keskuse jõululaat
 DTSTART:20241216
 DTEND:20241217
@@ -1659,6 +1731,15 @@ URL:https://laadakalender.ee/jouluootuse-turg-tabasalus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-19.Kuressaare jõuluturg
+DTSTART:20241219
+DTEND:20241220
+SUMMARY:Saare: Kuressaare jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-20.Tartu jõuluturg
 DTSTART:20241220
 DTEND:20241221
@@ -1737,6 +1818,15 @@ DTEND:20241221
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Kuressaare jõuluturg
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Saare: Kuressaare jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1866,6 +1956,24 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Kuressaare jõuluturg
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Saare: Kuressaare jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.EHTNE Saaremaa jõuluturg
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
@@ -1911,6 +2019,15 @@ URL:https://laadakalender.ee/narva-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-22.EHTNE Saaremaa jõuluturg
+DTSTART:20241222
+DTEND:20241223
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-23.Järve keskuse jõululaat
 DTSTART:20241223
 DTEND:20241224
@@ -1926,6 +2043,15 @@ DTEND:20241224
 SUMMARY:Ida-Viru: Narva advendilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-23.EHTNE Saaremaa jõuluturg
+DTSTART:20241223
+DTEND:20241224
+SUMMARY:Saare: EHTNE Saaremaa jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
