@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/kardla-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-06.Jõgeva jõululaat
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Jõgeva: Jõgeva jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/blog/jogeva-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-07.Mustamäe keskuse jõulukingituste laat
 DTSTART:20241207
 DTEND:20241208
