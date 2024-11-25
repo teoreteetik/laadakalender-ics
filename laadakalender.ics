@@ -624,6 +624,15 @@ URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-01.1. advendi laat
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Rapla: 1. advendi laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-1-advendilaat-turuplats/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-03.Väätsa jõuluturg
 DTSTART:20241203
 DTEND:20241204
