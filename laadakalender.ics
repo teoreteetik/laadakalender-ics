@@ -624,12 +624,21 @@ URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-12-01.1. advendi laat
+UID:2024-12-01.Rapla advendilaat
 DTSTART:20241201
 DTEND:20241202
-SUMMARY:Rapla: 1. advendi laat
+SUMMARY:Rapla: Rapla advendilaat
 LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-1-advendilaat-turuplats/
+URL:https://laadakalender.ee/rapla-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-01.Vastemõisa heategevuslik jõuluturg
+DTSTART:20241201
+DTEND:20241202
+SUMMARY:Viljandi: Vastemõisa heategevuslik jõuluturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vastemoisa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -756,6 +765,15 @@ DTEND:20241207
 SUMMARY:Jõgeva: Jõgeva jõululaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/blog/jogeva-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-06.Põltsamaa turutänava laadapäevad
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1047,6 +1065,15 @@ URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Põltsamaa turutänava laadapäevad
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaaw, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -1281,6 +1308,33 @@ URL:https://laadakalender.ee/ilus-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Heimtali jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Viljandi: Heimtali jõululaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/heimtali-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Tabivere jõulutäika
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Tartu: Tabivere jõulutäika
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tabivere-joulutaika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-08.Teise Ringi Poe jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Harju: Teise Ringi Poe jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/teise-ringi-poe-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
@@ -1368,6 +1422,15 @@ DTEND:20241214
 SUMMARY:Võru: ate öine jõuluturg
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/ate-oine-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-13.Valga jõuluturg
+DTSTART:20241213
+DTEND:20241214
+SUMMARY:Valga: Valga jõuluturg
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1542,6 +1605,15 @@ URL:https://laadakalender.ee/padise-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Heategevuslik jõululaat Topeltkink
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Heategevuslik jõululaat Topeltkink
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/joululaat-topeltkink/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1686,6 +1758,24 @@ URL:https://laadakalender.ee/elva-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-15.Põltsamaa lossi jõuluOTT ja laat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Jõgeva: Põltsamaa lossi jõuluOTT ja laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-lossi-jouluott-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Jõgeva jõululaat ja perepäev
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Jõgeva: Jõgeva jõululaat ja perepäev
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-joululaat-ja-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-16.Järve keskuse jõululaat
 DTSTART:20241216
 DTEND:20241217
@@ -1704,12 +1794,30 @@ URL:https://laadakalender.ee/eidapere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-16.Põltsamaa Turutänava jõulumüük
+DTSTART:20241216
+DTEND:20241217
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-17.Järve keskuse jõululaat
 DTSTART:20241217
 DTEND:20241218
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-17.Põltsamaa Turutänava jõulumüük
+DTSTART:20241217
+DTEND:20241218
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1737,6 +1845,24 @@ DTEND:20241219
 SUMMARY:Rapla: Märjamaa õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-18.Põltsamaa Turutänava jõulumüük
+DTSTART:20241218
+DTEND:20241219
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-18.Pae keskuse jõululaat
+DTSTART:20241218
+DTEND:20241219
+SUMMARY:Harju: Pae keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1782,6 +1908,24 @@ DTEND:20241220
 SUMMARY:Saare: Kuressaare jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-19.Põltsamaa Turutänava jõulumüük
+DTSTART:20241219
+DTEND:20241220
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-19.Pae keskuse jõululaat
+DTSTART:20241219
+DTEND:20241220
+SUMMARY:Harju: Pae keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1872,6 +2016,24 @@ DTEND:20241221
 SUMMARY:Saare: Kuressaare jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Võru jõuluturg
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Võru: Võru jõuluturg
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Põltsamaa Turutänava jõulumüük
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2019,6 +2181,33 @@ URL:https://laadakalender.ee/ehtne-saaremaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Abja-Paluoja jõululaat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Viljandi: Abja-Paluoja jõululaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Valgeranna Muusikatalli jõuluturg
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Pärnu: Valgeranna Muusikatalli jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Põltsamaa Turutänava jõulumüük
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
@@ -2079,6 +2268,24 @@ DTEND:20241223
 SUMMARY:Saare: Kihelkonna Rahvamaja jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kihelkonna-rahvamaja-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-22.Valgeranna Muusikatalli jõuluturg
+DTSTART:20241222
+DTEND:20241223
+SUMMARY:Pärnu: Valgeranna Muusikatalli jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-22.Põltsamaa Turutänava jõulumüük
+DTSTART:20241222
+DTEND:20241223
+SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
 END:VEVENT
 
 BEGIN:VEVENT
