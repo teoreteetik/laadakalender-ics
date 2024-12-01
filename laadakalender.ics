@@ -1776,6 +1776,15 @@ URL:https://laadakalender.ee/jogeva-joululaat-ja-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-15.Kohila jõulukuu laat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Rapla: Kohila jõulukuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-joulukuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-16.Järve keskuse jõululaat
 DTSTART:20241216
 DTEND:20241217
