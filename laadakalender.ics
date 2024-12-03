@@ -543,6 +543,15 @@ URL:https://laadakalender.ee/arukula-vaba-waldorfkooli-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.ARSi hüpikmüük
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Harju: ARSi hüpikmüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/arsi-hupikmuuk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -804,6 +813,15 @@ URL:https://laadakalender.ee/teise-ringi-poe-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Riisipere advendilaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Harju: Riisipere advendilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/riisipere-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
@@ -900,6 +918,15 @@ DTEND:20241214
 SUMMARY:Valga: Valga jõuluturg
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/valga-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-13.Tallinna raamatumessi jõulumüük
+DTSTART:20241213
+DTEND:20241214
+SUMMARY:Harju: Tallinna raamatumessi jõulumüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-raamatumessi-joulumuuk/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1101,6 +1128,24 @@ URL:https://laadakalender.ee/kiltsi-moisakooli-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Tallinna raamatumessi jõulumüük
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Tallinna raamatumessi jõulumüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-raamatumessi-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Võsu jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Lääne-Viru: Võsu jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vosu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1269,6 +1314,24 @@ DTEND:20241216
 SUMMARY:Rapla: Kohila jõulukuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-joulukuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Tallinna raamatumessi jõulumüük
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Harju: Tallinna raamatumessi jõulumüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-raamatumessi-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Saue jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Harju: Saue jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/saue-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1701,6 +1764,15 @@ DTEND:20241222
 SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Laagri toomapäeva laat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Harju: Laagri toomapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laagri-toomapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
