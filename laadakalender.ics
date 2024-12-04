@@ -120,6 +120,15 @@ URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-04.Kõrveküla OTT
+DTSTART:20241204
+DTEND:20241205
+SUMMARY:Tartu: Kõrveküla OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/korvekula-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-05.Magistrali keskuse jõululaat
 DTSTART:20241205
 DTEND:20241206
@@ -234,6 +243,15 @@ DTEND:20241207
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-06.Ülenurme OTT
+DTSTART:20241206
+DTEND:20241207
+SUMMARY:Tartu: Ülenurme OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -822,6 +840,15 @@ URL:https://laadakalender.ee/riisipere-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Rogosi mõisa õhtuturg
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Võru: Rogosi mõisa õhtuturg
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/rogosi-moisa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
@@ -846,6 +873,15 @@ DTEND:20241212
 SUMMARY:Harju: Ardu jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ardu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-11.Raadi OTT
+DTSTART:20241211
+DTEND:20241212
+SUMMARY:Tartu: Raadi OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/raadi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -927,6 +963,15 @@ DTEND:20241214
 SUMMARY:Harju: Tallinna raamatumessi jõulumüük
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-raamatumessi-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-13.Ülenurme OTT
+DTSTART:20241213
+DTEND:20241214
+SUMMARY:Tartu: Ülenurme OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1425,6 +1470,15 @@ URL:https://laadakalender.ee/pae-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-18.Kõrveküla OTT
+DTSTART:20241218
+DTEND:20241219
+SUMMARY:Tartu: Kõrveküla OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/korvekula-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-19.Järve keskuse jõululaat
 DTSTART:20241219
 DTEND:20241220
@@ -1593,6 +1647,15 @@ DTEND:20241221
 SUMMARY:Jõgeva: Põltsamaa Turutänava jõulumüük
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-20.Ülenurme OTT
+DTSTART:20241220
+DTEND:20241221
+SUMMARY:Tartu: Ülenurme OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1917,6 +1980,15 @@ DTEND:20241228
 SUMMARY:Ida-Viru: Narva advendilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-27.Ülenurme OTT
+DTSTART:20241227
+DTEND:20241228
+SUMMARY:Tartu: Ülenurme OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-ott/
 END:VEVENT
 
 BEGIN:VEVENT
