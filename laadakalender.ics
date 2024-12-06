@@ -570,6 +570,15 @@ URL:https://laadakalender.ee/arsi-hupikmuuk/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-07.Põlva jõululaat
+DTSTART:20241207
+DTEND:20241208
+SUMMARY:Põlva: Põlva jõululaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/polva-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-08.Põhja-Tallinna suur jõululaat
 DTSTART:20241208
 DTEND:20241209
@@ -849,6 +858,24 @@ URL:https://laadakalender.ee/rogosi-moisa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-08.Kabala jõululaat
+DTSTART:20241208
+DTEND:20241209
+SUMMARY:Rapla: Kabala jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kabala-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-10.Otepää Gümnaasiumi jõululaat
+DTSTART:20241210
+DTEND:20241211
+SUMMARY:Valga: Otepää Gümnaasiumi jõululaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-gumnaasiumi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-11.Põlva advendiajalaat
 DTSTART:20241211
 DTEND:20241212
@@ -885,6 +912,15 @@ URL:https://laadakalender.ee/raadi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-11.Põlva Päevakeskuse jõululaat
+DTSTART:20241211
+DTEND:20241212
+SUMMARY:Põlva: Põlva Päevakeskuse jõululaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/polva-paevakeskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-12.Elva OTT
 DTSTART:20241212
 DTEND:20241213
@@ -918,6 +954,15 @@ DTEND:20241213
 SUMMARY:Saare: Heategevuslik jõululaat "Oma asi"
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/heategevuslik-joululaat-oma-asi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-12.Vana-Vigala jõululaat ja kohvik
+DTSTART:20241212
+DTEND:20241213
+SUMMARY:Rapla: Vana-Vigala jõululaat ja kohvik
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vana-vigala-ttk-joululaat-ja-kohvik/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -972,6 +1017,15 @@ DTEND:20241214
 SUMMARY:Tartu: Ülenurme OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/ulenurme-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-13.Ülenurme jõululaat
+DTSTART:20241213
+DTEND:20241214
+SUMMARY:Tartu: Ülenurme jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1191,6 +1245,24 @@ URL:https://laadakalender.ee/vosu-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Rapla õpilasfirmade laat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Rapla: Rapla õpilasfirmade laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/opilasfirmade-laat-raplas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Valgu jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Rapla: Valgu jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/valgu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
@@ -1377,6 +1449,15 @@ DTEND:20241216
 SUMMARY:Harju: Saue jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/saue-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-15.Oru jõululaat
+DTSTART:20241215
+DTEND:20241216
+SUMMARY:Harju: Oru jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oru-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
