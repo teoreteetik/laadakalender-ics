@@ -1308,6 +1308,15 @@ URL:https://laadakalender.ee/lounakeskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-14.Eesti muuseumipoodide jõuluturg
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Eesti muuseumipoodide jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-muuseumipoodide-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-15.Jõhvi jõululaat
 DTSTART:20241215
 DTEND:20241216
