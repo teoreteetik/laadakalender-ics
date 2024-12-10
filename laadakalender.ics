@@ -1668,15 +1668,6 @@ URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-12-19.Elva OTT
-DTSTART:20241219
-DTEND:20241220
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2024-12-19.Jõuluootuse turg Tabasalus
 DTSTART:20241219
 DTEND:20241220
@@ -2037,6 +2028,15 @@ URL:https://laadakalender.ee/lounakeskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Elva jõulu OTT
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Tartu: Elva jõulu OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
@@ -2223,6 +2223,15 @@ DTEND:20241230
 SUMMARY:Ida-Viru: Narva advendilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-30.Elva OTT
+DTSTART:20241230
+DTEND:20241231
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2892,12 +2901,30 @@ URL:https://laadakalender.ee/tallinna-merepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Jäneda Talupäevad
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Lääne-Viru: Jäneda Talupäevad
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/janeda-talupaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-26.Youngtimer Camp
 DTSTART:20250726
 DTEND:20250727
 SUMMARY:Harju: Youngtimer Camp
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/youngtimer-camp/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-27.Jäneda Talupäevad
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Lääne-Viru: Jäneda Talupäevad
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/janeda-talupaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2979,6 +3006,15 @@ DTEND:20250817
 SUMMARY:Lääne: Haeska laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haeska-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Jäneda sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Lääne-Viru: Jäneda sügislaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/janeda-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
