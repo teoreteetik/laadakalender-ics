@@ -894,15 +894,6 @@ URL:https://laadakalender.ee/polva-advendiajalaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2024-12-11.Jõululaat "Ise tehtud, hästi tehtud"
-DTSTART:20241211
-DTEND:20241212
-SUMMARY:Võru: Jõululaat "Ise tehtud, hästi tehtud"
-LOCATION:Võrumaa, Estonia
-URL:https://laadakalender.ee/joululaat-ise-tehtud-hasti-tehtud/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2024-12-11.Ardu jõululaat
 DTSTART:20241211
 DTEND:20241212
@@ -1314,6 +1305,15 @@ DTEND:20241215
 SUMMARY:Harju: Eesti muuseumipoodide jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-muuseumipoodide-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-14.Pirita jõululaat
+DTSTART:20241214
+DTEND:20241215
+SUMMARY:Harju: Pirita jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pirita-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2034,6 +2034,15 @@ DTEND:20241222
 SUMMARY:Tartu: Elva jõulu OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2024-12-21.Laekvere jõululaat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Lääne-Viru: Laekvere jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/laekvere-rahvamaja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
