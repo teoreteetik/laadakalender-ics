@@ -2046,6 +2046,15 @@ URL:https://laadakalender.ee/laekvere-rahvamaja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Haapsalu Turu jõululaat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Lääne: Haapsalu Turu jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-turu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
