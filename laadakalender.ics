@@ -2055,6 +2055,15 @@ URL:https://laadakalender.ee/haapsalu-turu-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2024-12-21.Loksa detsembri laat
+DTSTART:20241221
+DTEND:20241222
+SUMMARY:Harju: Loksa detsembri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-detsembri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2024-12-22.Jõulumüük Mustamäe Keskuses
 DTSTART:20241222
 DTEND:20241223
