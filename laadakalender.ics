@@ -2271,6 +2271,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-08.Märjamaa õhtuturg
+DTSTART:20250108
+DTEND:20250109
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-10.Oru OTT
 DTSTART:20250110
 DTEND:20250111
@@ -2304,6 +2313,15 @@ DTEND:20250118
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-01-22.Märjamaa õhtuturg
+DTSTART:20250122
+DTEND:20250123
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
