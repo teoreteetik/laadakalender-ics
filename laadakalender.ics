@@ -2271,6 +2271,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-04.Kolmekuningapäeva laat
+DTSTART:20250104
+DTEND:20250105
+SUMMARY:Lääne: Kolmekuningapäeva laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kolmekuningapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-08.Märjamaa õhtuturg
 DTSTART:20250108
 DTEND:20250109
@@ -2304,6 +2313,15 @@ DTEND:20250113
 SUMMARY:Harju: Mustamäe Keskuse talvetoodete laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-keskuse-talvetoodete-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-01-12.Kiviõli uusaastalaat
+DTSTART:20250112
+DTEND:20250113
+SUMMARY:Ida-Viru: Kiviõli uusaastalaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-uusaastalaat/
 END:VEVENT
 
 BEGIN:VEVENT
