@@ -75,6 +75,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-18.Karksi-Nuia jaanuarikuu laat
+DTSTART:20250118
+DTEND:20250119
+SUMMARY:Viljandi: Karksi-Nuia jaanuarikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-jaanuarikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-22.Märjamaa õhtuturg
 DTSTART:20250122
 DTEND:20250123
