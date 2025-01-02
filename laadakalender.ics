@@ -39,12 +39,30 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-10.Põltsamaa turutänava laadapäevad
+DTSTART:20250110
+DTEND:20250111
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-11.Mustamäe Keskuse talvetoodete laat
 DTSTART:20250111
 DTEND:20250112
 SUMMARY:Harju: Mustamäe Keskuse talvetoodete laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-keskuse-talvetoodete-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-01-11.Põltsamaa turutänava laadapäevad
+DTSTART:20250111
+DTEND:20250112
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -147,6 +165,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-07.Põltsamaa turutänava laadapäevad
+DTSTART:20250207
+DTEND:20250208
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-08.Sõbrapäeva laat Mustamäe Keskuses
 DTSTART:20250208
 DTEND:20250209
@@ -165,6 +192,15 @@ URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-08.Põltsamaa turutänava laadapäevad
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-09.Sõbrapäeva laat Mustamäe Keskuses
 DTSTART:20250209
 DTEND:20250210
@@ -180,6 +216,15 @@ DTEND:20250210
 SUMMARY:Harju: Eesti Õpilasfirmade laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-02-12.Põltsamaa OTT
+DTSTART:20250212
+DTEND:20250213
+SUMMARY:Jõgeva: Põltsamaa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -228,6 +273,15 @@ URL:https://laadakalender.ee/meremess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-07.Põltsamaa turutänava laadapäevad
+DTSTART:20250307
+DTEND:20250308
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-08.Mustamäe keskuse terviselaat
 DTSTART:20250308
 DTEND:20250309
@@ -246,6 +300,15 @@ URL:https://laadakalender.ee/meremess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Põltsamaa turutänava laadapäevad
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -261,6 +324,15 @@ DTEND:20250310
 SUMMARY:Harju: Meremess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/meremess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-12.Põltsamaa OTT
+DTSTART:20250312
+DTEND:20250313
+SUMMARY:Jõgeva: Põltsamaa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -309,12 +381,30 @@ URL:https://laadakalender.ee/eesti-ehitab/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-09.Põltsamaa OTT
+DTSTART:20250409
+DTEND:20250410
+SUMMARY:Jõgeva: Põltsamaa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-10.Ehitusmess Eesti ehitab
 DTSTART:20250410
 DTEND:20250411
 SUMMARY:Harju: Ehitusmess Eesti ehitab
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-ehitab/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-10.Põltsamaa turutänava laadapäevad
+DTSTART:20250410
+DTEND:20250411
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -333,6 +423,15 @@ DTEND:20250412
 SUMMARY:Harju: Ehitusmess Eesti ehitab
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-ehitab/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-11.Põltsamaa turutänava laadapäevad
+DTSTART:20250411
+DTEND:20250412
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -462,6 +561,24 @@ URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-07.Põltsamaa OTT
+DTSTART:20250507
+DTEND:20250508
+SUMMARY:Jõgeva: Põltsamaa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-09.Põltsamaa turutänava laadapäevad
+DTSTART:20250509
+DTEND:20250510
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-10.Tartu Kevadlaat
 DTSTART:20250510
 DTEND:20250511
@@ -477,6 +594,15 @@ DTEND:20250511
 SUMMARY:Ida-Viru: Toila Suur kevadlaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/toila-suur-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Põltsamaa turutänava laadapäevad
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
