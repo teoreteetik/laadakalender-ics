@@ -705,6 +705,15 @@ URL:https://laadakalender.ee/jogeva-linnapaevad-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Tere Perepäev
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Lääne-Viru: Tere Perepäev
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tere-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
