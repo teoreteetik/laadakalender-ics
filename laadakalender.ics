@@ -66,6 +66,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-11.Loksa jaanuarikuu laat
+DTSTART:20250111
+DTEND:20250112
+SUMMARY:Harju: Loksa jaanuarikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-jaanuarikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-12.Mustamäe Keskuse talvetoodete laat
 DTSTART:20250112
 DTEND:20250113
