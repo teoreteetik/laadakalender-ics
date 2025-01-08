@@ -30,6 +30,15 @@ URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-09.Tabasalu OTT
+DTSTART:20250109
+DTEND:20250110
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-10.Oru OTT
 DTSTART:20250110
 DTEND:20250111
@@ -111,6 +120,15 @@ URL:https://laadakalender.ee/pae-keskuse-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-16.Tabasalu OTT
+DTSTART:20250116
+DTEND:20250117
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-17.Oru OTT
 DTSTART:20250117
 DTEND:20250118
@@ -138,12 +156,30 @@ URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-23.Tabasalu OTT
+DTSTART:20250123
+DTEND:20250124
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-24.Oru OTT
 DTSTART:20250124
 DTEND:20250125
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-01-30.Tabasalu OTT
+DTSTART:20250130
+DTEND:20250131
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -840,6 +876,15 @@ URL:https://laadakalender.ee/kuressaare-tanavafestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-31.Sõmeru Maaelufestival
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Lääne-Viru: Sõmeru Maaelufestival
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/maaelufestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Itaalia veinipidu Haapsalus
 DTSTART:20250531
 DTEND:20250601
@@ -1002,6 +1047,24 @@ URL:https://laadakalender.ee/alatskivi-vanavara-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Hiiumaa Suvine Käsitöö- ja omatoodangu laat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Hiiu: Hiiumaa Suvine Käsitöö- ja omatoodangu laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-suvine-kasitoo-ja-omatoodangu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-12.Rapla melu - käsitöö- ja melulaat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Rapla: Rapla melu - käsitöö- ja melulaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-melu-kasitoo-ja-melulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -1053,6 +1116,15 @@ DTEND:20250727
 SUMMARY:Lääne-Viru: Jäneda Talupäevad
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/janeda-talupaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Hiiumaa kila-kola laat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Hiiu: Hiiumaa kila-kola laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-kila-kola-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1200,12 +1272,30 @@ URL:https://laadakalender.ee/ulenurme-sugislaat-ja-touloom/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-07.Eesti leiva päev ja sügislaat
+DTSTART:20250907
+DTEND:20250908
+SUMMARY:Harju: Eesti leiva päev ja sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-leiva-paev-ja-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-13.Tartu Maarjalaat
 DTSTART:20250913
 DTEND:20250914
 SUMMARY:Tartu: Tartu Maarjalaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-maarjalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Kirjandustänava festival
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Harju: Kirjandustänava festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kirjandustanava-festival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1233,6 +1323,42 @@ DTEND:20251029
 SUMMARY:Võru: Lindora laat
 LOCATION:Võrumaa, Estonia
 URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-06.Mardilaat
+DTSTART:20251106
+DTEND:20251107
+SUMMARY:Harju: Mardilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-07.Mardilaat
+DTSTART:20251107
+DTEND:20251108
+SUMMARY:Harju: Mardilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-08.Mardilaat
+DTSTART:20251108
+DTEND:20251109
+SUMMARY:Harju: Mardilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Hiiumaa Talvine Käsitöö- ja omatoodangu laat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Hiiu: Hiiumaa Talvine Käsitöö- ja omatoodangu laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-talvine-kasitoo-ja-omatoodangu-laat/
 END:VEVENT
 
 END:VCALENDAR
