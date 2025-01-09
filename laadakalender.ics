@@ -219,6 +219,15 @@ URL:https://laadakalender.ee/turismimess-tourest/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-06.Elva OTT
+DTSTART:20250206
+DTEND:20250207
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-07.Oru OTT
 DTSTART:20250207
 DTEND:20250208
@@ -345,6 +354,15 @@ URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-20.Elva OTT
+DTSTART:20250220
+DTEND:20250221
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-21.Oru OTT
 DTSTART:20250221
 DTEND:20250222
@@ -387,6 +405,15 @@ DTEND:20250301
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-06.Elva OTT
+DTSTART:20250306
+DTEND:20250307
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -471,12 +498,30 @@ URL:https://laadakalender.ee/poltsamaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-13.Elva OTT
+DTSTART:20250313
+DTEND:20250314
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-14.Oru OTT
 DTSTART:20250314
 DTEND:20250315
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-20.Elva OTT
+DTSTART:20250320
+DTEND:20250321
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -489,12 +534,30 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-27.Elva OTT
+DTSTART:20250327
+DTEND:20250328
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-28.Oru OTT
 DTSTART:20250328
 DTEND:20250329
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-03.Elva OTT
+DTSTART:20250403
+DTEND:20250404
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -540,6 +603,15 @@ DTEND:20250411
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-10.Elva OTT
+DTSTART:20250410
+DTEND:20250411
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -597,6 +669,15 @@ URL:https://laadakalender.ee/mustamae-keskuse-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-17.Elva OTT
+DTSTART:20250417
+DTEND:20250418
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-18.Oru OTT
 DTSTART:20250418
 DTEND:20250419
@@ -612,6 +693,15 @@ DTEND:20250425
 SUMMARY:Tartu: Maamess
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/maamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-24.Elva OTT
+DTSTART:20250424
+DTEND:20250425
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -687,6 +777,15 @@ URL:https://laadakalender.ee/tallinn-coffee-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Elva OTT
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
@@ -702,6 +801,15 @@ DTEND:20250508
 SUMMARY:Jõgeva: Põltsamaa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-08.Elva OTT
+DTSTART:20250508
+DTEND:20250509
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -747,6 +855,15 @@ DTEND:20250512
 SUMMARY:Harju: Põhja-Tallinna suur kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-tallinna-suur-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-15.Elva OTT
+DTSTART:20250515
+DTEND:20250516
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -813,12 +930,21 @@ URL:https://laadakalender.ee/turi-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-31.Tuulekala Festival
-DTSTART:20250531
-DTEND:20250601
-SUMMARY:Hiiu: Tuulekala Festival
-LOCATION:Hiiumaa, Estonia
-URL:https://laadakalender.ee/tuulekala-festival/
+UID:2025-05-22.Elva OTT
+DTSTART:20250522
+DTEND:20250523
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-23.Kuressaare Aiandus- ja Lillepäevad
+DTSTART:20250523
+DTEND:20250524
+SUMMARY:Saare: Kuressaare Aiandus- ja Lillepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -858,6 +984,15 @@ URL:https://laadakalender.ee/tere-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Kuressaare Aiandus- ja Lillepäevad
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Saare: Kuressaare Aiandus- ja Lillepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -876,6 +1011,15 @@ URL:https://laadakalender.ee/kuressaare-tanavafestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-29.Elva OTT
+DTSTART:20250529
+DTEND:20250530
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Sõmeru Maaelufestival
 DTSTART:20250531
 DTEND:20250601
@@ -891,6 +1035,24 @@ DTEND:20250601
 SUMMARY:Lääne: Itaalia veinipidu Haapsalus
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/itaalia-veinipidu-haapsalus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Tuulekala Festival
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Hiiu: Tuulekala Festival
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/tuulekala-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-05.Elva OTT
+DTSTART:20250605
+DTEND:20250606
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -966,6 +1128,33 @@ URL:https://laadakalender.ee/viljandi-hansalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-12.Elva OTT
+DTSTART:20250612
+DTEND:20250613
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-19.Elva OTT
+DTSTART:20250619
+DTEND:20250620
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-21.Põltsamaa Lossipäev
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Jõgeva: Põltsamaa Lossipäev
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-lossipaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -975,10 +1164,19 @@ URL:https://laadakalender.ee/pohja-tallinna-suur-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-07-05.Antiigilaat Kila-Kola
+UID:2025-06-26.Elva OTT
+DTSTART:20250626
+DTEND:20250627
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-05.Antiigi- ja vanavaralaat "Kila-kola"
 DTSTART:20250705
 DTEND:20250706
-SUMMARY:Järva: Antiigilaat Kila-Kola
+SUMMARY:Järva: Antiigi- ja vanavaralaat "Kila-kola"
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/antiigilaat-kila-kola/
 END:VEVENT
@@ -1137,6 +1335,15 @@ URL:https://laadakalender.ee/youngtimer-camp/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Uma üülaat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Valga: Uma üülaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/kotusso-uma-uulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -1182,6 +1389,15 @@ URL:https://laadakalender.ee/ollesummer/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Viru Folk - käsitöölaat
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Lääne-Viru: Viru Folk - käsitöölaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-folk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -1206,6 +1422,15 @@ DTEND:20250810
 SUMMARY:Ida-Viru: Narva-Jõesuu linnapäev
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-joesuu-linnapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Viru Folk - käsitöölaat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Lääne-Viru: Viru Folk - käsitöölaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-folk/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1272,6 +1497,15 @@ URL:https://laadakalender.ee/ulenurme-sugislaat-ja-touloom/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.Haapsalu gurmeeturg
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Lääne: Haapsalu gurmeeturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/gurmeeturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-07.Eesti leiva päev ja sügislaat
 DTSTART:20250907
 DTEND:20250908
@@ -1322,7 +1556,7 @@ DTSTART:20251028
 DTEND:20251029
 SUMMARY:Võru: Lindora laat
 LOCATION:Võrumaa, Estonia
-URL:
+URL:https://laadakalender.ee/lindora-laat/
 END:VEVENT
 
 BEGIN:VEVENT
