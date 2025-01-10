@@ -147,6 +147,15 @@ URL:https://laadakalender.ee/karksi-nuia-jaanuarikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-19.Tallinna kogujate kokkutulek
+DTSTART:20250119
+DTEND:20250120
+SUMMARY:Harju: Tallinna kogujate kokkutulek
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-22.Märjamaa õhtuturg
 DTSTART:20250122
 DTEND:20250123
@@ -171,6 +180,15 @@ DTEND:20250125
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-01-26.Tartu kollektsionääride laat
+DTSTART:20250126
+DTEND:20250127
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -336,6 +354,15 @@ URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-16.Tartu kollektsionääride laat
+DTSTART:20250216
+DTEND:20250217
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-19.Järve Keskuse aastapäevalaat
 DTSTART:20250219
 DTEND:20250220
@@ -408,6 +435,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-02.Tartu kollektsionääride laat
+DTSTART:20250302
+DTEND:20250303
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-06.Elva OTT
 DTSTART:20250306
 DTEND:20250307
@@ -471,6 +507,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Mooste naistepäevalaat
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Põlva: Mooste naistepäevalaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mooste-naistepaeva-nadala-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -513,6 +558,15 @@ DTEND:20250315
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-16.Tallinna kogujate kokkutulek
+DTSTART:20250316
+DTEND:20250317
+SUMMARY:Harju: Tallinna kogujate kokkutulek
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -669,6 +723,15 @@ URL:https://laadakalender.ee/mustamae-keskuse-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-13.Tallinna kogujate kokkutulek
+DTSTART:20250413
+DTEND:20250414
+SUMMARY:Harju: Tallinna kogujate kokkutulek
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-17.Elva OTT
 DTSTART:20250417
 DTEND:20250418
@@ -759,6 +822,15 @@ URL:https://laadakalender.ee/tallinn-coffee-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-26.Varnja Kalalaat
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Tartu: Varnja Kalalaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/varnja-kalalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-27.Sisutsumess Interjöör
 DTSTART:20250427
 DTEND:20250428
@@ -774,6 +846,15 @@ DTEND:20250428
 SUMMARY:Harju: Tallinn Coffee Festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinn-coffee-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-27.Tartu kollektsionääride laat
+DTSTART:20250427
+DTEND:20250428
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -930,6 +1011,15 @@ URL:https://laadakalender.ee/turi-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-18.Tallinna kogujate kokkutulek
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Harju: Tallinna kogujate kokkutulek
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-22.Elva OTT
 DTSTART:20250522
 DTEND:20250523
@@ -1008,6 +1098,15 @@ DTEND:20250526
 SUMMARY:Saare: Kuressaare Tänavafestival
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-tanavafestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Tartu kollektsionääride laat
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Tartu: Tartu kollektsionääride laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1110,6 +1209,15 @@ URL:https://laadakalender.ee/viljandi-hansalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Võru vanakraami ja käsitöö laat
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Võru: Võru vanakraami ja käsitöö laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -1125,6 +1233,15 @@ DTEND:20250609
 SUMMARY:Viljandi: Viljandi Hansalaat / Hansapäevad
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-hansalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-08.Võru vanakraami ja käsitöö laat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Võru: Võru vanakraami ja käsitöö laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1584,6 +1701,15 @@ DTEND:20251109
 SUMMARY:Harju: Mardilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Tartu jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Tartu: Tartu jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
