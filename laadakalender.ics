@@ -903,6 +903,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-09.Pärnu Taimelaat
+DTSTART:20250509
+DTEND:20250510
+SUMMARY:Pärnu: Pärnu Taimelaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-taimelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-10.Tartu Kevadlaat
 DTSTART:20250510
 DTEND:20250511
@@ -927,6 +936,15 @@ DTEND:20250511
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Pärnu Taimelaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Pärnu: Pärnu Taimelaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-taimelaat/
 END:VEVENT
 
 BEGIN:VEVENT
