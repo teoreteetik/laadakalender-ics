@@ -426,6 +426,15 @@ URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-23.Türi valla perepäev
+DTSTART:20250223
+DTEND:20250224
+SUMMARY:Järva: Türi valla perepäev
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-valla-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-28.Oru OTT
 DTSTART:20250228
 DTEND:20250301
