@@ -147,6 +147,15 @@ URL:https://laadakalender.ee/karksi-nuia-jaanuarikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-18.Turba OTT
+DTSTART:20250118
+DTEND:20250119
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-19.Tallinna kogujate kokkutulek
 DTSTART:20250119
 DTEND:20250120
@@ -570,12 +579,39 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-14.Motomess Motoexotica
+DTSTART:20250314
+DTEND:20250315
+SUMMARY:Tartu: Motomess Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-15.Motomess Motoexotica
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Tartu: Motomess Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-16.Tallinna kogujate kokkutulek
 DTSTART:20250316
 DTEND:20250317
 SUMMARY:Harju: Tallinna kogujate kokkutulek
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-16.Motomess Motoexotica
+DTSTART:20250316
+DTEND:20250317
+SUMMARY:Tartu: Motomess Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1659,6 +1695,15 @@ URL:https://laadakalender.ee/eesti-leiva-paev-ja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-12.Auto- ja tehnikamess MOTOSHOW
+DTSTART:20250912
+DTEND:20250913
+SUMMARY:Tartu: Auto- ja tehnikamess MOTOSHOW
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-13.Tartu Maarjalaat
 DTSTART:20250913
 DTEND:20250914
@@ -1674,6 +1719,24 @@ DTEND:20250914
 SUMMARY:Harju: Kirjandustänava festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kirjandustanava-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Auto- ja tehnikamess MOTOSHOW
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Tartu: Auto- ja tehnikamess MOTOSHOW
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Auto- ja tehnikamess MOTOSHOW
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Tartu: Auto- ja tehnikamess MOTOSHOW
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1728,6 +1791,33 @@ DTEND:20251109
 SUMMARY:Harju: Mardilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-05.Tartu jõululaat
+DTSTART:20251205
+DTEND:20251206
+SUMMARY:Tartu: Tartu jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-06.Tartu jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Tartu: Tartu jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Tartu jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Tartu: Tartu jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
 END:VEVENT
 
 BEGIN:VEVENT
