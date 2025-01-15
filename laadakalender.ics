@@ -156,6 +156,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-01-18.Otepää vanakraamiturg: Tali tuli!
+DTSTART:20250118
+DTEND:20250119
+SUMMARY:Valga: Otepää vanakraamiturg: Tali tuli!
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-vanakraamiturg-tali-tuli/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-01-19.Tallinna kogujate kokkutulek
 DTSTART:20250119
 DTEND:20250120
@@ -597,6 +606,15 @@ URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-15.Väiketootjate ja talukauba laat Ehedalt Oma
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Lääne-Viru: Väiketootjate ja talukauba laat Ehedalt Oma
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/eesti-vaiketootjate-kasitoo-ja-talukauba-laat-ehedalt-oma/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-16.Tallinna kogujate kokkutulek
 DTSTART:20250316
 DTEND:20250317
@@ -912,6 +930,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-03.Märjamaa Kevadlaat
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Rapla: Märjamaa Kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
@@ -990,6 +1017,15 @@ DTEND:20250511
 SUMMARY:Pärnu: Pärnu Taimelaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-taimelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Kanepi kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Põlva: Kanepi kevadlaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kanepi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1524,6 +1560,15 @@ URL:https://laadakalender.ee/kotusso-uma-uulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Uulu Lamba Vest
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Pärnu: Uulu Lamba Vest
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/uulu-lamba-vest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -1794,6 +1839,24 @@ URL:https://laadakalender.ee/mardilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-22.Suur kadrilaat
+DTSTART:20251122
+DTEND:20251123
+SUMMARY:Lääne-Viru: Suur kadrilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-23.Suur kadrilaat
+DTSTART:20251123
+DTEND:20251124
+SUMMARY:Lääne-Viru: Suur kadrilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-05.Tartu jõululaat
 DTSTART:20251205
 DTEND:20251206
@@ -1836,6 +1899,15 @@ DTEND:20251214
 SUMMARY:Hiiu: Hiiumaa Talvine Käsitöö- ja omatoodangu laat
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiiumaa-talvine-kasitoo-ja-omatoodangu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Kanepi jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Põlva: Kanepi jõululaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kanepi-joululaat/
 END:VEVENT
 
 END:VCALENDAR
