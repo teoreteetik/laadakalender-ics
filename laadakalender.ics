@@ -1209,6 +1209,15 @@ URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-25.Põhja-Tallinna suur kevadlaat ja kirbuturg
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Harju: Põhja-Tallinna suur kevadlaat ja kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-suur-kevadlaat-ja-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-29.Elva OTT
 DTSTART:20250529
 DTEND:20250530
