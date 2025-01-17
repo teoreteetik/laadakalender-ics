@@ -606,10 +606,10 @@ URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-03-15.Väiketootjate ja talukauba laat Ehedalt Oma
+UID:2025-03-15.Käsitöö ja talukauba laat Ehedalt Oma
 DTSTART:20250315
 DTEND:20250316
-SUMMARY:Lääne-Viru: Väiketootjate ja talukauba laat Ehedalt Oma
+SUMMARY:Lääne-Viru: Käsitöö ja talukauba laat Ehedalt Oma
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/eesti-vaiketootjate-kasitoo-ja-talukauba-laat-ehedalt-oma/
 END:VEVENT
@@ -1065,15 +1065,6 @@ URL:https://laadakalender.ee/kalamaja-paevad/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-17.Tikupoisi kevadlaat
-DTSTART:20250517
-DTEND:20250518
-SUMMARY:Järva: Tikupoisi kevadlaat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/tikupoisi-kevadlaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-05-17.Türi Lillelaat
 DTSTART:20250517
 DTEND:20250518
@@ -1242,6 +1233,15 @@ DTEND:20250601
 SUMMARY:Lääne: Itaalia veinipidu Haapsalus
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/itaalia-veinipidu-haapsalus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Tikupoisi kevadlaat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Järva: Tikupoisi kevadlaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/tikupoisi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
