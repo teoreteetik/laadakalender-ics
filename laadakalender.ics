@@ -471,6 +471,15 @@ URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-02.Lasnamäe vastlapäev
+DTSTART:20250302
+DTEND:20250303
+SUMMARY:Harju: Lasnamäe vastlapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-vastlapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-06.Elva OTT
 DTSTART:20250306
 DTEND:20250307
