@@ -309,6 +309,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-08.Karksi-Nuia veebruarikuu laat
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Viljandi: Karksi-Nuia veebruarikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-veebruarikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-09.Sõbrapäeva laat Mustamäe Keskuses
 DTSTART:20250209
 DTEND:20250210
@@ -621,6 +630,15 @@ DTEND:20250316
 SUMMARY:Lääne-Viru: Käsitöö ja talukauba laat Ehedalt Oma
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/eesti-vaiketootjate-kasitoo-ja-talukauba-laat-ehedalt-oma/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-15.Karksi-Nuia märtsikuu laat
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Viljandi: Karksi-Nuia märtsikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
