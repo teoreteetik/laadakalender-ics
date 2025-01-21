@@ -1506,12 +1506,30 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-04.Haapsalu Maitsete Promenaad
+DTSTART:20250704
+DTEND:20250705
+SUMMARY:Lääne: Haapsalu Maitsete Promenaad
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/tanavatoidufestival-haapsalu-maitsete-promenaad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-05.Antiigi- ja vanavaralaat "Kila-kola"
 DTSTART:20250705
 DTEND:20250706
 SUMMARY:Järva: Antiigi- ja vanavaralaat "Kila-kola"
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/antiigilaat-kila-kola/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-05.Haapsalu Maitsete Promenaad
+DTSTART:20250705
+DTEND:20250706
+SUMMARY:Lääne: Haapsalu Maitsete Promenaad
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/tanavatoidufestival-haapsalu-maitsete-promenaad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1740,12 +1758,30 @@ URL:https://laadakalender.ee/ollesummer/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Pärnu Maitsete Uulits
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Pärnu: Pärnu Maitsete Uulits
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maitsete-uulits/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Õllesummer
 DTSTART:20250802
 DTEND:20250803
 SUMMARY:Harju: Õllesummer
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ollesummer/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Pärnu Maitsete Uulits
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Pärnu: Pärnu Maitsete Uulits
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1971,6 +2007,15 @@ DTEND:20251029
 SUMMARY:Võru: Lindora laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/lindora-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-01.Nahtsipäeva laat
+DTSTART:20251101
+DTEND:20251102
+SUMMARY:Võru: Nahtsipäeva laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/nahtsipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
