@@ -1146,6 +1146,15 @@ URL:https://laadakalender.ee/otepaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Kõpu kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Viljandi: Kõpu kevadlaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/kopu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-15.Elva OTT
 DTSTART:20250515
 DTEND:20250516
@@ -1467,6 +1476,33 @@ DTEND:20250613
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Liivimaa laat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Valga: Liivimaa laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Kreisilaat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Lääne-Viru: Kreisilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakvere-linna-paevade-kreisilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-15.Kreisilaat
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Lääne-Viru: Kreisilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakvere-linna-paevade-kreisilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1866,6 +1902,15 @@ URL:https://laadakalender.ee/haeska-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-16.Võiste Suvefestival
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Pärnu: Võiste Suvefestival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/voiste-suvefestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -1998,6 +2043,15 @@ DTEND:20251006
 SUMMARY:Harju: Põhja-Tallinna suur sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-tallinna-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-11.Liivimaa Mihklilaat
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Valga: Liivimaa Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-mihklilaat/
 END:VEVENT
 
 BEGIN:VEVENT
