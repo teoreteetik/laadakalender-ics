@@ -390,6 +390,15 @@ URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-15.Perepäev ja laat "Heale sõbrale"
+DTSTART:20250215
+DTEND:20250216
+SUMMARY:Jõgeva: Perepäev ja laat "Heale sõbrale"
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-laat-heale-sobrale/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-16.Mustika Keskuse sõbrapäeva laat
 DTSTART:20250216
 DTEND:20250217
@@ -1323,6 +1332,15 @@ DTEND:20250526
 SUMMARY:Harju: Põhja-Tallinna suur kevadlaat ja kirbuturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-tallinna-suur-kevadlaat-ja-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Lihula kevadlaat
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Pärnu: Lihula kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lihula-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
