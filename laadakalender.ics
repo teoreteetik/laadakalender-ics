@@ -264,6 +264,15 @@ URL:https://laadakalender.ee/pae-keskuse-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-05.Märjamaa õhtuturg
+DTSTART:20250205
+DTEND:20250206
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-06.Elva OTT
 DTSTART:20250206
 DTEND:20250207
@@ -336,6 +345,24 @@ URL:https://laadakalender.ee/karksi-nuia-veebruarikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-08.Turupäev Kuressaare turul
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Saare: Turupäev Kuressaare turul
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/turupaev-kuressaare-turul/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-02-08.Turba OTT
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-09.Sõbrapäeva laat Mustamäe Keskuses
 DTSTART:20250209
 DTEND:20250210
@@ -399,6 +426,15 @@ URL:https://laadakalender.ee/perepaev-ja-laat-heale-sobrale/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-15.Turba OTT
+DTSTART:20250215
+DTEND:20250216
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-16.Mustika Keskuse sõbrapäeva laat
 DTSTART:20250216
 DTEND:20250217
@@ -423,6 +459,15 @@ DTEND:20250220
 SUMMARY:Harju: Järve Keskuse aastapäevalaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-02-19.Märjamaa õhtuturg
+DTSTART:20250219
+DTEND:20250220
+SUMMARY:Märja: Märjamaa õhtuturg
+LOCATION:Märjamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1542,6 +1587,15 @@ URL:https://laadakalender.ee/poltsamaa-lossipaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Pärnu turu jaanilaat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Pärnu: Pärnu turu jaanilaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-turu-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -1728,6 +1782,15 @@ DTEND:20250720
 SUMMARY:Saare: Saare Laat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/saare-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Mihkli laat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Pärnu: Mihkli laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/mihkli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
