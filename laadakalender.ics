@@ -1596,6 +1596,15 @@ URL:https://laadakalender.ee/parnu-turu-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Märjamaa jaanilaat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Rapla: Märjamaa jaanilaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -2115,6 +2124,96 @@ DTEND:20250921
 SUMMARY:Jõgeva: Suur Paunvere Väljanäitus ja Laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/suur-paunvere-valjanaitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-26.Oktoberfest Tallinn
+DTSTART:20250926
+DTEND:20250927
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-27.Oktoberfest Tallinn
+DTSTART:20250927
+DTEND:20250928
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-28.Oktoberfest Tallinn
+DTSTART:20250928
+DTEND:20250929
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-29.Oktoberfest Tallinn
+DTSTART:20250929
+DTEND:20250930
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-30.Oktoberfest Tallinn
+DTSTART:20250930
+DTEND:20251001
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-01.Oktoberfest Tallinn
+DTSTART:20251001
+DTEND:20251002
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-02.Oktoberfest Tallinn
+DTSTART:20251002
+DTEND:20251003
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-03.Oktoberfest Tallinn
+DTSTART:20251003
+DTEND:20251004
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-04.Oktoberfest Tallinn
+DTSTART:20251004
+DTEND:20251005
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-05.Oktoberfest Tallinn
+DTSTART:20251005
+DTEND:20251006
+SUMMARY:Harju: Oktoberfest Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/oktoberfest-tallinn/
 END:VEVENT
 
 BEGIN:VEVENT
