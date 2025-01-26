@@ -1065,12 +1065,48 @@ URL:https://laadakalender.ee/marjamaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-03.Suur Vanamõisa Kevadlaat
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Harju: Suur Vanamõisa Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-03.CaravanFest karavanimess
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Harju: CaravanFest karavanimess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/caravanfest-karavanimess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
 SUMMARY:Harju: Tagadi restauraatorite päev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Suur Vanamõisa Kevadlaat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Harju: Suur Vanamõisa Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.CaravanFest karavanimess
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Harju: CaravanFest karavanimess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/caravanfest-karavanimess/
 END:VEVENT
 
 BEGIN:VEVENT
