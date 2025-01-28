@@ -1704,6 +1704,15 @@ URL:https://laadakalender.ee/hiiu-folk/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-11.Tallinna merepäevad
+DTSTART:20250711
+DTEND:20250712
+SUMMARY:Harju: Tallinna merepäevad
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-merepaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-12.Tallinna merepäevad
 DTSTART:20250712
 DTEND:20250713
@@ -1800,15 +1809,6 @@ DTEND:20250714
 SUMMARY:üle Eesti: Avatud talude päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/avatud-talude-paev/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-07-14.Tallinna merepäevad
-DTSTART:20250714
-DTEND:20250715
-SUMMARY:Harju: Tallinna merepäevad
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tallinna-merepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
