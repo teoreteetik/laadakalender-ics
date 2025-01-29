@@ -363,6 +363,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-08.Loksa sõbrapäeva laat
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Harju: Loksa sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-09.Sõbrapäeva laat Mustamäe Keskuses
 DTSTART:20250209
 DTEND:20250210
