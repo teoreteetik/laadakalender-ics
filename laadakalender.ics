@@ -156,6 +156,15 @@ URL:https://laadakalender.ee/sobrapaeva-laat-mustamae-keskuses/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-08.LAAVTURG
+DTSTART:20250208
+DTEND:20250209
+SUMMARY:Harju: LAAVTURG
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laavturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-09.Eesti Õpilasfirmade laat
 DTSTART:20250209
 DTEND:20250210
@@ -441,6 +450,15 @@ DTEND:20250309
 SUMMARY:Põlva: Mooste naistepäevalaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mooste-naistepaeva-nadala-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-08.Mustvee naistepäeva laat
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Jõgeva: Mustvee naistepäeva laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -801,6 +819,15 @@ DTEND:20250427
 SUMMARY:Tartu: Maamess
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/maamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-26.Luige vanavara- ja käsitöölaat
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1677,6 +1704,15 @@ URL:https://laadakalender.ee/haapsalu-kesksuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Mustvee linna suur suvelaat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Jõgeva: Mustvee linna suur suvelaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-linna-suur-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-12.Tallinna merepäevad
 DTSTART:20250712
 DTEND:20250713
@@ -1911,6 +1947,15 @@ URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-02.Luige vanavara- ja käsitöölaat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Õllesummer
 DTSTART:20250802
 DTEND:20250803
@@ -1935,6 +1980,15 @@ DTEND:20250803
 SUMMARY:Lääne: Haapsalu viljakuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-03.Vanatehnikalaat Sulle-Mulle
+DTSTART:20250803
+DTEND:20250804
+SUMMARY:Tartu: Vanatehnikalaat Sulle-Mulle
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/vanatehnika-ja-vanavara-laat-sulle-mulle/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2223,6 +2277,15 @@ DTEND:20250927
 SUMMARY:Harju: Oktoberfest Tallinn
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-27.Luige vanavara- ja käsitöölaat
+DTSTART:20250927
+DTEND:20250928
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
