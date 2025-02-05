@@ -651,15 +651,6 @@ URL:https://laadakalender.ee/eesti-ehitab/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-10.Põltsamaa turutänava laadapäevad
-DTSTART:20250410
-DTEND:20250411
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-04-10.Elva OTT
 DTSTART:20250410
 DTEND:20250411
@@ -711,6 +702,15 @@ DTEND:20250413
 SUMMARY:Harju: Ehitusmess Eesti ehitab
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-ehitab/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Põltsamaa turutänava laadapäevad
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2097,6 +2097,15 @@ DTEND:20250817
 SUMMARY:Pärnu: Võiste Suvefestival
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/voiste-suvefestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-16.Vanavara ja käsitöö laat
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Valga: Vanavara ja käsitöö laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/vanavara-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
