@@ -192,6 +192,15 @@ URL:https://laadakalender.ee/poltsamaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-13.Sõbrapäeva kingiturg
+DTSTART:20250213
+DTEND:20250214
+SUMMARY:Saare: Sõbrapäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-14.Oru OTT
 DTSTART:20250214
 DTEND:20250215
@@ -207,6 +216,15 @@ DTEND:20250215
 SUMMARY:Harju: Mustika Keskuse sõbrapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-02-14.Sõbrapäeva kingiturg
+DTSTART:20250214
+DTEND:20250215
+SUMMARY:Saare: Sõbrapäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -234,6 +252,15 @@ DTEND:20250216
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-02-15.Sõbrapäeva kingiturg
+DTSTART:20250215
+DTEND:20250216
+SUMMARY:Saare: Sõbrapäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -948,6 +975,15 @@ URL:https://laadakalender.ee/caravanfest-karavanimess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-03.Suur Rapla Toidutänav
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Rapla: Suur Rapla Toidutänav
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/suur-rapla-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
@@ -1101,6 +1137,15 @@ URL:https://laadakalender.ee/haapsalu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Suur Keila Toidutänav
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Suur Keila Toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-keila-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1179,6 +1224,24 @@ DTEND:20250518
 SUMMARY:Lääne-Viru: Tamsalu Päevade laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/tamsalu-paevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Harjumaa Muuseumi kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Harju: Harjumaa Muuseumi kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/harjumaa-muuseumi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Suur Jõhvi Toidutänav
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Ida-Viru: Suur Jõhvi Toidutänav
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-johvi-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1281,6 +1344,15 @@ URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Suur Pärnu Toidutänav
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Pärnu: Suur Pärnu Toidutänav
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/suur-parnu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -1335,6 +1407,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-30.Suur Tallinna Toidutänav
+DTSTART:20250530
+DTEND:20250531
+SUMMARY:Harju: Suur Tallinna Toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tallinna-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Sõmeru Maaelufestival
 DTSTART:20250531
 DTEND:20250601
@@ -1386,6 +1467,24 @@ DTEND:20250601
 SUMMARY:Lääne: Vanasadama turg
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/vanasadama-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Suur Tallinna Toidutänav
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Harju: Suur Tallinna Toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tallinna-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.Suur Tallinna Toidutänav
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Harju: Suur Tallinna Toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tallinna-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1479,6 +1578,15 @@ URL:https://laadakalender.ee/haapsalu-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Suur Narva Toidutänav
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Ida-Viru: Suur Narva Toidutänav
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-narva-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -1557,6 +1665,15 @@ DTEND:20250615
 SUMMARY:Rapla: Rapla jaanikuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Suur Rakvere Toidutänav
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Lääne-Viru: Suur Rakvere Toidutänav
+LOCATION:Lääne-Virumaa, Estonia
+URL:
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1641,6 +1758,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-28.Suur Paide Toidutänav
+DTSTART:20250628
+DTEND:20250629
+SUMMARY:Järva: Suur Paide Toidutänav
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/suur-paide-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-04.Haapsalu Maitsete Promenaad
 DTSTART:20250704
 DTEND:20250705
@@ -1665,6 +1791,15 @@ DTEND:20250706
 SUMMARY:Lääne: Haapsalu Maitsete Promenaad
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/tanavatoidufestival-haapsalu-maitsete-promenaad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-06.Suur Tartu Toidutänav
+DTSTART:20250706
+DTEND:20250707
+SUMMARY:Tartu: Suur Tartu Toidutänav
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/suur-tartu-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1848,6 +1983,15 @@ URL:https://laadakalender.ee/mihkli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-25.Suur Haapsalu Toidutänav
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Lääne: Suur Haapsalu Toidutänav
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-26.Jäneda Talupäevad
 DTSTART:20250726
 DTEND:20250727
@@ -1890,6 +2034,15 @@ DTEND:20250727
 SUMMARY:Pärnu: Uulu Lamba Vest
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/uulu-lamba-vest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Suur Haapsalu Toidutänav
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Lääne: Suur Haapsalu Toidutänav
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2109,6 +2262,15 @@ URL:https://laadakalender.ee/vanavara-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-16.Suur Elva Toidutänav
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Tartu: Suur Elva Toidutänav
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/suur-elva-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -2124,6 +2286,15 @@ DTEND:20250824
 SUMMARY:Võru: Lüübnitsa sibula- ja kalalaat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/luubnitsa-sibula-ja-kalalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-23.Suur Võru Toidutänav
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Tartu: Suur Võru Toidutänav
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/suur-voru-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
