@@ -183,6 +183,15 @@ URL:https://laadakalender.ee/kivioli-talvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-09.Laine Plaaditurg
+DTSTART:20250209
+DTEND:20250210
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-12.Põltsamaa OTT
 DTSTART:20250212
 DTEND:20250213
@@ -2043,6 +2052,15 @@ DTEND:20250727
 SUMMARY:Lääne: Suur Haapsalu Toidutänav
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Viljandi Vanavara- ja Käsitöölaat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Viljandi: Viljandi Vanavara- ja Käsitöölaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
