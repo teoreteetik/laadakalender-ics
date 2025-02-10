@@ -237,6 +237,15 @@ URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-14.Sõbrapäevalaat Tartu Turuhallis
+DTSTART:20250214
+DTEND:20250215
+SUMMARY:Tartu: Sõbrapäevalaat Tartu Turuhallis
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/sobrapaevalaat-tartu-turuhallis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-15.Mustika Keskuse sõbrapäeva laat
 DTSTART:20250215
 DTEND:20250216
@@ -1989,6 +1998,15 @@ DTEND:20250720
 SUMMARY:Pärnu: Mihkli laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/mihkli-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Abja-Paluoja suvelaat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Viljandi: Abja-Paluoja suvelaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
