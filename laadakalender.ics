@@ -966,6 +966,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Kevadlaat Eesti Vabaõhumuuseumis
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Harju: Kevadlaat Eesti Vabaõhumuuseumis
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-eesti-vabaohumuuseumis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-03.Märjamaa Kevadlaat
 DTSTART:20250503
 DTEND:20250504
@@ -981,6 +990,15 @@ DTEND:20250504
 SUMMARY:Harju: Suur Vanamõisa Kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-03.Kevadine Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Harju: Kevadine Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1089,6 +1107,15 @@ DTEND:20250511
 SUMMARY:Tartu: Tartu Kevadlaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Kuressaare Lions klubi suur kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Saare: Kuressaare Lions klubi suur kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-lions-klubi-suur-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1602,6 +1629,24 @@ DTEND:20250608
 SUMMARY:Ida-Viru: Suur Narva Toidutänav
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/suur-narva-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Järva-Jaani Laat ja Tänavafestival
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Järva: Järva-Jaani Laat ja Tänavafestival
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/jarva-jaani-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Võrtsjärve kala- ja käsitöölaat
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Viljandi: Võrtsjärve kala- ja käsitöölaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vortsjarve-kala-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2334,12 +2379,30 @@ URL:https://laadakalender.ee/suur-voru-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Viru Talufest
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Ida-Viru: Viru Talufest
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-talufest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Türi viljakuu laat
 DTSTART:20250824
 DTEND:20250825
 SUMMARY:Järva: Türi viljakuu laat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-24.Viru Talufest
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Ida-Viru: Viru Talufest
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-talufest/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2394,6 +2457,15 @@ DTEND:20250907
 SUMMARY:Lääne: Haapsalu sügisandide laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-sugisandide-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Võrtsjärve angerjafestival
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Viljandi: Võrtsjärve angerjafestival
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vortsjarve-angerjafestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2568,6 +2640,15 @@ URL:https://laadakalender.ee/oktoberfest-tallinn/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-04.Sügisene Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20251004
+DTEND:20251005
+SUMMARY:Harju: Sügisene Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-04.Oktoberfest Tallinn
 DTSTART:20251004
 DTEND:20251005
@@ -2583,6 +2664,15 @@ DTEND:20251005
 SUMMARY:Rapla: Rapla sügiskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-04.Piiriveere sibula ja kala päev
+DTSTART:20251004
+DTEND:20251005
+SUMMARY:Harju: Piiriveere sibula ja kala päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/piiriveere-sibula-ja-kala-paev/
 END:VEVENT
 
 BEGIN:VEVENT
