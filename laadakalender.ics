@@ -426,12 +426,30 @@ URL:https://laadakalender.ee/lasnamae-vastlapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-05.Pae keskuse laadapäevad
+DTSTART:20250305
+DTEND:20250306
+SUMMARY:Harju: Pae keskuse laadapäevad
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-06.Elva OTT
 DTSTART:20250306
 DTEND:20250307
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-06.Pae keskuse laadapäevad
+DTSTART:20250306
+DTEND:20250307
+SUMMARY:Harju: Pae keskuse laadapäevad
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
