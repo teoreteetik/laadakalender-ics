@@ -813,6 +813,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-20.Kevadlaat Kiviõlis
+DTSTART:20250420
+DTEND:20250421
+SUMMARY:Ida-Viru: Kevadlaat Kiviõlis
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-24.Maamess
 DTSTART:20250424
 DTEND:20250425
@@ -1209,6 +1218,24 @@ URL:https://laadakalender.ee/suur-keila-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Mustvee kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Jõgeva: Mustvee kevadlaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Maardu kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Maardu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1242,6 +1269,15 @@ DTEND:20250512
 SUMMARY:Viljandi: Kõpu kevadlaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/kopu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Maardu kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Harju: Maardu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1413,6 +1449,15 @@ DTEND:20250525
 SUMMARY:Pärnu: Suur Pärnu Toidutänav
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/suur-parnu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Kiviõli linnapäevalaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Ida-Viru: Kiviõli linnapäevalaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-linnapaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
