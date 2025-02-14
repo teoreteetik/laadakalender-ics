@@ -372,6 +372,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-22.Turupäev Kuressaare turul
+DTSTART:20250222
+DTEND:20250223
+SUMMARY:Saare: Turupäev Kuressaare turul
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/turupaev-kuressaare-turul/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-23.Järve Keskuse aastapäevalaat
 DTSTART:20250223
 DTEND:20250224
@@ -1044,6 +1053,15 @@ DTEND:20250504
 SUMMARY:Rapla: Suur Rapla Toidutänav
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/suur-rapla-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-03.Elva kevadlaat - Eleva linna päevad
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Tartu: Elva kevadlaat - Eleva linna päevad
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
