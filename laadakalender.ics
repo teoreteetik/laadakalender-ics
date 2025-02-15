@@ -633,6 +633,15 @@ URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-16.Kevadlaat Kiviõlis
+DTSTART:20250316
+DTEND:20250317
+SUMMARY:Ida-Viru: Kevadlaat Kiviõlis
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-20.Elva OTT
 DTSTART:20250320
 DTEND:20250321
