@@ -1371,6 +1371,15 @@ URL:https://laadakalender.ee/suur-johvi-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Saku kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Harju: Saku kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/saku-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
