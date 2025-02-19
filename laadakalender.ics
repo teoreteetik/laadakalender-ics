@@ -534,6 +534,15 @@ URL:https://laadakalender.ee/mustvee-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Põhjala turg - naistepäeva eri
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Harju: Põhjala turg - naistepäeva eri
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohjala-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -1263,6 +1272,15 @@ URL:https://laadakalender.ee/maardu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Varstu kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Võru: Varstu kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/varstu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1749,6 +1767,15 @@ URL:https://laadakalender.ee/vortsjarve-kala-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Tuleviku kodu mess
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Viljandi: Tuleviku kodu mess
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/tuleviku-kodu-mess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -1791,6 +1818,15 @@ DTEND:20250609
 SUMMARY:Rapla: Atla Mõisa Pühapäevalaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/atla-moisa-puhapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-08.Tuleviku kodu mess
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Viljandi: Tuleviku kodu mess
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/tuleviku-kodu-mess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1890,6 +1926,15 @@ DTEND:20250622
 SUMMARY:Rapla: Märjamaa jaanilaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-21.Mustamäe Keskuse jaanilaat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Harju: Mustamäe Keskuse jaanilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
