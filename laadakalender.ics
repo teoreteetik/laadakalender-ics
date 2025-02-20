@@ -399,6 +399,15 @@ URL:https://laadakalender.ee/turi-valla-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-02-23.Antikvaarsete raamatute suurmüük
+DTSTART:20250223
+DTEND:20250224
+SUMMARY:Harju: Antikvaarsete raamatute suurmüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/antikvaarsete-raamatute-suurmuuk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-02-28.Oru OTT
 DTSTART:20250228
 DTEND:20250301
@@ -558,6 +567,15 @@ DTEND:20250310
 SUMMARY:Harju: Meremess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/meremess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-09.Kevadine taaskasutuslaat
+DTSTART:20250309
+DTEND:20250310
+SUMMARY:Jõgeva: Kevadine taaskasutuslaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kevadine-taaskasutuslaat-kuremaa-lossis/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1773,6 +1791,15 @@ DTEND:20250608
 SUMMARY:Viljandi: Tuleviku kodu mess
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/tuleviku-kodu-mess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Pandivere päev laat
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Lääne-Viru: Pandivere päev laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/pandivere-paev/
 END:VEVENT
 
 BEGIN:VEVENT
