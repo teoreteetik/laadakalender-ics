@@ -426,6 +426,15 @@ URL:https://laadakalender.ee/vanasadama-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-01.Maalähedane kirbukas
+DTSTART:20250301
+DTEND:20250302
+SUMMARY:Saare: Maalähedane kirbukas
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/maalahedane-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-02.Tartu kollektsionääride laat
 DTSTART:20250302
 DTEND:20250303
@@ -819,6 +828,15 @@ DTEND:20250413
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Kääpa taaskasutuslaat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Jõgeva: Kääpa taaskasutuslaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-taaskasutuslaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1299,6 +1317,15 @@ URL:https://laadakalender.ee/varstu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.RäimeWest
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Pärnu: RäimeWest
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/raimewest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1341,6 +1368,15 @@ DTEND:20250512
 SUMMARY:Harju: Maardu kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/maardu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Kose kevadlaat "Kose Kutsub Külla"
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Harju: Kose kevadlaat "Kose Kutsub Külla"
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
