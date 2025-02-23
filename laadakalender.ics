@@ -561,6 +561,15 @@ URL:https://laadakalender.ee/pohjala-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Vaala keskuse kevadlaat
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Lääne-Viru: Vaala keskuse kevadlaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-vaala-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -675,6 +684,15 @@ DTEND:20250317
 SUMMARY:Ida-Viru: Kevadlaat Kiviõlis
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kevadlaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-16.Varbola pühapäevalaat
+DTSTART:20250316
+DTEND:20250317
+SUMMARY:Rapla: Varbola pühapäevalaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-puhapaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -855,6 +873,15 @@ DTEND:20250414
 SUMMARY:Harju: Tallinna kogujate kokkutulek
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kogujate-kokkutulek/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-13.Kohila kevadkuu laat
+DTSTART:20250413
+DTEND:20250414
+SUMMARY:Rapla: Kohila kevadkuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-kevadkuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1143,6 +1170,15 @@ DTEND:20250505
 SUMMARY:Harju: CaravanFest karavanimess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/caravanfest-karavanimess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Kohila kevadlaat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Rapla: Kohila kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1893,6 +1929,15 @@ URL:https://laadakalender.ee/tuleviku-kodu-mess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-08.Kohila jaanikuu laat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Rapla: Kohila jaanikuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-12.Elva OTT
 DTSTART:20250612
 DTEND:20250613
@@ -2223,6 +2268,15 @@ DTEND:20250714
 SUMMARY:üle Eesti: Avatud talude päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/avatud-talude-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-13.Kohila heinakuu laat
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Rapla: Kohila heinakuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-heinakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2559,6 +2613,15 @@ URL:https://laadakalender.ee/suur-elva-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-17.Kohila lõikuskuu laat
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Rapla: Kohila lõikuskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -2718,6 +2781,15 @@ DTEND:20250914
 SUMMARY:Tartu: Auto- ja tehnikamess MOTOSHOW
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Kohila sügisandide laat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Rapla: Kohila sügisandide laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugisandide-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2928,6 +3000,15 @@ URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-12.Kohila sügiskuu laat
+DTSTART:20251012
+DTEND:20251013
+SUMMARY:Rapla: Kohila sügiskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-19.Tapa sügislaat
 DTSTART:20251019
 DTEND:20251020
@@ -3015,6 +3096,15 @@ DTEND:20251110
 SUMMARY:Rapla: Rapla sügislaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-16.Kohila sügislaat
+DTSTART:20251116
+DTEND:20251117
+SUMMARY:Rapla: Kohila sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
