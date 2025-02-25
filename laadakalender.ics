@@ -822,6 +822,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-11.Piste Õpilasfrimade laat
+DTSTART:20250411
+DTEND:20250412
+SUMMARY:Harju: Piste Õpilasfrimade laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/piste-opilasfrimade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20250412
 DTEND:20250413
@@ -1089,6 +1098,15 @@ DTEND:20250502
 SUMMARY:Harju: Kevadlaat Eesti Vabaõhumuuseumis
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kevadlaat-eesti-vabaohumuuseumis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-01.Kuusalu kihelkonna mailaat
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Harju: Kuusalu kihelkonna mailaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-kihelkonna-mailaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1935,6 +1953,15 @@ DTEND:20250609
 SUMMARY:Rapla: Kohila jaanikuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-08.Konnapargi laat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Jõgeva: Konnapargi laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/konnapargi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
