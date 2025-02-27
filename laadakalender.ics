@@ -471,6 +471,15 @@ URL:https://laadakalender.ee/pae-keskuse-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-05.Märjamaa õhtuturg
+DTSTART:20250305
+DTEND:20250306
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-06.Elva OTT
 DTSTART:20250306
 DTEND:20250307
@@ -597,6 +606,15 @@ URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-09.Turba OTT
+DTSTART:20250309
+DTEND:20250310
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Meremess
 DTSTART:20250309
 DTEND:20250310
@@ -678,6 +696,15 @@ URL:https://laadakalender.ee/karksi-nuia-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-15.Turba OTT
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-16.Tallinna kogujate kokkutulek
 DTSTART:20250316
 DTEND:20250317
@@ -711,6 +738,15 @@ DTEND:20250317
 SUMMARY:Rapla: Varbola pühapäevalaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/varbola-puhapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-19.Märjamaa õhtuturg
+DTSTART:20250319
+DTEND:20250320
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -882,6 +918,15 @@ DTEND:20250413
 SUMMARY:Jõgeva: Kääpa taaskasutuslaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-taaskasutuslaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Kehra turu kevadlaat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Harju: Kehra turu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1398,6 +1443,24 @@ URL:https://laadakalender.ee/raimewest/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Kose kevadlaat "Kose Kutsub Külla"
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Kose kevadlaat "Kose Kutsub Külla"
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Kehra turu lillelaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Kehra turu lillelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-turu-lillelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1440,15 +1503,6 @@ DTEND:20250512
 SUMMARY:Harju: Maardu kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/maardu-kevadlaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-05-11.Kose kevadlaat "Kose Kutsub Külla"
-DTSTART:20250511
-DTEND:20250512
-SUMMARY:Harju: Kose kevadlaat "Kose Kutsub Külla"
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kose-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1650,6 +1704,15 @@ URL:https://laadakalender.ee/kivioli-linnapaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Seljametsa külalaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Pärnu: Seljametsa külalaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-kulalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -1839,6 +1902,15 @@ URL:https://laadakalender.ee/haapsalu-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-06.Pandivere päev laat
+DTSTART:20250606
+DTEND:20250607
+SUMMARY:Lääne-Viru: Pandivere päev laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/pandivere-paev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-07.Tallinna Vanalinna Päevad
 DTSTART:20250607
 DTEND:20250608
@@ -1917,15 +1989,6 @@ DTEND:20250608
 SUMMARY:Viljandi: Tuleviku kodu mess
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/tuleviku-kodu-mess/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-06-07.Pandivere päev laat
-DTSTART:20250607
-DTEND:20250608
-SUMMARY:Lääne-Viru: Pandivere päev laat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/pandivere-paev/
 END:VEVENT
 
 BEGIN:VEVENT
