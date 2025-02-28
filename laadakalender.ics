@@ -498,6 +498,15 @@ URL:https://laadakalender.ee/pae-keskuse-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-06.Naistepäeva kingiturg
+DTSTART:20250306
+DTEND:20250307
+SUMMARY:Saare: Naistepäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-07.Oru OTT
 DTSTART:20250307
 DTEND:20250308
@@ -522,6 +531,15 @@ DTEND:20250308
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-07.Naistepäeva kingiturg
+DTSTART:20250307
+DTEND:20250308
+SUMMARY:Saare: Naistepäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -594,6 +612,15 @@ DTEND:20250309
 SUMMARY:Harju: Buduaari ilumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/buduaari-ilumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-08.Naistepäeva kingiturg
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Saare: Naistepäeva kingiturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -966,12 +993,39 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-17.Kevadpühade turg
+DTSTART:20250417
+DTEND:20250418
+SUMMARY:Saare: Kevadpühade turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kevadpuhade-turg-aurigas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-18.Oru OTT
 DTSTART:20250418
 DTEND:20250419
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-18.Kevadpühade turg
+DTSTART:20250418
+DTEND:20250419
+SUMMARY:Saare: Kevadpühade turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kevadpuhade-turg-aurigas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-19.Kevadpühade turg
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Saare: Kevadpühade turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kevadpuhade-turg-aurigas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1902,15 +1956,6 @@ URL:https://laadakalender.ee/haapsalu-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-06-06.Pandivere päev laat
-DTSTART:20250606
-DTEND:20250607
-SUMMARY:Lääne-Viru: Pandivere päev laat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/pandivere-paev/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-06-07.Tallinna Vanalinna Päevad
 DTSTART:20250607
 DTEND:20250608
@@ -1998,6 +2043,15 @@ DTEND:20250608
 SUMMARY:Ida-Viru: Iisaku külalaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/iisaku-kulalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Pandivere päev laat
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Lääne-Viru: Pandivere päev laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/pandivere-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2145,6 +2199,24 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-19.Jaaniturg
+DTSTART:20250619
+DTEND:20250620
+SUMMARY:Saare: Jaaniturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-20.Jaaniturg
+DTSTART:20250620
+DTEND:20250621
+SUMMARY:Saare: Jaaniturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-21.Põltsamaa Lossipäev
 DTSTART:20250621
 DTEND:20250622
@@ -2178,6 +2250,15 @@ DTEND:20250622
 SUMMARY:Harju: Mustamäe Keskuse jaanilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-keskuse-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-21.Jaaniturg
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Saare: Jaaniturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2460,12 +2541,30 @@ URL:https://laadakalender.ee/perefestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-24.Suveturg
+DTSTART:20250724
+DTEND:20250725
+SUMMARY:Saare: Suveturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/suveturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-25.Suur Haapsalu Toidutänav
 DTSTART:20250725
 DTEND:20250726
 SUMMARY:Lääne: Suur Haapsalu Toidutänav
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-25.Suveturg
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Saare: Suveturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/suveturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2529,6 +2628,15 @@ DTEND:20250727
 SUMMARY:Viljandi: Viljandi Vanavara- ja Käsitöölaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Suveturg
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Saare: Suveturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/suveturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2658,6 +2766,15 @@ URL:https://laadakalender.ee/tallinn-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Kuressaare Merepäevad
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Saare: Kuressaare Merepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -2709,6 +2826,15 @@ DTEND:20250810
 SUMMARY:Harju: Tallinn Food Truck Festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinn-food-truck-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Kuressaare Merepäevad
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Saare: Kuressaare Merepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2865,6 +2991,15 @@ URL:https://laadakalender.ee/haapsalu-sugisandide-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-05.Saaremaa Toidufestival - sügislaat
+DTSTART:20250905
+DTEND:20250906
+SUMMARY:Saare: Saaremaa Toidufestival - sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/saaremaa-toidufestival-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-06.Jäneda sügislaat
 DTSTART:20250906
 DTEND:20250907
@@ -2919,6 +3054,15 @@ URL:https://laadakalender.ee/vortsjarve-angerjafestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.Saaremaa Toidufestival - sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Saare: Saaremaa Toidufestival - sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/saaremaa-toidufestival-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-07.Eesti leiva päev ja sügislaat
 DTSTART:20250907
 DTEND:20250908
@@ -2970,6 +3114,15 @@ DTEND:20250914
 SUMMARY:Rapla: Kohila sügisandide laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-sugisandide-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Kadrina käsitöö- ja vanavaralaat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Lääne-Viru: Kadrina käsitöö- ja vanavaralaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3162,12 +3315,30 @@ URL:https://laadakalender.ee/pohja-tallinna-suur-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-09.Auriga rallyturg
+DTSTART:20251009
+DTEND:20251010
+SUMMARY:Saare: Auriga rallyturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-rallyturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-10.Haapsalu sügiskuu laat
 DTSTART:20251010
 DTEND:20251011
 SUMMARY:Lääne: Haapsalu sügiskuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-10.Auriga rallyturg
+DTSTART:20251010
+DTEND:20251011
+SUMMARY:Saare: Auriga rallyturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-rallyturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3186,6 +3357,15 @@ DTEND:20251012
 SUMMARY:Lääne: Haapsalu sügiskuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-rannarootsi-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-11.Auriga rallyturg
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Saare: Auriga rallyturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-rallyturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3234,6 +3414,15 @@ URL:https://laadakalender.ee/mardilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-06.Auriga mardipäeva turg
+DTSTART:20251106
+DTEND:20251107
+SUMMARY:Saare: Auriga mardipäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/marditurg-aurigas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-07.Mardilaat
 DTSTART:20251107
 DTEND:20251108
@@ -3249,6 +3438,15 @@ DTEND:20251108
 SUMMARY:Lääne: Haapsalu sügislaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-07.Auriga mardipäeva turg
+DTSTART:20251107
+DTEND:20251108
+SUMMARY:Saare: Auriga mardipäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/marditurg-aurigas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3276,6 +3474,15 @@ DTEND:20251109
 SUMMARY:Lääne: Haapsalu sügislaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-08.Auriga mardipäeva turg
+DTSTART:20251108
+DTEND:20251109
+SUMMARY:Saare: Auriga mardipäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/marditurg-aurigas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3315,12 +3522,30 @@ URL:https://laadakalender.ee/suur-kadrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-04.Auriga advendi turg
+DTSTART:20251204
+DTEND:20251205
+SUMMARY:Saare: Auriga advendi turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-advendi-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-05.Tartu jõululaat
 DTSTART:20251205
 DTEND:20251206
 SUMMARY:Tartu: Tartu jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-05.Auriga advendi turg
+DTSTART:20251205
+DTEND:20251206
+SUMMARY:Saare: Auriga advendi turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-advendi-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3338,7 +3563,16 @@ DTSTART:20251206
 DTEND:20251207
 SUMMARY:Harju: T1 jõululaat
 LOCATION:Harjumaa, Estonia
-URL:06.12.
+URL:https://laadakalender.ee/t1-suur-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-06.Auriga advendi turg
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Saare: Auriga advendi turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-advendi-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3393,6 +3627,33 @@ DTEND:20251214
 SUMMARY:Põlva: Kanepi jõululaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/kanepi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-18.Auriga jõuluturg
+DTSTART:20251218
+DTEND:20251219
+SUMMARY:Saare: Auriga jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-19.Auriga jõuluturg
+DTSTART:20251219
+DTEND:20251220
+SUMMARY:Saare: Auriga jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-20.Auriga jõuluturg
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Saare: Auriga jõuluturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
