@@ -507,6 +507,15 @@ URL:https://laadakalender.ee/piste-opilasfrimade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-11.Haapsalu kevadkuu laat
+DTSTART:20250411
+DTEND:20250412
+SUMMARY:Lääne: Haapsalu kevadkuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-kevadkuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20250412
 DTEND:20250413
