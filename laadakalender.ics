@@ -174,15 +174,6 @@ URL:https://laadakalender.ee/mooste-naistepaeva-nadala-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-03-08.Mustvee naistepäeva laat
-DTSTART:20250308
-DTEND:20250309
-SUMMARY:Jõgeva: Mustvee naistepäeva laat
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/mustvee-naistepaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-03-08.Põhjala turg - naistepäeva eri
 DTSTART:20250308
 DTEND:20250309
@@ -252,6 +243,15 @@ DTEND:20250310
 SUMMARY:Jõgeva: Kevadine taaskasutuslaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kevadine-taaskasutuslaat-kuremaa-lossis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-09.Paldiski märtsikuu laat
+DTSTART:20250309
+DTEND:20250310
+SUMMARY:Harju: Paldiski märtsikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -624,6 +624,15 @@ URL:https://laadakalender.ee/kevadpuhade-turg-aurigas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-18.Suure reede laat
+DTSTART:20250418
+DTEND:20250419
+SUMMARY:Pärnu: Suure reede laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/pohara-agro-suure-reede-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-19.Kevadpühade turg
 DTSTART:20250419
 DTEND:20250420
@@ -876,10 +885,10 @@ URL:https://laadakalender.ee/suur-rapla-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-03.Elva kevadlaat - Eleva linna päevad
+UID:2025-05-03.Elva kevadlaat - Elva linna päevad
 DTSTART:20250503
 DTEND:20250504
-SUMMARY:Tartu: Elva kevadlaat - Eleva linna päevad
+SUMMARY:Tartu: Elva kevadlaat - Elva linna päevad
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-kevadlaat/
 END:VEVENT
@@ -1119,6 +1128,15 @@ URL:https://laadakalender.ee/kehra-turu-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Kunstifestival "Ma ei saa aru" kunstiturg
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Kunstifestival "Ma ei saa aru" kunstiturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kunstifestival-ma-ei-saa-aru-kunstiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1242,6 +1260,24 @@ DTEND:20250518
 SUMMARY:Valga: Heategevuslik Piirilaat – Valga/Valka
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/suur-heategevuslik-piirilaat-valga-valka/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Kevadine Nigula laat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Lääne-Viru: Kevadine Nigula laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kevadine-nigula-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.MuuseumiÖö vanavara- ja käsitöölaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Ida-Viru: MuuseumiÖö vanavara- ja käsitöölaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/muuseumioo-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2685,6 +2721,15 @@ URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-12.Haapsalu Vintage Weekend
+DTSTART:20250912
+DTEND:20250913
+SUMMARY:Lääne: Haapsalu Vintage Weekend
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-13.Tartu Maarjalaat
 DTSTART:20250913
 DTEND:20250914
@@ -2730,6 +2775,15 @@ URL:https://laadakalender.ee/kadrina-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-13.Haapsalu Vintage Weekend
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Lääne: Haapsalu Vintage Weekend
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-14.Auto- ja tehnikamess MOTOSHOW
 DTSTART:20250914
 DTEND:20250915
@@ -2763,6 +2817,15 @@ DTEND:20250915
 SUMMARY:Rapla: Rapla sügisandide laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugisandide-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Haapsalu Vintage Weekend
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Lääne: Haapsalu Vintage Weekend
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-vintage-weekend/
 END:VEVENT
 
 BEGIN:VEVENT
