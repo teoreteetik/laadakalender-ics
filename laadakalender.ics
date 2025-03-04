@@ -426,12 +426,39 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-05.Elva kevadlaat
+DTSTART:20250405
+DTEND:20250406
+SUMMARY:Tartu: Elva kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-elva/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-05.Karksi-Nuia kevadlaat
+DTSTART:20250405
+DTEND:20250406
+SUMMARY:Viljandi: Karksi-Nuia kevadlaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-06.Rapla kevadlaat
 DTSTART:20250406
 DTEND:20250407
 SUMMARY:Rapla: Rapla kevadlaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-06.Räpina kevadlaat
+DTSTART:20250406
+DTEND:20250407
+SUMMARY:Põlva: Räpina kevadlaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -585,6 +612,15 @@ DTEND:20250414
 SUMMARY:Rapla: Kohila kevadkuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-kevadkuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-13.Kevadlaat Otepääl
+DTSTART:20250413
+DTEND:20250414
+SUMMARY:Valga: Kevadlaat Otepääl
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-otepaa/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1542,6 +1578,15 @@ URL:https://laadakalender.ee/suur-tallinna-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-31.Põlva Laat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Põlva: Põlva Laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/polva-paevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-01.Suur Tallinna Toidutänav
 DTSTART:20250601
 DTEND:20250602
@@ -1809,6 +1854,15 @@ DTEND:20250615
 SUMMARY:Lääne-Viru: Suur Rakvere Toidutänav
 LOCATION:Lääne-Virumaa, Estonia
 URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Mustamäe linnaosa grillpidu
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Harju: Mustamäe linnaosa grillpidu
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-jaanilaat-ja-grillpidu/
 END:VEVENT
 
 BEGIN:VEVENT
