@@ -210,6 +210,15 @@ URL:https://laadakalender.ee/naistepaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Loksa naistepäevalaat
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Harju: Loksa naistepäevalaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/blog/loksa-naistepaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -291,6 +300,15 @@ URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-14.Pärnu märtsikuu laat
+DTSTART:20250314
+DTEND:20250315
+SUMMARY:Pärnu: Pärnu märtsikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-martsikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-15.Motomess Motoexotica
 DTSTART:20250315
 DTEND:20250316
@@ -324,6 +342,15 @@ DTEND:20250316
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-15.Pärnu märtsikuu laat
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Pärnu: Pärnu märtsikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -585,6 +612,15 @@ DTEND:20250413
 SUMMARY:Harju: Kehra turu kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kehra-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Mustvee naljakuu laat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Jõgeva: Mustvee naljakuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-naljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -927,6 +963,15 @@ DTEND:20250504
 SUMMARY:Tartu: Elva kevadlaat - Elva linna päevad
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-03.Valgeranna Muusikatalli kevadlaat ja täika
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Pärnu: Valgeranna Muusikatalli kevadlaat ja täika
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-kevadlaat-ja-taika/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1314,6 +1359,15 @@ DTEND:20250518
 SUMMARY:Ida-Viru: MuuseumiÖö vanavara- ja käsitöölaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/muuseumioo-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Tsooru kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Võru: Tsooru kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/tsooru-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
