@@ -2046,6 +2046,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Telliskivi TLN Maitsete Park
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Harju: Telliskivi TLN Maitsete Park
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/telliskivi-tln-maitsete-park/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -3450,12 +3459,30 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-24.Tallinna Toidumess - Food Fair
+DTSTART:20250924
+DTEND:20250925
+SUMMARY:Harju: Tallinna Toidumess - Food Fair
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-toidumess-food-fair/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-25.Rapla õhtuturg
 DTSTART:20250925
 DTEND:20250926
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-25.Tallinna Toidumess - Food Fair
+DTSTART:20250925
+DTEND:20250926
+SUMMARY:Harju: Tallinna Toidumess - Food Fair
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-toidumess-food-fair/
 END:VEVENT
 
 BEGIN:VEVENT
