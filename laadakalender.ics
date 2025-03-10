@@ -876,6 +876,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-19.Kevadlaat Haapsalu turul
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Lääne: Kevadlaat Haapsalu turul
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-haapsalu-turul/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-20.Kevadlaat Kiviõlis
 DTSTART:20250420
 DTEND:20250421
@@ -3465,6 +3474,15 @@ DTEND:20250915
 SUMMARY:Lääne: Haapsalu Vintage Weekend
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Vastemõisa laat
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Viljandi: Vastemõisa laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vastemoisa-superlaat/
 END:VEVENT
 
 BEGIN:VEVENT
