@@ -1911,6 +1911,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-31.Järvamaa Laulu- ja Tantsupidu - laat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Järva: Järvamaa Laulu- ja Tantsupidu - laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/jarvamaa-laulu-ja-tantsupidu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-01.Suur Tallinna Toidutänav
 DTSTART:20250601
 DTEND:20250602
