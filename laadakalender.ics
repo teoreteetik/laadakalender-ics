@@ -21,6 +21,15 @@ URL:https://laadakalender.ee/maalahedane-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-01.Jõgeva seemnefestival
+DTSTART:20250301
+DTEND:20250302
+SUMMARY:Jõgeva: Jõgeva seemnefestival
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-seemnefestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-02.Tartu kollektsionääride laat
 DTSTART:20250302
 DTEND:20250303
@@ -414,6 +423,15 @@ DTEND:20250316
 SUMMARY:Harju: EKA kirbukas
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eka-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-15.Kagu-Eesti õpilasfirmade kevadlaat
+DTSTART:20250315
+DTEND:20250316
+SUMMARY:Võru: Kagu-Eesti õpilasfirmade kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/kagu-eesti-opilasfirmade-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1569,6 +1587,15 @@ URL:https://laadakalender.ee/kunstifestival-ma-ei-saa-aru-kunstiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Rapla kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Rapla: Rapla kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-rapla/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1611,6 +1638,24 @@ DTEND:20250512
 SUMMARY:Harju: Maardu kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/maardu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Orava kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Võru: Orava kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/orava-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Võhma lillepäev
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Viljandi: Võhma lillepäev
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vohma-lillepaev-ja-taimelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4329,6 +4374,15 @@ DTEND:20251207
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-06.Põltsamaa kodu- ja käsitöölaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Jõgeva: Põltsamaa kodu- ja käsitöölaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kodu-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
