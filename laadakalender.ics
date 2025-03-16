@@ -867,6 +867,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-12.Mustla veteranikuu laat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Viljandi: Mustla veteranikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/mustla-veteranikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-13.Mustamäe Keskuse kevadlaat
 DTSTART:20250413
 DTEND:20250414
@@ -1245,6 +1254,15 @@ URL:https://laadakalender.ee/kuusalu-kihelkonna-mailaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Sindi laat
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Pärnu: Sindi laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/sindi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-02.Otepää OTT
 DTSTART:20250502
 DTEND:20250503
@@ -1332,6 +1350,15 @@ DTEND:20250504
 SUMMARY:Harju: Valgejõe laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/valgejoe-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-03.Taimelaat Haapsalu turul
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Läähe: Taimelaat Haapsalu turul
+LOCATION:Läähemaa, Estonia
+URL:Taimelaat Haapsalu turul
 END:VEVENT
 
 BEGIN:VEVENT
