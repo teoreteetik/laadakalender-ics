@@ -1173,6 +1173,15 @@ URL:https://laadakalender.ee/avatud-kalasadamate-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-26.Perepäev ja laat "Nalja nabani"
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Jõgeva: Perepäev ja laat "Nalja nabani"
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-laat-nalja-nabani/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-27.Sisutsumess Interjöör
 DTSTART:20250427
 DTEND:20250428
@@ -1458,6 +1467,15 @@ DTEND:20250510
 SUMMARY:Lääne: Haapsalu kevadlaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-09.UMA MEKK kevadlaat
+DTSTART:20250509
+DTEND:20250510
+SUMMARY:Võru: UMA MEKK kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/uma-mekk-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1965,6 +1983,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Lasnamäe kevadlaat ja Veneetsia karneval
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Harju: Lasnamäe kevadlaat ja Veneetsia karneval
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/blog/lasnamae-kevadlaat-ja-veneetsia-karneval/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -2322,6 +2349,15 @@ DTEND:20250608
 SUMMARY:Harju: Loo laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/loo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Anija valla päev
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Harju: Anija valla päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/anija-valla-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3477,6 +3513,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Võru vanakraami ja käsitöö laat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Võru: Võru vanakraami ja käsitöö laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Türi viljakuu laat
 DTSTART:20250824
 DTEND:20250825
@@ -3492,6 +3537,15 @@ DTEND:20250825
 SUMMARY:Ida-Viru: Viru Talufest
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/viru-talufest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-24.Võru vanakraami ja käsitöö laat
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Võru: Võru vanakraami ja käsitöö laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3762,6 +3816,15 @@ DTEND:20250915
 SUMMARY:Viljandi: Vastemõisa laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/vastemoisa-superlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Kose-Uuemõisa vanatehnikapäev
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Harju: Kose-Uuemõisa vanatehnikapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-uuemoisa-vanatehnikapaev/
 END:VEVENT
 
 BEGIN:VEVENT
