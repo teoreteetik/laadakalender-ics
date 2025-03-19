@@ -246,6 +246,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-08.Kadrina OTT
+DTSTART:20250308
+DTEND:20250309
+SUMMARY:Lääne-Viru: Kadrina OTT
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-09.Mustamäe keskuse terviselaat
 DTSTART:20250309
 DTEND:20250310
@@ -1092,6 +1101,15 @@ URL:https://laadakalender.ee/kevadlaat-kiviolis/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-20.Valkla kirbuturg
+DTSTART:20250420
+DTEND:20250421
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-24.Maamess
 DTSTART:20250424
 DTEND:20250425
@@ -1242,6 +1260,15 @@ DTEND:20250427
 SUMMARY:üle Eesti: Avatud kalasadamate päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/avatud-kalasadamate-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-26.Avatud kalasadamate päev - Hara Sadam
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Harju: Avatud kalasadamate päev - Hara Sadam
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/avatud-kalasadamate-paev-hara-sadam/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1485,6 +1512,15 @@ DTEND:20250505
 SUMMARY:Rapla: Kohila kevadlaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Mooste mõisa kirbuturg
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Põlva: Mooste mõisa kirbuturg
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mooste-moisa-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1917,6 +1953,15 @@ DTEND:20250518
 SUMMARY:Hiiu: Hiidlaste kevadlaat
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiidlaste-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Võilillefestival
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Pärnu: Võilillefestival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/voilillefestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3207,6 +3252,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Mooste lina- ja käsitöölaat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Põlva: Mooste lina- ja käsitöölaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mooste-lina-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -3270,6 +3324,15 @@ URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Pärnu Gildipäevad
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Pärnu: Pärnu Gildipäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-gildipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Luige vanavara- ja käsitöölaat
 DTSTART:20250802
 DTEND:20250803
@@ -3321,6 +3384,15 @@ DTEND:20250803
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Pärnu Gildipäevad
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Pärnu: Pärnu Gildipäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-gildipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
