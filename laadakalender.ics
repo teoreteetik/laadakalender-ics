@@ -1128,15 +1128,6 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-24.Vanasadama turg
-DTSTART:20250424
-DTEND:20250425
-SUMMARY:Lääne: Vanasadama turg
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/vanasadama-turg/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-04-24.Rapla õhtuturg
 DTSTART:20250424
 DTEND:20250425
@@ -1287,6 +1278,15 @@ DTEND:20250427
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-26.Vanasadama turg
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Lääne: Vanasadama turg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/vanasadama-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1884,6 +1884,15 @@ URL:https://laadakalender.ee/harjumaa-muuseumi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Võnnu Kaera-Jaani laat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Tartu: Võnnu Kaera-Jaani laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/vonnu-kaera-jaani-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-17.Suur Jõhvi Toidutänav
 DTSTART:20250517
 DTEND:20250518
@@ -2028,6 +2037,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-22.Maalehe Eakate Festival
+DTSTART:20250522
+DTEND:20250523
+SUMMARY:Tartu: Maalehe Eakate Festival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/maalehe-eakate-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-23.Kuressaare Aiandus- ja Lillepäevad
 DTSTART:20250523
 DTEND:20250524
@@ -2123,7 +2141,7 @@ DTSTART:20250524
 DTEND:20250525
 SUMMARY:Harju: Lasnamäe kevadlaat ja Veneetsia karneval
 LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/blog/lasnamae-kevadlaat-ja-veneetsia-karneval/
+URL:https://laadakalender.ee/lasnamae-kevadlaat-ja-veneetsia-karneval/
 END:VEVENT
 
 BEGIN:VEVENT
