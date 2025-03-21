@@ -516,6 +516,33 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-20.Pärnumaa OTT
+DTSTART:20250320
+DTEND:20250321
+SUMMARY:Pärnu: Pärnumaa OTT
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnumaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-20.Türi OTT
+DTSTART:20250320
+DTEND:20250321
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-20.Rakvere OTT
+DTSTART:20250320
+DTEND:20250321
+SUMMARY:Lääne-Viru: Rakvere OTT
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakvere-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-21.Oru OTT
 DTSTART:20250321
 DTEND:20250322
@@ -549,6 +576,15 @@ DTEND:20250322
 SUMMARY:Saare: Turupäev Kuressaare turul
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/turupaev-kuressaare-turul/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-21.Kohila OTT
+DTSTART:20250321
+DTEND:20250322
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -588,6 +624,15 @@ URL:https://laadakalender.ee/turupaev-kuressaare-turul/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-23.Kääpa OTT
+DTSTART:20250323
+DTEND:20250324
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-27.Elva OTT
 DTSTART:20250327
 DTEND:20250328
@@ -615,6 +660,15 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-27.Rakvere OTT
+DTSTART:20250327
+DTEND:20250328
+SUMMARY:Lääne-Viru: Rakvere OTT
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakvere-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-03-28.Oru OTT
 DTSTART:20250328
 DTEND:20250329
@@ -630,6 +684,15 @@ DTEND:20250329
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-03-28.Kohila OTT
+DTSTART:20250328
+DTEND:20250329
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -651,12 +714,30 @@ URL:https://laadakalender.ee/elva-pop-up-laste-ja-noorte-riietevahetus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-03-30.Kääpa OTT
+DTSTART:20250330
+DTEND:20250331
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-02.Pae keskuse aprilli laat
 DTSTART:20250402
 DTEND:20250403
 SUMMARY:Harju: Pae keskuse aprilli laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pae-keskuse-aprilli-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-02.Märjamaa õhtuturg
+DTSTART:20250402
+DTEND:20250403
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -702,6 +783,15 @@ DTEND:20250405
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-04.Kohila OTT
+DTSTART:20250404
+DTEND:20250405
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -858,6 +948,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-11.Kohila OTT
+DTSTART:20250411
+DTEND:20250412
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20250412
 DTEND:20250413
@@ -984,6 +1083,15 @@ URL:https://laadakalender.ee/lihtsalt-vahva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-16.Märjamaa õhtuturg
+DTSTART:20250416
+DTEND:20250417
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-17.Elva OTT
 DTSTART:20250417
 DTEND:20250418
@@ -1044,6 +1152,15 @@ DTEND:20250419
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-18.Kohila OTT
+DTSTART:20250418
+DTEND:20250419
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1155,10 +1272,10 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-25.Sisutsumess Interjöör
+UID:2025-04-25.Sisustumess Interjöör
 DTSTART:20250425
 DTEND:20250426
-SUMMARY:Harju: Sisutsumess Interjöör
+SUMMARY:Harju: Sisustumess Interjöör
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/sisustusmess-interjoor/
 END:VEVENT
@@ -1182,6 +1299,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-25.Kohila OTT
+DTSTART:20250425
+DTEND:20250426
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-26.Maamess
 DTSTART:20250426
 DTEND:20250427
@@ -1200,10 +1326,10 @@ URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-26.Sisutsumess Interjöör
+UID:2025-04-26.Sisustumess Interjöör
 DTSTART:20250426
 DTEND:20250427
-SUMMARY:Harju: Sisutsumess Interjöör
+SUMMARY:Harju: Sisustumess Interjöör
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/sisustusmess-interjoor/
 END:VEVENT
@@ -1290,10 +1416,10 @@ URL:https://laadakalender.ee/vanasadama-turg/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-27.Sisutsumess Interjöör
+UID:2025-04-27.Sisustumess Interjöör
 DTSTART:20250427
 DTEND:20250428
-SUMMARY:Harju: Sisutsumess Interjöör
+SUMMARY:Harju: Sisustumess Interjöör
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/sisustusmess-interjoor/
 END:VEVENT
@@ -1341,6 +1467,15 @@ DTEND:20250428
 SUMMARY:Põlva: Vana-Koiola kevadlaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/vana-koiola-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-30.Märjamaa õhtuturg
+DTSTART:20250430
+DTEND:20250501
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2145,6 +2280,15 @@ URL:https://laadakalender.ee/lasnamae-kevadlaat-ja-veneetsia-karneval/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Virtsu laat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Lääne: Virtsu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/suur-virtsu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -2649,6 +2793,15 @@ URL:https://laadakalender.ee/mustamae-jaanilaat-ja-grillpidu/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-14.Ihamaru Kõivulaat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Põlva: Ihamaru Kõivulaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/ihamaru-koivulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-15.Kreisilaat
 DTSTART:20250615
 DTEND:20250616
@@ -2763,6 +2916,15 @@ DTEND:20250622
 SUMMARY:Harju: Vanamõisa jaanilaat ja perede jaanituli
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/vanamoisa-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-21.Vastseliina Vana Aja Päeva käsitöömeistrite laat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Võru: Vastseliina Vana Aja Päeva käsitöömeistrite laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/vastseliina-vana-aja-paeva-kasitoomeistrite-laat/
 END:VEVENT
 
 BEGIN:VEVENT
