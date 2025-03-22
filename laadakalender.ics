@@ -1209,6 +1209,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-19.Tabasalu lihavõtteturg
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Harju: Tabasalu lihavõtteturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-lihavotteturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-20.Kevadlaat Kiviõlis
 DTSTART:20250420
 DTEND:20250421
