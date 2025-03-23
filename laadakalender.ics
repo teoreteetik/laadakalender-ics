@@ -1668,6 +1668,15 @@ URL:https://laadakalender.ee/mooste-moisa-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-04.E-Lux Viimsi jooks - laat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Harju: E-Lux Viimsi jooks - laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/e-lux-viimsi-jooks-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-07.Põltsamaa OTT
 DTSTART:20250507
 DTEND:20250508
@@ -1965,6 +1974,15 @@ URL:https://laadakalender.ee/vohma-lillepaev-ja-taimelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Vana-Pärnu kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Pärnu: Vana-Pärnu kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vana-parnu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-15.Elva OTT
 DTSTART:20250515
 DTEND:20250516
@@ -2160,6 +2178,15 @@ DTEND:20250519
 SUMMARY:Pärnu: Lavassaare vanavara laat ja pasunakooride ülevaatus
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/vanavara-laat-ja-pasunakooride-ulevaatus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Maarja-Magdaleena kevadlaat
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Tartu: Maarja-Magdaleena kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/maarja-magdaleena-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2475,6 +2502,15 @@ DTEND:20250602
 SUMMARY:Harju: Suur Tallinna Toidutänav
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-tallinna-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.E-Lux Peetri jooks expo ja laat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Harju: E-Lux Peetri jooks expo ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/peetri-jooks-expo-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
