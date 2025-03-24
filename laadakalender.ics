@@ -957,6 +957,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-11.Pärnu aprillikuu laat
+DTSTART:20250411
+DTEND:20250412
+SUMMARY:Pärnu: Pärnu aprillikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-aprillikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20250412
 DTEND:20250413
@@ -1035,6 +1044,15 @@ DTEND:20250413
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Pärnu aprillikuu laat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Pärnu: Pärnu aprillikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-aprillikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2829,15 +2847,6 @@ URL:
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-06-14.Mustamäe linnaosa grillpidu
-DTSTART:20250614
-DTEND:20250615
-SUMMARY:Harju: Mustamäe linnaosa grillpidu
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustamae-jaanilaat-ja-grillpidu/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-06-14.Ihamaru Kõivulaat
 DTSTART:20250614
 DTEND:20250615
@@ -2862,6 +2871,15 @@ DTEND:20250616
 SUMMARY:Järva: Türi jaanikuu laat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-15.Mustamäe linnaosa grillpidu
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Harju: Mustamäe linnaosa grillpidu
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-jaanilaat-ja-grillpidu/
 END:VEVENT
 
 BEGIN:VEVENT
