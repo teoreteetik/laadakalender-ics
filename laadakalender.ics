@@ -1101,6 +1101,15 @@ URL:https://laadakalender.ee/lihtsalt-vahva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-13.Vanade/heade raamatute laat
+DTSTART:20250413
+DTEND:20250414
+SUMMARY:Lääne-Viru: Vanade/heade raamatute laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanade-heade-raamatute-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-16.Märjamaa õhtuturg
 DTSTART:20250416
 DTEND:20250417
@@ -1929,6 +1938,15 @@ URL:https://laadakalender.ee/kevadlaat-rapla/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Mustamäe kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Mustamäe kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-linnaosa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -2394,6 +2412,15 @@ DTEND:20250526
 SUMMARY:Tartu: Pannkoogifestival
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/pannkoogifestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Suviste käsitöö- ja maalaat
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Võru: Suviste käsitöö- ja maalaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/suviste-kasitoo-ja-maalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3261,6 +3288,15 @@ URL:https://laadakalender.ee/keskaja-paevad-meistrite-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Karksi Kihelkonnapäevad - Selle suve laat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Viljandi: Karksi Kihelkonnapäevad - Selle suve laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-kihelkonnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -3414,6 +3450,15 @@ URL:https://laadakalender.ee/suveturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-25.Haapsalu Promenaadilaat
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Lääne: Haapsalu Promenaadilaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-promenaadilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-26.Jäneda Talupäevad
 DTSTART:20250726
 DTEND:20250727
@@ -3501,6 +3546,15 @@ DTEND:20250727
 SUMMARY:Põlva: Mooste lina- ja käsitöölaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mooste-lina-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Haapsalu Promenaadilaat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Lääne: Haapsalu Promenaadilaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-promenaadilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4176,6 +4230,15 @@ DTEND:20250914
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Mustamäe sügislaat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Harju: Mustamäe sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/sugislaat-manni-park/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4959,6 +5022,15 @@ DTEND:20251214
 SUMMARY:Põlva: Kanepi jõululaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/kanepi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Mustamäe jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Harju: Mustamäe jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
