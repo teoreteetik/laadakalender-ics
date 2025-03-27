@@ -1947,6 +1947,15 @@ URL:https://laadakalender.ee/mustamae-linnaosa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Väike kevadturg
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Viljandi: Väike kevadturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kevadturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
