@@ -1956,6 +1956,15 @@ URL:https://laadakalender.ee/vaike-kevadturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Karksi-Nuia maikuu laat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Viljandi: Karksi-Nuia maikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -2397,12 +2406,12 @@ URL:https://laadakalender.ee/tartu-kollektsionaaride-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-25.Põhja-Tallinna suur kevadlaat ja kirbuturg
+UID:2025-05-25.Põhja-Tallinna kirbuturg
 DTSTART:20250525
 DTEND:20250526
-SUMMARY:Harju: Põhja-Tallinna suur kevadlaat ja kirbuturg
+SUMMARY:Harju: Põhja-Tallinna kirbuturg
 LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/pohja-tallinna-suur-kevadlaat-ja-kirbuturg/
+URL:https://laadakalender.ee/pohja-tallinna-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
