@@ -831,12 +831,12 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-06.Rapla kevadlaat
+UID:2025-04-06.Rapla kevadkuu laat
 DTSTART:20250406
 DTEND:20250407
-SUMMARY:Rapla: Rapla kevadlaat
+SUMMARY:Rapla: Rapla kevadkuu laat
 LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-kevadlaat/
+URL:https://laadakalender.ee/rapla-kevadkuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1056,6 +1056,15 @@ URL:https://laadakalender.ee/parnu-aprillikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-12.Maaritsa kirbuturg
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Põlva: Maaritsa kirbuturg
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/maaritsa-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-13.Mustamäe Keskuse kevadlaat
 DTSTART:20250413
 DTEND:20250414
@@ -1107,6 +1116,15 @@ DTEND:20250414
 SUMMARY:Lääne-Viru: Vanade/heade raamatute laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/vanade-heade-raamatute-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-13.Varbola kevadlaat
+DTSTART:20250413
+DTEND:20250414
+SUMMARY:Rapla: Varbola kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1506,6 +1524,15 @@ URL:https://laadakalender.ee/vana-koiola-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-27.Kose aprillilaat
+DTSTART:20250427
+DTEND:20250428
+SUMMARY:Harju: Kose aprillilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-aprillilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-30.Märjamaa õhtuturg
 DTSTART:20250430
 DTEND:20250501
@@ -1548,6 +1575,15 @@ DTEND:20250502
 SUMMARY:Pärnu: Sindi laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/sindi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-01.Lähte taaskasutus- ja taimelaat
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Tartu: Lähte taaskasutus- ja taimelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/lahte-taaskasutuslaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1934,7 +1970,7 @@ DTSTART:20250510
 DTEND:20250511
 SUMMARY:Rapla: Rapla kevadlaat
 LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kevadlaat-rapla/
+URL:https://laadakalender.ee/rapla-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1992,10 +2028,10 @@ URL:https://laadakalender.ee/otepaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-11.Kõpu kevadlaat
+UID:2025-05-11.Soomaa kevadlaat
 DTSTART:20250511
 DTEND:20250512
-SUMMARY:Viljandi: Kõpu kevadlaat
+SUMMARY:Viljandi: Soomaa kevadlaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/soomaa-kevadlaat/
 END:VEVENT
@@ -2376,6 +2412,15 @@ DTEND:20250525
 SUMMARY:Lääne: Virtsu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/suur-virtsu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Urbanipäeva laat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Võru: Urbanipäeva laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/urbanipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3312,6 +3357,15 @@ DTEND:20250713
 SUMMARY:Viljandi: Karksi Kihelkonnapäevad - Selle suve laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-kihelkonnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-12.Laulasmaa suvelaat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Harju: Laulasmaa suvelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laulasmaa-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
