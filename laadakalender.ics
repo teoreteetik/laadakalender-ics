@@ -1371,6 +1371,15 @@ URL:https://laadakalender.ee/vana-parnu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Kiviõli emadepäevalaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Ida-Viru: Kiviõli emadepäevalaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-emadepaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-15.Elva OTT
 DTSTART:20250515
 DTEND:20250516
