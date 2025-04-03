@@ -48,6 +48,15 @@ URL:https://laadakalender.ee/pae-keskuse-aprilli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-03.Kääpa OTT
+DTSTART:20250403
+DTEND:20250404
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-04.Oru OTT
 DTSTART:20250404
 DTEND:20250405
@@ -171,6 +180,15 @@ DTEND:20250411
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-10.Kääpa OTT
+DTSTART:20250410
+DTEND:20250411
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -444,6 +462,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-17.Kääpa OTT
+DTSTART:20250417
+DTEND:20250418
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-18.Oru OTT
 DTSTART:20250418
 DTEND:20250419
@@ -585,6 +612,15 @@ DTEND:20250425
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-24.Kääpa OTT
+DTSTART:20250424
+DTEND:20250425
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -876,6 +912,15 @@ URL:https://laadakalender.ee/lahte-taaskasutuslaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Kääpa OTT
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-02.Otepää OTT
 DTSTART:20250502
 DTEND:20250503
@@ -1062,6 +1107,15 @@ DTEND:20250509
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-08.Kääpa OTT
+DTSTART:20250508
+DTEND:20250509
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1398,6 +1452,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-15.Kääpa OTT
+DTSTART:20250515
+DTEND:20250516
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-16.Türi Lillelaat
 DTSTART:20250516
 DTEND:20250517
@@ -1614,6 +1677,15 @@ URL:https://laadakalender.ee/maalehe-eakate-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-22.Kääpa OTT
+DTSTART:20250522
+DTEND:20250523
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-23.Kuressaare Aiandus- ja Lillepäevad
 DTSTART:20250523
 DTEND:20250524
@@ -1794,6 +1866,15 @@ URL:https://laadakalender.ee/suviste-kasitoo-ja-maalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-25.Vissuvere käsitöö ja vanavarapäev
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Viljandi: Vissuvere käsitöö ja vanavarapäev
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vissuvere-kasitoo-ja-vanavarapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-29.Elva OTT
 DTSTART:20250529
 DTEND:20250530
@@ -1809,6 +1890,15 @@ DTEND:20250530
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-29.Kääpa OTT
+DTSTART:20250529
+DTEND:20250530
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1944,6 +2034,15 @@ DTEND:20250606
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-05.Kääpa OTT
+DTSTART:20250605
+DTEND:20250606
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2208,6 +2307,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-12.Kääpa OTT
+DTSTART:20250612
+DTEND:20250613
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-14.Liivimaa laat
 DTSTART:20250614
 DTEND:20250615
@@ -2304,6 +2412,15 @@ DTEND:20250620
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-19.Kääpa OTT
+DTSTART:20250619
+DTEND:20250620
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2433,6 +2550,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-26.Kääpa OTT
+DTSTART:20250626
+DTEND:20250627
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-28.Suur Paide Toidutänav
 DTSTART:20250628
 DTEND:20250629
@@ -2457,6 +2583,15 @@ DTEND:20250704
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-03.Kääpa OTT
+DTSTART:20250703
+DTEND:20250704
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2520,6 +2655,15 @@ DTEND:20250711
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-10.Kääpa OTT
+DTSTART:20250710
+DTEND:20250711
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2739,6 +2883,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-17.Kääpa OTT
+DTSTART:20250717
+DTEND:20250718
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-18.Saare Laat
 DTSTART:20250718
 DTEND:20250719
@@ -2808,6 +2961,15 @@ DTEND:20250725
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-24.Kääpa OTT
+DTSTART:20250724
+DTEND:20250725
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2973,6 +3135,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-31.Kääpa OTT
+DTSTART:20250731
+DTEND:20250801
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-01.Õllesummer
 DTSTART:20250801
 DTEND:20250802
@@ -3087,6 +3258,15 @@ DTEND:20250808
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-07.Kääpa OTT
+DTSTART:20250807
+DTEND:20250808
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3225,6 +3405,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-14.Kääpa OTT
+DTSTART:20250814
+DTEND:20250815
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-16.Vanamõisa käsitöölaat
 DTSTART:20250816
 DTEND:20250817
@@ -3324,6 +3513,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-21.Kääpa OTT
+DTSTART:20250821
+DTEND:20250822
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-23.Lüübnitsa sibula- ja kalalaat
 DTSTART:20250823
 DTEND:20250824
@@ -3405,6 +3603,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-28.Kääpa OTT
+DTSTART:20250828
+DTEND:20250829
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-30.Rapla hommikuturg
 DTSTART:20250830
 DTEND:20250831
@@ -3420,6 +3627,15 @@ DTEND:20250905
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-04.Kääpa OTT
+DTSTART:20250904
+DTEND:20250905
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3528,6 +3744,15 @@ DTEND:20250912
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-11.Kääpa OTT
+DTSTART:20250911
+DTEND:20250912
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3693,6 +3918,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-18.Kääpa OTT
+DTSTART:20250918
+DTEND:20250919
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-20.Suur Paunvere Väljanäitus ja Laat
 DTSTART:20250920
 DTEND:20250921
@@ -3753,6 +3987,15 @@ DTEND:20250926
 SUMMARY:Harju: Tallinna Toidumess - Food Fair
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-toidumess-food-fair/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-25.Kääpa OTT
+DTSTART:20250925
+DTEND:20250926
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3855,6 +4098,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-02.Kääpa OTT
+DTSTART:20251002
+DTEND:20251003
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-03.Oktoberfest Tallinn
 DTSTART:20251003
 DTEND:20251004
@@ -3936,6 +4188,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-09.Kääpa OTT
+DTSTART:20251009
+DTEND:20251010
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-10.Haapsalu sügiskuu laat
 DTSTART:20251010
 DTEND:20251011
@@ -4008,6 +4269,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-16.Kääpa OTT
+DTSTART:20251016
+DTEND:20251017
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-18.Rapla hommikuturg
 DTSTART:20251018
 DTEND:20251019
@@ -4035,6 +4305,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-23.Kääpa OTT
+DTSTART:20251023
+DTEND:20251024
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-25.Rapla hommikuturg
 DTSTART:20251025
 DTEND:20251026
@@ -4059,6 +4338,15 @@ DTEND:20251031
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-30.Kääpa OTT
+DTSTART:20251030
+DTEND:20251031
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
