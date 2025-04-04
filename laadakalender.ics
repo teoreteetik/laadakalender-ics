@@ -192,6 +192,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-10.Tabasalu OTT
+DTSTART:20250410
+DTEND:20250411
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-11.Oru OTT
 DTSTART:20250411
 DTEND:20250412
@@ -471,6 +480,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-17.Tabasalu OTT
+DTSTART:20250417
+DTEND:20250418
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-18.Oru OTT
 DTSTART:20250418
 DTEND:20250419
@@ -621,6 +639,15 @@ DTEND:20250425
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-24.Tabasalu OTT
+DTSTART:20250424
+DTEND:20250425
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -921,6 +948,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Tabasalu OTT
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-02.Otepää OTT
 DTSTART:20250502
 DTEND:20250503
@@ -1116,6 +1152,15 @@ DTEND:20250509
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-08.Tabasalu OTT
+DTSTART:20250508
+DTEND:20250509
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1461,6 +1506,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-15.Tabasalu OTT
+DTSTART:20250515
+DTEND:20250516
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-16.Türi Lillelaat
 DTSTART:20250516
 DTEND:20250517
@@ -1596,6 +1650,15 @@ URL:https://laadakalender.ee/voilillefestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Kiili kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Harju: Kiili kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kiili-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
@@ -1683,6 +1746,15 @@ DTEND:20250523
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-22.Tabasalu OTT
+DTSTART:20250522
+DTEND:20250523
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1899,6 +1971,15 @@ DTEND:20250530
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-29.Tabasalu OTT
+DTSTART:20250529
+DTEND:20250530
+SUMMARY:Harju: Tabasalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
