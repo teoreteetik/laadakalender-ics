@@ -138,6 +138,15 @@ URL:https://laadakalender.ee/rapina-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-08.Jõgeva OTT
+DTSTART:20250408
+DTEND:20250409
+SUMMARY:Jõgeva: Jõgeva OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-09.Ehitusmess Eesti ehitab
 DTSTART:20250409
 DTEND:20250410
@@ -624,6 +633,15 @@ URL:https://laadakalender.ee/tabasalu-lihavotteturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-19.Pala taaskasutuslaat
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Tartu: Pala taaskasutuslaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/pala-taaskasutuslaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-20.Kevadlaat Kiviõlis
 DTSTART:20250420
 DTEND:20250421
@@ -1101,6 +1119,15 @@ URL:https://laadakalender.ee/aste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-03.Suur kogupere grillipidu - Grillfest tuleb külla!
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Lääne-Viru: Suur kogupere grillipidu - Grillfest tuleb külla!
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla-vinni/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
@@ -1434,6 +1461,15 @@ URL:https://laadakalender.ee/karksi-nuia-maikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Suur kogupere grillipidu – Grillfest tuleb külla!
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Ida-Viru: Suur kogupere grillipidu – Grillfest tuleb külla!
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1521,6 +1557,15 @@ DTEND:20250512
 SUMMARY:Lääne: Kullamaa kevadlaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/kullamaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-13.Jõgeva OTT
+DTSTART:20250513
+DTEND:20250514
+SUMMARY:Jõgeva: Jõgeva OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1701,6 +1746,15 @@ DTEND:20250518
 SUMMARY:Harju: Kiili kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kiili-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Suur kogupere grillipidu – Grillfest tuleb külla!
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Harju: Suur kogupere grillipidu – Grillfest tuleb külla!
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1920,6 +1974,15 @@ URL:https://laadakalender.ee/urbanipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Suur kogupere grillipidu – Grillfest tuleb külla!
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Jõgeva: Suur kogupere grillipidu – Grillfest tuleb külla!
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -2133,6 +2196,15 @@ DTEND:20250601
 SUMMARY:Järva: Järvamaa Laulu- ja Tantsupidu - laat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/jarvamaa-laulu-ja-tantsupidu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Suur kogupere grillipidu – Grillfest tuleb külla!
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Järva: Suur kogupere grillipidu – Grillfest tuleb külla!
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2466,6 +2538,15 @@ DTEND:20250609
 SUMMARY:Harju: Eesti Elamumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-elamumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-10.Jõgeva OTT
+DTSTART:20250610
+DTEND:20250611
+SUMMARY:Jõgeva: Jõgeva OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2871,6 +2952,15 @@ DTEND:20250707
 SUMMARY:Tartu: Suur Tartu Toidutänav
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/suur-tartu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-08.Jõgeva OTT
+DTSTART:20250708
+DTEND:20250709
+SUMMARY:Jõgeva: Jõgeva OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3495,6 +3585,15 @@ URL:https://laadakalender.ee/parnu-gildipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-02.Vinni valla päev – Grillfest
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Lääne-Viru: Vinni valla päev – Grillfest
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vinni-valla-paev-grillfest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-03.Vanatehnikalaat Sulle-Mulle
 DTSTART:20250803
 DTEND:20250804
@@ -3645,6 +3744,15 @@ DTEND:20250811
 SUMMARY:Rapla: Rapla viljakuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-12.Jõgeva OTT
+DTSTART:20250812
+DTEND:20250813
+SUMMARY:Jõgeva: Jõgeva OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
