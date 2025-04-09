@@ -408,6 +408,24 @@ URL:https://laadakalender.ee/paide-aprillilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-12.Alavere kappide tuulutus
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Harju: Alavere kappide tuulutus
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/alavere-kappide-tuulutus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-12.Haapsalu kevadkuu laat
+DTSTART:20250412
+DTEND:20250413
+SUMMARY:Lääne: Haapsalu kevadkuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-kevadkuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-13.Mustamäe Keskuse kevadlaat
 DTSTART:20250413
 DTEND:20250414
@@ -657,6 +675,15 @@ DTEND:20250421
 SUMMARY:Harju: Valkla kirbuturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-20.Räpina naljakuu laat
+DTSTART:20250420
+DTEND:20250421
+SUMMARY:Põlva: Räpina naljakuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-naljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -936,6 +963,15 @@ DTEND:20250428
 SUMMARY:Pärnu: Kilingi-Nõmme laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/kilingi-nomme-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-27.Antsla Kevadlaat
+DTSTART:20250427
+DTEND:20250428
+SUMMARY:Võru: Antsla Kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1467,6 +1503,24 @@ DTEND:20250511
 SUMMARY:Ida-Viru: Suur kogupere grillipidu – Grillfest tuleb külla!
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Sutlepa kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Lääne: Sutlepa kevadlaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/sutlepa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Tihemetsa kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Pärnu: Tihemetsa kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/tihemetsa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2205,6 +2259,15 @@ DTEND:20250601
 SUMMARY:Järva: Suur kogupere grillipidu – Grillfest tuleb külla!
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Jüri laat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Harju: Jüri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/juri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
