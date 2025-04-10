@@ -786,6 +786,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-25.Autorite raamatulaat
+DTSTART:20250425
+DTEND:20250426
+SUMMARY:Tartu: Autorite raamatulaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/autorite-raamatulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-26.Maamess
 DTSTART:20250426
 DTEND:20250427
@@ -2892,6 +2901,15 @@ URL:https://laadakalender.ee/pohja-tallinna-suur-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-22.Ambla jaanilaat
+DTSTART:20250622
+DTEND:20250623
+SUMMARY:Järva: Ambla jaanilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/ambla-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-23.Avinurme tünnilaat
 DTSTART:20250623
 DTEND:20250624
@@ -3501,6 +3519,15 @@ DTEND:20250727
 SUMMARY:Lääne: Haapsalu Promenaadilaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-promenaadilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Paldiski Päeva Laat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Harju: Paldiski Päeva Laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
