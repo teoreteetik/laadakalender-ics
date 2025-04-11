@@ -1821,6 +1821,15 @@ URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Obinitsa laada- ja perepäev
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Võru: Obinitsa laada- ja perepäev
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/obinitsa-laada-ja-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
@@ -2043,6 +2052,15 @@ DTEND:20250525
 SUMMARY:Jõgeva: Suur kogupere grillipidu – Grillfest tuleb külla!
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Viljandi linna suur perepäev ja laat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Viljandi: Viljandi linna suur perepäev ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-linna-suur-perepaev-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
