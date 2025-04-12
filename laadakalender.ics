@@ -660,6 +660,15 @@ URL:https://laadakalender.ee/pala-taaskasutuslaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-19.Abja-Paluoja aprillikuu laat
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Viljandi: Abja-Paluoja aprillikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-aprillikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-20.Kevadlaat Kiviõlis
 DTSTART:20250420
 DTEND:20250421
@@ -1065,6 +1074,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-02.Kohila OTT
+DTSTART:20250502
+DTEND:20250503
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-03.Märjamaa Kevadlaat
 DTSTART:20250503
 DTEND:20250504
@@ -1314,6 +1332,15 @@ DTEND:20250510
 SUMMARY:Võru: UMA MEKK kevadlaat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/uma-mekk-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-09.Kohila OTT
+DTSTART:20250509
+DTEND:20250510
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1623,6 +1650,15 @@ URL:https://laadakalender.ee/kullamaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Kõmsi emadepäeva kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Pärnu: Kõmsi emadepäeva kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/komsi-emadepaeva-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-13.Jõgeva OTT
 DTSTART:20250513
 DTEND:20250514
@@ -1674,6 +1710,15 @@ DTEND:20250517
 SUMMARY:Järva: Türi Lillelaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-lillelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-16.Kohila OTT
+DTSTART:20250516
+DTEND:20250517
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1938,6 +1983,15 @@ URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-23.Kohila OTT
+DTSTART:20250523
+DTEND:20250524
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20250524
 DTEND:20250525
@@ -2187,6 +2241,15 @@ DTEND:20250531
 SUMMARY:Harju: Suur Tallinna Toidutänav
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-tallinna-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-30.Kohila OTT
+DTSTART:20250530
+DTEND:20250531
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2754,6 +2817,15 @@ DTEND:20250615
 SUMMARY:Harju: Eesti Elamumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-elamumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Türi traktor
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Järva: Türi traktor
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-traktor/
 END:VEVENT
 
 BEGIN:VEVENT
