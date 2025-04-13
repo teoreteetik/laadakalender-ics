@@ -1722,6 +1722,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-16.Pärnu Maikuulaat
+DTSTART:20250516
+DTEND:20250517
+SUMMARY:Pärnu: Pärnu Maikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maikuulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-17.Kalamaja päevad
 DTSTART:20250517
 DTEND:20250518
@@ -1872,6 +1881,15 @@ DTEND:20250518
 SUMMARY:Võru: Obinitsa laada- ja perepäev
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/obinitsa-laada-ja-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Pärnu Maikuulaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Pärnu: Pärnu Maikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
