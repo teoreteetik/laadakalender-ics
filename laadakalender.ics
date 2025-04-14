@@ -597,6 +597,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-18.Valga kevadlaat
+DTSTART:20250418
+DTEND:20250419
+SUMMARY:Valga: Valga kevadlaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-19.Kevadpühade turg
 DTSTART:20250419
 DTEND:20250420
@@ -669,6 +678,15 @@ URL:https://laadakalender.ee/abja-paluoja-aprillikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-19.Loksa aprillilaat
+DTSTART:20250419
+DTEND:20250420
+SUMMARY:Harju: Loksa aprillilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-aprillilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-20.Kevadlaat Kiviõlis
 DTSTART:20250420
 DTEND:20250421
@@ -693,6 +711,15 @@ DTEND:20250421
 SUMMARY:Põlva: Räpina naljakuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-naljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-04-20.Tapa kevadkuu laat
+DTSTART:20250420
+DTEND:20250421
+SUMMARY:Ida-Viru: Tapa kevadkuu laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-kevadkuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -912,6 +939,15 @@ URL:https://laadakalender.ee/vanasadama-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-04-26.Tamsalu kevadkuu laat
+DTSTART:20250426
+DTEND:20250427
+SUMMARY:Ida-Viru: Tamsalu kevadkuu laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/tamsalu-kevadkuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-04-27.Sisustumess Interjöör
 DTSTART:20250427
 DTEND:20250428
@@ -948,12 +984,12 @@ URL:https://laadakalender.ee/disainilaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-27.Türi kevadlaat
+UID:2025-04-27.Türi kevadkuu laat
 DTSTART:20250427
 DTEND:20250428
-SUMMARY:Järva: Türi kevadlaat
+SUMMARY:Järva: Türi kevadkuu laat
 LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/turi-kevadlaat/
+URL:https://laadakalender.ee/turi-kevadkuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1731,6 +1767,15 @@ URL:https://laadakalender.ee/parnu-maikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-16.Vanakraami müügipäevad
+DTSTART:20250516
+DTEND:20250517
+SUMMARY:Tartu: Vanakraami müügipäevad
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/vanakraami-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-17.Kalamaja päevad
 DTSTART:20250517
 DTEND:20250518
@@ -1893,6 +1938,15 @@ URL:https://laadakalender.ee/parnu-maikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Vanakraami müügipäevad
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Tartu: Vanakraami müügipäevad
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/vanakraami-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
@@ -1944,6 +1998,24 @@ DTEND:20250519
 SUMMARY:Tartu: Maarja-Magdaleena kevadlaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/maarja-magdaleena-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Põhjala turg
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Harju: Põhjala turg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohjala-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Vanakraami müügipäevad
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Tartu: Vanakraami müügipäevad
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/vanakraami-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2133,6 +2205,15 @@ DTEND:20250525
 SUMMARY:Viljandi: Viljandi linna suur perepäev ja laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-linna-suur-perepaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Häädemeeste kevadlaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Pärnu: Häädemeeste kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/haademeeste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2394,6 +2475,15 @@ DTEND:20250602
 SUMMARY:Harju: E-Lux Peetri jooks expo ja laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/peetri-jooks-expo-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.Lastepäev Alle-Saija Teatritalus
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Põlva: Lastepäev Alle-Saija Teatritalus
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/lastepaev-alle-saija-teatritalus/
 END:VEVENT
 
 BEGIN:VEVENT
