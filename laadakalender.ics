@@ -1596,6 +1596,24 @@ URL:https://laadakalender.ee/tihemetsa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Tarvastu laat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Viljandi: Tarvastu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/tarvastu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Varbola emadepäevaeelne õhtuhaku laat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Rapla: Varbola emadepäevaeelne õhtuhaku laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-emadepaevaeelne-ohtuhaku-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -2016,6 +2034,15 @@ DTEND:20250519
 SUMMARY:Tartu: Vanakraami müügipäevad
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/vanakraami-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Katariina Sõprade Laat
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Pärnu: Katariina Sõprade Laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/katariina-soprade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2934,6 +2961,15 @@ DTEND:20250615
 SUMMARY:Järva: Türi traktor
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-traktor/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Sipa Ankru laat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Rapla: Sipa Ankru laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/sipa-ankru-laat-ja-simman/
 END:VEVENT
 
 BEGIN:VEVENT
