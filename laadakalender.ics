@@ -633,15 +633,6 @@ URL:https://laadakalender.ee/kevadlaat-haapsalu-turul/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-04-19.Reidi pargi suur kevadlaat
-DTSTART:20250419
-DTEND:20250420
-SUMMARY:Harju: Reidi pargi suur kevadlaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/reidi-pargi-suur-kevadlaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-04-19.Turba OTT
 DTSTART:20250419
 DTEND:20250420
@@ -1227,6 +1218,15 @@ URL:https://laadakalender.ee/suur-kogupere-grillipidu-grillfest-tuleb-kulla-vinn
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-03.Tartu Valla OTT Kevadlaat
+DTSTART:20250503
+DTEND:20250504
+SUMMARY:Tartu: Tartu Valla OTT Kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-valla-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-04.Tagadi restauraatorite päev
 DTSTART:20250504
 DTEND:20250505
@@ -1278,6 +1278,15 @@ DTEND:20250505
 SUMMARY:Harju: E-Lux Viimsi jooks - laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/e-lux-viimsi-jooks-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Tartu Valla OTT Kevadlaat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Tartu: Tartu Valla OTT Kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-valla-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4350,6 +4359,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-30.Kose-Uuemõisa vanatehnikapäev
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Harju: Kose-Uuemõisa vanatehnikapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-uuemoisa-vanatehnikapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-04.Rapla õhtuturg
 DTSTART:20250904
 DTEND:20250905
@@ -4626,15 +4644,6 @@ DTEND:20250915
 SUMMARY:Viljandi: Vastemõisa laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/vastemoisa-superlaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-09-14.Kose-Uuemõisa vanatehnikapäev
-DTSTART:20250914
-DTEND:20250915
-SUMMARY:Harju: Kose-Uuemõisa vanatehnikapäev
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kose-uuemoisa-vanatehnikapaev/
 END:VEVENT
 
 BEGIN:VEVENT
