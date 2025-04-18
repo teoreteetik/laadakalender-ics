@@ -3252,6 +3252,24 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-28.Narva Linnapäevad
+DTSTART:20250628
+DTEND:20250629
+SUMMARY:Ida-Viru: Narva Linnapäevad
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-linnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-29.Narva Linnapäevad
+DTSTART:20250629
+DTEND:20250630
+SUMMARY:Ida-Viru: Narva Linnapäevad
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-linnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-03.Rapla õhtuturg
 DTSTART:20250703
 DTEND:20250704
@@ -3684,6 +3702,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-24.Väike käsitöö- ja toiduturg
+DTSTART:20250724
+DTEND:20250725
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-25.Suur Haapsalu Toidutänav
 DTSTART:20250725
 DTEND:20250726
@@ -3708,6 +3735,15 @@ DTEND:20250726
 SUMMARY:Lääne: Haapsalu Promenaadilaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-promenaadilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-25.Väike käsitöö- ja toiduturg
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3819,12 +3855,30 @@ URL:https://laadakalender.ee/paldiski-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Väike käsitöö- ja toiduturg
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
 SUMMARY:Lääne-Viru: Jäneda Talupäevad
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/janeda-talupaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-27.Väike käsitöö- ja toiduturg
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
 END:VEVENT
 
 BEGIN:VEVENT
