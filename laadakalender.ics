@@ -1101,6 +1101,15 @@ URL:https://laadakalender.ee/tabasalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Risti kevadlaat
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Lääne: Risti kevadlaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-02.Otepää OTT
 DTSTART:20250502
 DTEND:20250503
@@ -1305,6 +1314,24 @@ DTEND:20250505
 SUMMARY:Tartu: Tartu Valla OTT Kevadlaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-valla-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Räpina õiekuu laat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Põlva: Räpina õiekuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-04.Kallaste kevadlaat
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Tartu: Kallaste kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2133,6 +2160,15 @@ DTEND:20250519
 SUMMARY:Harju: Taaskasutuslaat ja taimelaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/taaskasutuslaat-kultuurikeeris/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Räpina laat
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Põlva: Räpina laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-laat/
 END:VEVENT
 
 BEGIN:VEVENT
