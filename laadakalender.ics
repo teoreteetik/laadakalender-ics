@@ -1110,6 +1110,15 @@ URL:https://laadakalender.ee/risti-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-01.Pirita jahtklubi kevadlaat
+DTSTART:20250501
+DTEND:20250502
+SUMMARY:Harju: Pirita jahtklubi kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pirita-jahtklubi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-02.Otepää OTT
 DTSTART:20250502
 DTEND:20250503
@@ -2070,6 +2079,15 @@ DTEND:20250518
 SUMMARY:Saare: Auriga Kirpar
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-kirpar/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Loosi kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Võru: Loosi kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/loosi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3387,6 +3405,15 @@ URL:https://laadakalender.ee/narva-linnapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-29.Kärstna pargipäev ja laat
+DTSTART:20250629
+DTEND:20250630
+SUMMARY:Viljandi: Kärstna pargipäev ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karstna-pargipaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-03.Rapla õhtuturg
 DTSTART:20250703
 DTEND:20250704
@@ -4158,6 +4185,15 @@ DTEND:20250803
 SUMMARY:Lääne-Viru: Vinni valla päev – Grillfest
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/vinni-valla-paev-grillfest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Märjamaa Folk - käsitöölaat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Rapla: Märjamaa Folk - käsitöölaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-folk-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
