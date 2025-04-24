@@ -1713,6 +1713,24 @@ URL:https://laadakalender.ee/keila-laste-ja-noorteasjade-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Pimedate Ühingu kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Harju: Pimedate Ühingu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-eesti-pimedate-uhingu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-10.Puka kevadlaat
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Valga: Puka kevadlaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/puka-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -2190,6 +2208,15 @@ URL:https://laadakalender.ee/rapina-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-18.Pärsama kevadlaat
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Saare: Pärsama kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/parsama-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-22.Elva OTT
 DTSTART:20250522
 DTEND:20250523
@@ -2388,6 +2415,15 @@ URL:https://laadakalender.ee/haademeeste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Narva Kevadlaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Ida-Viru: Narva Kevadlaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -2466,6 +2502,15 @@ DTEND:20250526
 SUMMARY:Harju: Nõmme Roheliste Väravate Tänav
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/roheliste-varavate-tanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Narva Kevadlaat
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Ida-Viru: Narva Kevadlaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
