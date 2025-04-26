@@ -2514,6 +2514,15 @@ URL:https://laadakalender.ee/narva-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-25.Otepää õiekuu laat
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Valga: Otepää õiekuu laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-29.Elva OTT
 DTSTART:20250529
 DTEND:20250530
@@ -2718,6 +2727,15 @@ DTEND:20250602
 SUMMARY:Põlva: Lastepäev Alle-Saija Teatritalus
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/lastepaev-alle-saija-teatritalus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.Räpina jaanikuu laat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Põlva: Räpina jaanikuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2952,6 +2970,15 @@ DTEND:20250608
 SUMMARY:Harju: Eesti Elamumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-elamumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-07.Elva jaanikuu laat
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Tartu: Elva jaanikuu laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3225,6 +3252,15 @@ URL:https://laadakalender.ee/eesti-elamumess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-15.Räpina jaanilaat
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Põlva: Räpina jaanilaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-19.Elva OTT
 DTSTART:20250619
 DTEND:20250620
@@ -3369,6 +3405,15 @@ URL:https://laadakalender.ee/ambla-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-22.Otepää jaanilaat
+DTSTART:20250622
+DTEND:20250623
+SUMMARY:Valga: Otepää jaanilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-23.Avinurme tünnilaat
 DTSTART:20250623
 DTEND:20250624
@@ -3459,6 +3504,15 @@ URL:https://laadakalender.ee/karstna-pargipaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-29.Räpina suvekuu laat
+DTSTART:20250629
+DTEND:20250630
+SUMMARY:Põlva: Räpina suvekuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-suvekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-03.Rapla õhtuturg
 DTSTART:20250703
 DTEND:20250704
@@ -3510,6 +3564,15 @@ DTEND:20250706
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-05.Elva suvekuu laat
+DTSTART:20250705
+DTEND:20250706
+SUMMARY:Tartu: Elva suvekuu laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-suvekuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3828,6 +3891,15 @@ URL:https://laadakalender.ee/saare-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-18.Tõrva Tule-Päevade laat
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Valga: Tõrva Tule-Päevade laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/torva-tule-paevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-19.Saare Laat
 DTSTART:20250719
 DTEND:20250720
@@ -3870,6 +3942,15 @@ DTEND:20250720
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Tõrva Tule-Päevade laat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Valga: Tõrva Tule-Päevade laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/torva-tule-paevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4239,6 +4320,15 @@ DTEND:20250803
 SUMMARY:Rapla: Märjamaa Folk - käsitöölaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-folk-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Elva suvelaat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Tartu: Elva suvelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
