@@ -1839,6 +1839,15 @@ URL:https://laadakalender.ee/telliskivi-keraamika-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Antsla õiekuu laat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Võru: Antsla õiekuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-13.Jõgeva OTT
 DTSTART:20250513
 DTEND:20250514
