@@ -2784,6 +2784,15 @@ URL:https://laadakalender.ee/toidulaat-narva-maitsed/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-31.Põhja-Pärnumaa energiaFestival
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Pärnu: Põhja-Pärnumaa energiaFestival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/pohja-parnumaa-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Turba OTT
 DTSTART:20250531
 DTEND:20250601
@@ -3090,6 +3099,15 @@ URL:https://laadakalender.ee/elva-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Hansamess
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Viljandi: Hansamess
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/hansamess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -3168,6 +3186,15 @@ DTEND:20250609
 SUMMARY:Harju: Eesti Elamumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-elamumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-08.Hansamess
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Viljandi: Hansamess
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/hansamess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3969,6 +3996,15 @@ DTEND:20250714
 SUMMARY:Pärnu: Valgeranna Muusikatalli Suvelaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/valgeranna-muusikatalli-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-14.Piimapäev
+DTSTART:20250714
+DTEND:20250715
+SUMMARY:Järva: Piimapäev
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/piimapaev/
 END:VEVENT
 
 BEGIN:VEVENT
