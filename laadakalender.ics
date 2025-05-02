@@ -723,6 +723,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Haljala pere- ja laadapäev
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Lääne-Viru: Haljala pere- ja laadapäev
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/haljala-pere-ja-laadapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -837,6 +846,15 @@ DTEND:20250512
 SUMMARY:Võru: Antsla õiekuu laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/antsla-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Josephine lillepidu
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Tartu: Josephine lillepidu
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/josephine-lillepidu/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1134,6 +1152,24 @@ DTEND:20250518
 SUMMARY:Saare: Tahula laadapäev
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/tahula-laadapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Tabivere kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Tartu: Tabivere kevadlaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tabivere-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Muhu kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Saare: Muhu kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1458,6 +1494,24 @@ DTEND:20250525
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Tõrvandi kevadlaat "Mai Kelluke"
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Tartu: Tõrvandi kevadlaat "Mai Kelluke"
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/torvandi-kevadlaat-mai-kelluke/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Haabersti kevadlaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Harju: Haabersti kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/haabersti-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1800,6 +1854,15 @@ DTEND:20250602
 SUMMARY:Põlva: Räpina jaanikuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.Lõuna-Eesti memme-taadi peo laat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Valga: Lõuna-Eesti memme-taadi peo laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/memme-ja-taadi-peo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
