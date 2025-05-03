@@ -858,6 +858,15 @@ URL:https://laadakalender.ee/josephine-lillepidu/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Laiusekandi OTT
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Jõgeva: Laiusekandi OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-13.Jõgeva OTT
 DTSTART:20250513
 DTEND:20250514
@@ -2541,6 +2550,15 @@ URL:https://laadakalender.ee/vastseliina-vana-aja-paeva-kasitoomeistrite-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Vastseliina Maarahva Laat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Võru: Vastseliina Maarahva Laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/vastseliina-maarahva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -2574,6 +2592,15 @@ DTEND:20250623
 SUMMARY:Valga: Otepää jaanilaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-22.Vastseliina Maarahva Laat
+DTSTART:20250622
+DTEND:20250623
+SUMMARY:Võru: Vastseliina Maarahva Laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/vastseliina-maarahva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
