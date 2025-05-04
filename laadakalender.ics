@@ -1182,6 +1182,15 @@ URL:https://laadakalender.ee/muhu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.Tapa raamatukogu vanaraamatulaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Lääne-Viru: Tapa raamatukogu vanaraamatulaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-raamatukogu-vanaraamatulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
@@ -1287,6 +1296,15 @@ DTEND:20250519
 SUMMARY:Saare: Pärsama kevadlaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/parsama-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-18.Postipoisi Täika
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Pärnu: Postipoisi Täika
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/postipoisi-taika/
 END:VEVENT
 
 BEGIN:VEVENT
