@@ -318,6 +318,15 @@ URL:https://laadakalender.ee/kallaste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-04.Tagadi restauraatorite päev
+DTSTART:20250504
+DTEND:20250505
+SUMMARY:Harju: Tagadi restauraatorite päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-07.Põltsamaa OTT
 DTSTART:20250507
 DTEND:20250508
@@ -423,6 +432,15 @@ DTEND:20250510
 SUMMARY:Harju: Revonia kliendipäev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/revonia-kliendipaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-09.Jõgeva laat
+DTSTART:20250509
+DTEND:20250510
+SUMMARY:Jõgeva: Jõgeva laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1542,6 +1560,24 @@ URL:https://laadakalender.ee/haabersti-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Kogukonna Festival Hiugemäel
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Tartu: Kogukonna Festival Hiugemäel
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kogukonna-festival-hiugemael/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-24.Mudelisminäitus Minimaailm
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Harju: Mudelisminäitus Minimaailm
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/minimaailm/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -1638,6 +1674,15 @@ DTEND:20250526
 SUMMARY:Valga: Otepää õiekuu laat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Mudelisminäitus Minimaailm
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Harju: Mudelisminäitus Minimaailm
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/minimaailm/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2253,6 +2298,24 @@ URL:https://laadakalender.ee/hansamess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-08.Kolga laat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Tartu: Kolga laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kolga-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-08.Ääsmäe kevadlaat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Harju: Ääsmäe kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-10.Jõgeva OTT
 DTSTART:20250610
 DTEND:20250611
@@ -2667,6 +2730,24 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-27.Pärnu Hansapäevad
+DTSTART:20250627
+DTEND:20250628
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-28.Pärnu Hansapäevad
+DTSTART:20250628
+DTEND:20250629
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-28.Suur Paide Toidutänav
 DTSTART:20250628
 DTEND:20250629
@@ -2718,6 +2799,15 @@ DTEND:20250630
 SUMMARY:Põlva: Räpina suvekuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-suvekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-29.Pärnu Hansapäevad
+DTSTART:20250629
+DTEND:20250630
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4482,6 +4572,15 @@ DTEND:20251005
 SUMMARY:Harju: Piiriveere sibula ja kala päev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/piiriveere-sibula-ja-kala-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-05.Tagadi restauraatorite päev
+DTSTART:20251005
+DTEND:20251006
+SUMMARY:Harju: Tagadi restauraatorite päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
 END:VEVENT
 
 BEGIN:VEVENT
