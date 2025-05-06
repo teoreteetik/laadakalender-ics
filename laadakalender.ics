@@ -1938,6 +1938,15 @@ URL:https://laadakalender.ee/memme-ja-taadi-peo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-01.Tapa jaanikuu laat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Lääne-Viru: Tapa jaanikuu laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-04.Eesti Elamumess
 DTSTART:20250604
 DTEND:20250605
@@ -2298,15 +2307,6 @@ URL:https://laadakalender.ee/hansamess/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-06-08.Kolga laat
-DTSTART:20250608
-DTEND:20250609
-SUMMARY:Tartu: Kolga laat
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/kolga-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-06-08.Ääsmäe kevadlaat
 DTSTART:20250608
 DTEND:20250609
@@ -2466,6 +2466,15 @@ DTEND:20250615
 SUMMARY:Võru: Satserinna Sõirapäev
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/satserinna-soirapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Kolga laat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Tartu: Kolga laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kolga-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2874,12 +2883,30 @@ URL:https://laadakalender.ee/elva-suvekuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-05.Tamsalu kesksuve laat
+DTSTART:20250705
+DTEND:20250706
+SUMMARY:Lääne-Viru: Tamsalu kesksuve laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tamsalu-kesksuve-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-06.Suur Tartu Toidutänav
 DTSTART:20250706
 DTEND:20250707
 SUMMARY:Tartu: Suur Tartu Toidutänav
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/suur-tartu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-06.Tapa kesksuve laat
+DTSTART:20250706
+DTEND:20250707
+SUMMARY:Lääne-Viru: Tapa kesksuve laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-kesksuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3648,6 +3675,15 @@ URL:https://laadakalender.ee/vanatehnika-ja-vanavara-laat-sulle-mulle/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-03.Tapa lõikuskuu laat
+DTSTART:20250803
+DTEND:20250804
+SUMMARY:Lääne-Viru: Tapa lõikuskuu laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-07.Rapla õhtuturg
 DTSTART:20250807
 DTEND:20250808
@@ -4275,6 +4311,15 @@ DTEND:20250914
 SUMMARY:Harju: Mustamäe sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/sugislaat-manni-park/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Kolga laat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Tartu: Kolga laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kolga-laat/
 END:VEVENT
 
 BEGIN:VEVENT
