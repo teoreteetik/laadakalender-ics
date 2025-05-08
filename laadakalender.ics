@@ -912,6 +912,15 @@ URL:https://laadakalender.ee/kilingi-nomme-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Tapa kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Lääne-Viru: Tapa kevadlaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-13.Jõgeva OTT
 DTSTART:20250513
 DTEND:20250514
@@ -1242,6 +1251,15 @@ DTEND:20250518
 SUMMARY:Lääne-Viru: Tapa raamatukogu vanaraamatulaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/tapa-raamatukogu-vanaraamatulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Vastse-Kuuste kevadlaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Põlva: Vastse-Kuuste kevadlaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/vastse-kuuste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2007,6 +2025,15 @@ DTEND:20250601
 SUMMARY:Harju: Kodulindude ja küülikute näituslaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kodulindude-ja-kuulikute-naituslaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Haapsalu lillepäev
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Lääne: Haapsalu lillepäev
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-lillepaev/
 END:VEVENT
 
 BEGIN:VEVENT
