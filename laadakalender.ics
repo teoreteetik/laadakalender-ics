@@ -1263,6 +1263,24 @@ URL:https://laadakalender.ee/vastse-kuuste-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-17.UK Fest taaskasutusfestival
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Tartu: UK Fest taaskasutusfestival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/uk-fest-taaskasutusfestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-17.Loksa mailaat
+DTSTART:20250517
+DTEND:20250518
+SUMMARY:Harju: Loksa mailaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-mailaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-18.Kalamaja päevad
 DTSTART:20250518
 DTEND:20250519
