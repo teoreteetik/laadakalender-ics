@@ -3801,6 +3801,15 @@ URL:https://laadakalender.ee/parnu-gildipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Haapsalu lõikuskuu laat
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Lääne: Haapsalu lõikuskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Luige vanavara- ja käsitöölaat
 DTSTART:20250802
 DTEND:20250803
@@ -3888,6 +3897,15 @@ DTEND:20250803
 SUMMARY:Tartu: Elva suvelaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Haapsalu lõikuskuu laat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Lääne: Haapsalu lõikuskuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4050,6 +4068,15 @@ DTEND:20250811
 SUMMARY:Rapla: Rapla viljakuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-10.Rapla lõikuskuu laat
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Rapla: Rapla lõikuskuu laat
+LOCATION:Raplamaa, Estonia
+URL:
 END:VEVENT
 
 BEGIN:VEVENT
