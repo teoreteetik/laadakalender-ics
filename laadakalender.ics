@@ -768,6 +768,15 @@ URL:https://laadakalender.ee/kuressaare-emadepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-10.Kadrina OTT
+DTSTART:20250510
+DTEND:20250511
+SUMMARY:Lääne-Viru: Kadrina OTT
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-11.Luige Laat - Maaelu Näituslaat
 DTSTART:20250511
 DTEND:20250512
@@ -1017,6 +1026,15 @@ DTEND:20250517
 SUMMARY:Tartu: Vanakraami müügipäevad
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/vanakraami-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-16.Kuusalu OTT
+DTSTART:20250516
+DTEND:20250517
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1497,6 +1515,15 @@ URL:https://laadakalender.ee/voru-maikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-23.Kuusalu OTT
+DTSTART:20250523
+DTEND:20250524
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20250524
 DTEND:20250525
@@ -1902,6 +1929,15 @@ URL:https://laadakalender.ee/kesk-eesti-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-30.Kuusalu OTT
+DTSTART:20250530
+DTEND:20250531
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Sõmeru Maaelufestival
 DTSTART:20250531
 DTEND:20250601
@@ -2223,6 +2259,15 @@ DTEND:20250607
 SUMMARY:Viljandi: Hansamess
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/hansamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-06.Kuusalu OTT
+DTSTART:20250606
+DTEND:20250607
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2559,6 +2604,15 @@ URL:https://laadakalender.ee/eesti-elamumess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-13.Kuusalu OTT
+DTSTART:20250613
+DTEND:20250614
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-14.Liivimaa laat
 DTSTART:20250614
 DTEND:20250615
@@ -2757,6 +2811,15 @@ URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-20.Kuusalu OTT
+DTSTART:20250620
+DTEND:20250621
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-21.Põltsamaa Lossipäev
 DTSTART:20250621
 DTEND:20250622
@@ -2937,6 +3000,15 @@ URL:https://laadakalender.ee/parnu-hansapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-27.Kuusalu OTT
+DTSTART:20250627
+DTEND:20250628
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-28.Pärnu Hansapäevad
 DTSTART:20250628
 DTEND:20250629
@@ -3033,6 +3105,15 @@ DTEND:20250705
 SUMMARY:Lääne: Haapsalu Maitsete Promenaad
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/tanavatoidufestival-haapsalu-maitsete-promenaad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-04.Kuusalu OTT
+DTSTART:20250704
+DTEND:20250705
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3186,6 +3267,15 @@ DTEND:20250712
 SUMMARY:Viljandi: Võhma Linna Päevad ja Kesk-Eesti Laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/vohma-linna-paevad-ja-kesk-eesti-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-11.Kuusalu OTT
+DTSTART:20250711
+DTEND:20250712
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3450,6 +3540,15 @@ URL:https://laadakalender.ee/torva-tule-paevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-18.Kuusalu OTT
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-19.Saare Laat
 DTSTART:20250719
 DTEND:20250720
@@ -3582,6 +3681,15 @@ DTEND:20250726
 SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-25.Kuusalu OTT
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3810,6 +3918,15 @@ URL:https://laadakalender.ee/parnu-gildipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Kuusalu OTT
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Luige vanavara- ja käsitöölaat
 DTSTART:20250802
 DTEND:20250803
@@ -3963,6 +4080,15 @@ URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Kuusalu OTT
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -4089,6 +4215,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-15.Kuusalu OTT
+DTSTART:20250815
+DTEND:20250816
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-16.Vanamõisa käsitöölaat / Vanamõisa FEST
 DTSTART:20250816
 DTEND:20250817
@@ -4197,6 +4332,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-22.Kuusalu OTT
+DTSTART:20250822
+DTEND:20250823
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-23.Lüübnitsa sibula- ja kalalaat
 DTSTART:20250823
 DTEND:20250824
@@ -4287,6 +4431,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-29.Kuusalu OTT
+DTSTART:20250829
+DTEND:20250830
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-30.Kallaste kala- ja sibulalaat
 DTSTART:20250830
 DTEND:20250831
@@ -4347,6 +4500,15 @@ DTEND:20250906
 SUMMARY:Saare: Saaremaa Toidufestival - sügislaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/saaremaa-toidufestival-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-05.Kuusalu OTT
+DTSTART:20250905
+DTEND:20250906
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4473,6 +4635,15 @@ DTEND:20250913
 SUMMARY:Lääne: Haapsalu Vintage Weekend
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-12.Kuusalu OTT
+DTSTART:20250912
+DTEND:20250913
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4629,6 +4800,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-19.Kuusalu OTT
+DTSTART:20250919
+DTEND:20250920
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-20.Suur Paunvere Väljanäitus ja Laat
 DTSTART:20250920
 DTEND:20250921
@@ -4707,6 +4887,15 @@ DTEND:20250927
 SUMMARY:Harju: Oktoberfest Tallinn
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/oktoberfest-tallinn/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-26.Kuusalu OTT
+DTSTART:20250926
+DTEND:20250927
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
