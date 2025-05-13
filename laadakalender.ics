@@ -930,6 +930,24 @@ URL:https://laadakalender.ee/tapa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-11.Laitse Seltsimaja kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Harju: Laitse Seltsimaja kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laitse-seltsimaja-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-11.Orissaare kevadlaat
+DTSTART:20250511
+DTEND:20250512
+SUMMARY:Saare: Orissaare kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/orissaare-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-13.Jõgeva OTT
 DTSTART:20250513
 DTEND:20250514
@@ -1722,6 +1740,15 @@ URL:https://laadakalender.ee/abja-paluoja-taime-ja-istikute-muugipaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-24.Viimsi taaskasutuslaat
+DTSTART:20250524
+DTEND:20250525
+SUMMARY:Harju: Viimsi taaskasutuslaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-taaskasutuslaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-25.Jäneda Aia- ja Lillepäevad
 DTSTART:20250525
 DTEND:20250526
@@ -1854,6 +1881,15 @@ DTEND:20250526
 SUMMARY:Tartu: Raadi kevadlaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/raadi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-25.Saue memme-taadi laadapäev
+DTSTART:20250525
+DTEND:20250526
+SUMMARY:Harju: Saue memme-taadi laadapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/saue-memme-taadi-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2088,6 +2124,15 @@ DTEND:20250601
 SUMMARY:Lääne: Haapsalu lillepäev
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-lillepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-05-31.Taevaskoja kila-kola laat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Põlva: Taevaskoja kila-kola laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/taevaskoja-kila-kola-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2943,6 +2988,15 @@ DTEND:20250623
 SUMMARY:Võru: Vastseliina Maarahva Laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/vastseliina-maarahva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-22.Väike jaanipäeva maitsete laat
+DTSTART:20250622
+DTEND:20250623
+SUMMARY:Hiiu: Väike jaanipäeva maitsete laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/vaike-jaanipaeva-maitsete-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4077,6 +4131,15 @@ DTEND:20250809
 SUMMARY:Saare: Kuressaare Merepäevad
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-08.Pilistvere külapäeva laat
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Viljandi: Pilistvere külapäeva laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
