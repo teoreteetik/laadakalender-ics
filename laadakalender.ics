@@ -1443,15 +1443,6 @@ URL:https://laadakalender.ee/linnamae-lillepaev/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-18.Harku valla taimelaat
-DTSTART:20250518
-DTEND:20250519
-SUMMARY:Harju: Harku valla taimelaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/harku-valla-taimelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-05-18.Tibuturg
 DTSTART:20250518
 DTEND:20250519
@@ -2208,6 +2199,15 @@ URL:https://laadakalender.ee/audru-lastekaitsepaev-lasteasjade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-01.Koeru laat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Järva: Koeru laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/koeru-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-04.Eesti Elamumess
 DTSTART:20250604
 DTEND:20250605
@@ -2322,6 +2322,15 @@ DTEND:20250607
 SUMMARY:Harju: Kuusalu OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-06.Jõgeva juunikuu laat
+DTSTART:20250606
+DTEND:20250607
+SUMMARY:Jõgeva: Jõgeva juunikuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-juunikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2775,6 +2784,15 @@ URL:https://laadakalender.ee/karksi-nuia-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-14.Võru vanakraami täika
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Võru: Võru vanakraami täika
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-taika/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-15.Kreisilaat
 DTSTART:20250615
 DTEND:20250616
@@ -2817,6 +2835,15 @@ DTEND:20250616
 SUMMARY:Põlva: Räpina jaanilaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-15.Võru vanakraami täika
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Võru: Võru vanakraami täika
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-taika/
 END:VEVENT
 
 BEGIN:VEVENT
