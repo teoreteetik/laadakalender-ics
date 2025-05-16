@@ -2847,6 +2847,15 @@ URL:https://laadakalender.ee/voru-vanakraami-taika/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-15.Laiusekandi OTT
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Jõgeva: Laiusekandi OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-19.Elva OTT
 DTSTART:20250619
 DTEND:20250620
@@ -4608,6 +4617,15 @@ DTEND:20250824
 SUMMARY:Pärnu: MOEKAS - Disaini järelturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moekas-disaini-jarelturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-23.Pärnumaa Vanatehnika Päev
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Pärnu: Pärnumaa Vanatehnika Päev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnumaa-vanatehnika-paev/
 END:VEVENT
 
 BEGIN:VEVENT
