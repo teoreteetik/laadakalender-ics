@@ -1452,12 +1452,12 @@ URL:https://laadakalender.ee/eesti-vaikelooma-ja-kodulinnukasvatajate-uhingu-tib
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-05-22.Elva OTT
-DTSTART:20250522
-DTEND:20250523
-SUMMARY:Tartu: Elva OTT
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/elva-ott/
+UID:2025-05-18.Valkla kirbuturg
+DTSTART:20250518
+DTEND:20250519
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3162,6 +3162,15 @@ URL:https://laadakalender.ee/narva-linnapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-28.Tartu vanatehnika päev
+DTSTART:20250628
+DTEND:20250629
+SUMMARY:Tartu: Tartu vanatehnika päev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-vanatehnika-paev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-29.Narva Linnapäevad
 DTSTART:20250629
 DTEND:20250630
@@ -4251,15 +4260,6 @@ URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-08.Pilistvere külapäeva laat
-DTSTART:20250808
-DTEND:20250809
-SUMMARY:Viljandi: Pilistvere külapäeva laat
-LOCATION:Viljandimaa, Estonia
-URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-08.Kuusalu OTT
 DTSTART:20250808
 DTEND:20250809
@@ -4365,6 +4365,15 @@ DTEND:20250810
 SUMMARY:Pärnu: MOEKAS - Disaini järelturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moekas-disaini-jarelturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Pilistvere külapäeva laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Viljandi: Pilistvere külapäeva laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
