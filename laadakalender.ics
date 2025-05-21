@@ -2820,10 +2820,10 @@ URL:https://laadakalender.ee/liivimaa-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-06-14.Kreisilaat
+UID:2025-06-14.Rakvere Kreisilaat
 DTSTART:20250614
 DTEND:20250615
-SUMMARY:Lääne-Viru: Kreisilaat
+SUMMARY:Lääne-Viru: Rakvere Kreisilaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/rakvere-linna-paevade-kreisilaat/
 END:VEVENT
@@ -2937,10 +2937,10 @@ URL:https://laadakalender.ee/tallinn-craft-beer-weekend/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-06-15.Kreisilaat
+UID:2025-06-15.Rakvere Kreisilaat
 DTSTART:20250615
 DTEND:20250616
-SUMMARY:Lääne-Viru: Kreisilaat
+SUMMARY:Lääne-Viru: Rakvere Kreisilaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/rakvere-linna-paevade-kreisilaat/
 END:VEVENT
@@ -2988,6 +2988,15 @@ DTEND:20250616
 SUMMARY:Võru: Võru vanakraami täika
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-vanakraami-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-15.Kiviõli jaanilaat
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Ida-Viru: Kiviõli jaanilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/jaanilaat-kiviolis/
 END:VEVENT
 
 BEGIN:VEVENT
