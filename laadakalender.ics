@@ -2055,6 +2055,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-30.Sum-Sum laat
+DTSTART:20250530
+DTEND:20250531
+SUMMARY:Harju: Sum-Sum laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/sum-sum-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-05-31.Sõmeru Maaelufestival
 DTSTART:20250531
 DTEND:20250601
@@ -2217,6 +2226,15 @@ URL:https://laadakalender.ee/taevaskoja-kila-kola-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-05-31.Torgu kevadlaat
+DTSTART:20250531
+DTEND:20250601
+SUMMARY:Saare: Torgu kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/torgu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-01.Suur Tallinna Toidutänav
 DTSTART:20250601
 DTEND:20250602
@@ -2286,6 +2304,15 @@ DTEND:20250602
 SUMMARY:Järva: Koeru laat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/koeru-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-01.Palamuse lastekaitsepäevalaat
+DTSTART:20250601
+DTEND:20250602
+SUMMARY:Jõgeva: Palamuse lastekaitsepäevalaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/palamuse-lastekaitsepaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2937,6 +2964,15 @@ URL:https://laadakalender.ee/tallinn-craft-beer-weekend/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-14.Paide juunilaat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Järva: Paide juunilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-juunilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-15.Rakvere Kreisilaat
 DTSTART:20250615
 DTEND:20250616
@@ -3531,6 +3567,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-10.Loodusravi mess
+DTSTART:20250710
+DTEND:20250711
+SUMMARY:Saare: Loodusravi mess
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/loodusravi-mess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-11.Hiiu Folk
 DTSTART:20250711
 DTEND:20250712
@@ -3609,6 +3654,15 @@ DTEND:20250712
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-11.Loodusravi mess
+DTSTART:20250711
+DTEND:20250712
+SUMMARY:Saare: Loodusravi mess
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/loodusravi-mess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3780,6 +3834,15 @@ DTEND:20250713
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-12.Loodusravi mess
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Saare: Loodusravi mess
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/loodusravi-mess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4296,6 +4359,15 @@ URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Supeluse Aastalaat
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Pärnu: Supeluse Aastalaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/supeluse-aastalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-01.Haapsalu viljakuu laat
 DTSTART:20250801
 DTEND:20250802
@@ -4356,6 +4428,15 @@ DTEND:20250803
 SUMMARY:Pärnu: Pärnu Maitsete Uulits
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maitsete-uulits/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Supeluse Aastalaat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Pärnu: Supeluse Aastalaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/supeluse-aastalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -6327,6 +6408,15 @@ DTEND:20251208
 SUMMARY:Rapla: Rapla jõulukuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-joulukuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Advendilaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Viljandi: Advendilaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
 END:VEVENT
 
 BEGIN:VEVENT
