@@ -2973,6 +2973,15 @@ URL:https://laadakalender.ee/paide-juunilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-14.Loksa suvelaat
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Harju: Loksa suvelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-15.Rakvere Kreisilaat
 DTSTART:20250615
 DTEND:20250616
@@ -4050,6 +4059,15 @@ DTEND:20250721
 SUMMARY:Järva: Kesk-Eesti suvelaat ja täika
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-20.Suvine Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20250720
+DTEND:20250721
+SUMMARY:Harju: Suvine Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
