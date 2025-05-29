@@ -2820,6 +2820,15 @@ URL:https://laadakalender.ee/eesti-elamumess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-13.Võru juunikuu laat
+DTSTART:20250613
+DTEND:20250614
+SUMMARY:Võru: Võru juunikuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-juunikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-13.Kuusalu OTT
 DTSTART:20250613
 DTEND:20250614
@@ -3042,6 +3051,15 @@ DTEND:20250616
 SUMMARY:Ida-Viru: Kiviõli jaanilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/jaanilaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-15.Kallaste jaanilaat
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Tartu: Kallaste jaanilaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5094,6 +5112,15 @@ DTEND:20250831
 SUMMARY:Harju: Kose-Uuemõisa vanatehnikapäev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kose-uuemoisa-vanatehnikapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-30.Maarjamäe kohvikute ja laadapäev
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Harju: Maarjamäe kohvikute ja laadapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maarjamae-kohvikute-ja-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
