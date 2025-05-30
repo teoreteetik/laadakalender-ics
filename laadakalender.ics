@@ -2748,6 +2748,15 @@ URL:https://laadakalender.ee/varbola-suvealguslaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-08.Antsla jaanikuu laat
+DTSTART:20250608
+DTEND:20250609
+SUMMARY:Võru: Antsla jaanikuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-10.Jõgeva OTT
 DTSTART:20250610
 DTEND:20250611
