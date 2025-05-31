@@ -4800,6 +4800,15 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-10.Kostivere Mõisapäev
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Harju: Kostivere Mõisapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kostivere-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-12.Jõgeva OTT
 DTSTART:20250812
 DTEND:20250813
