@@ -408,6 +408,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-07.Turba OTT
+DTSTART:20250607
+DTEND:20250608
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-08.Tallinna Vanalinna Päevad
 DTSTART:20250608
 DTEND:20250609
@@ -540,6 +549,15 @@ DTEND:20250612
 SUMMARY:Harju: Eesti Elamumess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-elamumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-11.Märjamaa õhtuturg
+DTSTART:20250611
+DTEND:20250612
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -765,6 +783,15 @@ DTEND:20250615
 SUMMARY:Harju: Loksa suvelaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/loksa-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-14.Turba OTT
+DTSTART:20250614
+DTEND:20250615
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1011,6 +1038,15 @@ URL:https://laadakalender.ee/parnu-juunikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Turba OTT
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -1080,6 +1116,15 @@ DTEND:20250624
 SUMMARY:Viljandi: Karksi jaanilaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-25.Märjamaa õhtuturg
+DTSTART:20250625
+DTEND:20250626
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1179,6 +1224,15 @@ DTEND:20250629
 SUMMARY:Tartu: Tartu vanatehnika päev
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-vanatehnika-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-28.Turba OTT
+DTSTART:20250628
+DTEND:20250629
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1314,6 +1368,15 @@ DTEND:20250706
 SUMMARY:Pärnu: MOEKAS - Disaini järelturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moekas-disaini-jarelturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-05.Turba OTT
+DTSTART:20250705
+DTEND:20250706
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1650,6 +1713,15 @@ URL:https://laadakalender.ee/loodusravi-mess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Turba OTT
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -1845,6 +1917,24 @@ DTEND:20250720
 SUMMARY:Pärnu: MOEKAS - Disaini järelturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moekas-disaini-jarelturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Koeru antiigi- ja vanavaralaat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Järva: Koeru antiigi- ja vanavaralaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/koeru-antiigi-ja-vanavaralaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Turba OTT
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2091,6 +2181,15 @@ URL:https://laadakalender.ee/moekas-disaini-jarelturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Turba OTT
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -2325,6 +2424,15 @@ URL:https://laadakalender.ee/moekas-disaini-jarelturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-02.Turba OTT
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-03.Vanatehnikalaat Sulle-Mulle
 DTSTART:20250803
 DTEND:20250804
@@ -2532,6 +2640,15 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Turba OTT
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2694,6 +2811,15 @@ URL:https://laadakalender.ee/moekas-disaini-jarelturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-16.Turba OTT
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-17.Kohila lõikuskuu laat
 DTSTART:20250817
 DTEND:20250818
@@ -2820,6 +2946,15 @@ URL:https://laadakalender.ee/parnumaa-vanatehnika-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Turba OTT
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Türi viljakuu laat
 DTSTART:20250824
 DTEND:20250825
@@ -2916,6 +3051,15 @@ DTEND:20250831
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-30.Turba OTT
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
