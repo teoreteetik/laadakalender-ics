@@ -912,6 +912,15 @@ URL:https://laadakalender.ee/laiusekandi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-15.Kohtla-Järve linnapäevade laat
+DTSTART:20250615
+DTEND:20250616
+SUMMARY:Ida-Viru: Kohtla-Järve linnapäevade laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-linnapaevad-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-19.Elva OTT
 DTSTART:20250619
 DTEND:20250620
@@ -3510,6 +3519,15 @@ DTEND:20250914
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Soomaa sügislaat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Viljandi: Soomaa sügislaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/soomaa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
