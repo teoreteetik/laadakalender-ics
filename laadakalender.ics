@@ -1083,6 +1083,15 @@ URL:https://laadakalender.ee/parnu-juunikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Haapsalu turu jaani laat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Lääne: Haapsalu turu jaani laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-turu-jaani-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-21.Viljandi täika
 DTSTART:20250621
 DTEND:20250622
@@ -1998,6 +2007,15 @@ DTEND:20250720
 SUMMARY:Pärnu: MOEKAS - Disaini järelturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/moekas-disaini-jarelturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Jakob Hurda rahvustoidufestival
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Põlva: Jakob Hurda rahvustoidufestival
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/jakob-hurda-rahvustoidufestival/
 END:VEVENT
 
 BEGIN:VEVENT
