@@ -966,6 +966,15 @@ URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-20.Valga jaanilaat
+DTSTART:20250620
+DTEND:20250621
+SUMMARY:Valga: Valga jaanilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-20.Kuusalu OTT
 DTSTART:20250620
 DTEND:20250621
@@ -1341,6 +1350,15 @@ DTEND:20250630
 SUMMARY:Pärnu: Pärnu Hansapäevad
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-06-29.Koeru laat
+DTSTART:20250629
+DTEND:20250630
+SUMMARY:Järva: Koeru laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/koeru-laat/
 END:VEVENT
 
 BEGIN:VEVENT
