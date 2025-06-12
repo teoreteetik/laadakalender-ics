@@ -2352,6 +2352,15 @@ URL:https://laadakalender.ee/moekas-disaini-jarelturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Vääna külapäeva käsitöölaat
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Harju: Vääna külapäeva käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-kulapaeva-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-26.Viljandi täika
 DTSTART:20250726
 DTEND:20250727
