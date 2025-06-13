@@ -1929,6 +1929,15 @@ URL:https://laadakalender.ee/rapina-sudasuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-13.Laine Plaaditurg
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-14.Piimapäev
 DTSTART:20250714
 DTEND:20250715
@@ -2901,6 +2910,15 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-10.Laine Plaaditurg
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Kostivere Mõisapäev
 DTSTART:20250810
 DTEND:20250811
@@ -3051,6 +3069,15 @@ DTEND:20250817
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-16.Rakke päev ja laat
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Lääne-Viru: Rakke päev ja laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakke-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3648,6 +3675,15 @@ URL:https://laadakalender.ee/soomaa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-13.Keila kihelkonna laat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Harju: Keila kihelkonna laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/keila-kihelkonna-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-14.Auto- ja tehnikamess MOTOSHOW
 DTSTART:20250914
 DTEND:20250915
@@ -3690,6 +3726,15 @@ DTEND:20250915
 SUMMARY:Lääne: Haapsalu Vintage Weekend
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Laine Plaaditurg
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Harju: Laine Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laine-plaaditurg/
 END:VEVENT
 
 BEGIN:VEVENT
