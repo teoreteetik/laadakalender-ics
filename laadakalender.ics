@@ -2658,6 +2658,15 @@ URL:https://laadakalender.ee/tapa-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-03.Vääna-Jõesuu külapäeva laat
+DTSTART:20250803
+DTEND:20250804
+SUMMARY:Harju: Vääna-Jõesuu külapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-joesuu-kulapaevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-07.Rapla õhtuturg
 DTSTART:20250807
 DTEND:20250808
