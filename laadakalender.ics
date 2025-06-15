@@ -1092,6 +1092,15 @@ URL:https://laadakalender.ee/parnu-juunikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Kloogaranna jaanilaat
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Harju: Kloogaranna jaanilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kloogaranna-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-21.Haapsalu turu jaani laat
 DTSTART:20250621
 DTEND:20250622
@@ -1845,6 +1854,15 @@ DTEND:20250713
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-12.Reiu Rehetalu laat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Pärnu: Reiu Rehetalu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/reiu-rehetalu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
