@@ -1128,6 +1128,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-06-21.Saaremaa EHTNE turupäev
+DTSTART:20250621
+DTEND:20250622
+SUMMARY:Saare: Saaremaa EHTNE turupäev
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/saaremaa-ehtne-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-06-22.Põhja-Tallinna suur jaanilaat
 DTSTART:20250622
 DTEND:20250623
@@ -1953,6 +1962,15 @@ DTEND:20250714
 SUMMARY:Põlva: Räpina südasuve laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-sudasuve-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-13.Juuru kihelkonnalaat
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Rapla: Juuru kihelkonnalaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/juuru-kihelkonnalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3276,6 +3294,15 @@ DTEND:20250824
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-23.Võru pärimustantsu festival - käsitöölaat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Võru: Võru pärimustantsu festival - käsitöölaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-parimustantsu-festival-laat/
 END:VEVENT
 
 BEGIN:VEVENT
