@@ -1493,7 +1493,7 @@ DTSTART:20250705
 DTEND:20250706
 SUMMARY:Harju: Raamaturingluse raamatu- ja käsitöölaat
 LOCATION:Harjumaa, Estonia
-URL:
+URL:https://laadakalender.ee/raamaturingluse-raamatu-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2775,15 +2775,6 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-08.Põltsamaa turutänava laadapäevad
-DTSTART:20250808
-DTEND:20250809
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-08.Otepää OTT
 DTSTART:20250808
 DTEND:20250809
@@ -2889,15 +2880,6 @@ DTEND:20250810
 SUMMARY:Viljandi: Pilistvere külapäeva laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-08-09.Põltsamaa turutänava laadapäevad
-DTSTART:20250809
-DTEND:20250810
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3036,6 +3018,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-15.Põltsamaa turutänava laadapäevad
+DTSTART:20250815
+DTEND:20250816
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-16.Vanamõisa käsitöölaat / Vanamõisa FEST
 DTSTART:20250816
 DTEND:20250817
@@ -3141,6 +3132,15 @@ DTEND:20250817
 SUMMARY:Lääne-Viru: Rakke päev ja laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/rakke-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-16.Põltsamaa turutänava laadapäevad
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Põltsa: Põltsamaa turutänava laadapäevad
+LOCATION:Põltsamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
