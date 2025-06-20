@@ -2910,6 +2910,15 @@ URL:https://laadakalender.ee/wahja-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Rapla lõikuskuu laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Rapla: Rapla lõikuskuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2934,15 +2943,6 @@ DTEND:20250811
 SUMMARY:Rapla: Poti Laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/poti-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-08-10.Rapla lõikuskuu laat
-DTSTART:20250810
-DTEND:20250811
-SUMMARY:Rapla: Rapla lõikuskuu laat
-LOCATION:Raplamaa, Estonia
-URL:
 END:VEVENT
 
 BEGIN:VEVENT
