@@ -1992,6 +1992,15 @@ URL:https://laadakalender.ee/piimapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-16.Tallinna kollektsionääride laat
+DTSTART:20250716
+DTEND:20250717
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-17.Rapla õhtuturg
 DTSTART:20250717
 DTEND:20250718
@@ -2142,6 +2151,15 @@ DTEND:20250720
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Nõmme külalaat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Rapla: Nõmme külalaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/nomme-kulalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3180,6 +3198,15 @@ URL:https://laadakalender.ee/marjamaa-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-20.Tallinna kollektsionääride laat
+DTSTART:20250820
+DTEND:20250821
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-21.Rapla õhtuturg
 DTSTART:20250821
 DTEND:20250822
@@ -3837,6 +3864,15 @@ URL:https://laadakalender.ee/vastemoisa-superlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-17.Tallinna kollektsionääride laat
+DTSTART:20250917
+DTEND:20250918
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-18.Rapla õhtuturg
 DTSTART:20250918
 DTEND:20250919
@@ -4386,6 +4422,15 @@ URL:https://laadakalender.ee/kohila-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-15.Tallinna kollektsionääride laat
+DTSTART:20251015
+DTEND:20251016
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-16.Rapla õhtuturg
 DTSTART:20251016
 DTEND:20251017
@@ -4692,6 +4737,15 @@ URL:https://laadakalender.ee/festival-maitsev-eesti/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-19.Tallinna kollektsionääride laat
+DTSTART:20251119
+DTEND:20251120
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-20.Rapla õhtuturg
 DTSTART:20251120
 DTEND:20251121
@@ -4905,6 +4959,15 @@ DTEND:20251214
 SUMMARY:Harju: Mustamäe jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-17.Tallinna kollektsionääride laat
+DTSTART:20251217
+DTEND:20251218
+SUMMARY:Harju: Tallinna kollektsionääride laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
 END:VEVENT
 
 BEGIN:VEVENT
