@@ -1524,6 +1524,15 @@ URL:https://laadakalender.ee/antsla-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-06.Kallaste suvelaat
+DTSTART:20250706
+DTEND:20250707
+SUMMARY:Tartu: Kallaste suvelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-08.Jõgeva OTT
 DTSTART:20250708
 DTEND:20250709
@@ -1665,6 +1674,15 @@ DTEND:20250712
 SUMMARY:Saare: Loodusravi mess
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/loodusravi-mess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-11.Jõgeva suvelaat
+DTSTART:20250711
+DTEND:20250712
+SUMMARY:Jõgeva: Jõgeva suvelaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1992,6 +2010,15 @@ URL:https://laadakalender.ee/laiusekandi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-13.Kiviõli suvelaat
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Ida-Viru: Kiviõli suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-14.Piimapäev
 DTSTART:20250714
 DTEND:20250715
@@ -2061,6 +2088,15 @@ DTEND:20250719
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-18.Võsu Muusikapäevad - plaaditurg
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Lääne-Viru: Võsu Muusikapäevad - plaaditurg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vosu-muusikapaevad-plaaditurg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2196,6 +2232,15 @@ DTEND:20250721
 SUMMARY:Valga: Otepää suvelaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-20.Kose juulilaat
+DTSTART:20250720
+DTEND:20250721
+SUMMARY:Harju: Kose juulilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-juulilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2487,6 +2532,15 @@ URL:https://laadakalender.ee/voru-lastefestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-27.Kumna Päeva käsitöölaat
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Harju: Kumna Päeva käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kumna-paeva-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-30.Õllesummer
 DTSTART:20250730
 DTEND:20250731
@@ -2709,6 +2763,15 @@ DTEND:20250803
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-02.Mõisaküla kodukandilaat
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Viljandi: Mõisaküla kodukandilaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/moisakula-kodukandilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3198,6 +3261,15 @@ URL:https://laadakalender.ee/otepaa-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-17.Kiviõli suvelaat
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Ida-Viru: Kiviõli suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -3612,6 +3684,15 @@ URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.UMA MEKK laat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Võru: UMA MEKK laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/kogukonnafestival-ja-uma-mekk-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-06.Viljandi täika
 DTSTART:20250906
 DTEND:20250907
@@ -3873,6 +3954,15 @@ URL:https://laadakalender.ee/vastemoisa-superlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-14.Kiviõli suvelõpulaat
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Ida-Viru: Kiviõli suvelõpulaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-suvelopulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-17.Tallinna kollektsionääride laat
 DTSTART:20250917
 DTEND:20250918
@@ -3978,6 +4068,15 @@ DTEND:20250921
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-20.Maal elamise päev
+DTSTART:20250920
+DTEND:20250921
+SUMMARY:üle Eesti: Maal elamise päev
+LOCATION:üle Eesti, Estonia
+URL:https://laadakalender.ee/maal-elamise-paev/
 END:VEVENT
 
 BEGIN:VEVENT
