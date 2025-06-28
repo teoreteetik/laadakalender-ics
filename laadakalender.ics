@@ -1497,6 +1497,15 @@ URL:https://laadakalender.ee/raamaturingluse-raamatu-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-05.Laiuse käsitöö juuliturg
+DTSTART:20250705
+DTEND:20250706
+SUMMARY:Jõgeva: Laiuse käsitöö juuliturg
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiuse-kasitoo-juuliturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-06.Suur Tartu Toidutänav
 DTSTART:20250706
 DTEND:20250707
