@@ -534,6 +534,15 @@ URL:https://laadakalender.ee/uduvere-kodukraami-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Kilingi-Nõmme linnapäevade laat
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Pärnu: Kilingi-Nõmme linnapäevade laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/kilingi-nomme-linnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -1506,6 +1515,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Tartu toidu- ja veinifestival
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Tartu: Tartu toidu- ja veinifestival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-toidu-ja-veinifestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -1638,6 +1656,15 @@ DTEND:20250810
 SUMMARY:Rapla: Rapla lõikuskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Tartu toidu- ja veinifestival
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Tartu: Tartu toidu- ja veinifestival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-toidu-ja-veinifestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1899,6 +1926,15 @@ DTEND:20250818
 SUMMARY:Ida-Viru: Kiviõli suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kivioli-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-17.Järvakandi laat
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Rapla: Järvakandi laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/jarvakandi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2322,6 +2358,15 @@ DTEND:20250907
 SUMMARY:Võru: UMA MEKK laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/kogukonnafestival-ja-uma-mekk-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Hüüru sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Harju: Hüüru sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/huuru-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
