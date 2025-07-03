@@ -854,7 +854,7 @@ DTSTART:20250719
 DTEND:20250720
 SUMMARY:Lääne: Haapsalu heainakuu laat
 LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-heainakuu-laat/
+URL:https://laadakalender.ee/haapsalu-heinakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1155,6 +1155,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Eesti Aasta Püsilill
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Tartu: Eesti Aasta Püsilill
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/eesti-aasta-pusilill/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -1188,6 +1197,15 @@ DTEND:20250728
 SUMMARY:Harju: Kumna Päeva käsitöölaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kumna-paeva-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-27.Eesti Aasta Püsilill
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Tartu: Eesti Aasta Püsilill
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/eesti-aasta-pusilill/
 END:VEVENT
 
 BEGIN:VEVENT
