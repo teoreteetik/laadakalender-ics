@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/vosu-muusikapaevad-plaaditurg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-18.Pärnu juulikuulaat
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Pärnu: Pärnu juulikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-juulikuulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-19.Saare Laat
 DTSTART:20250719
 DTEND:20250720
@@ -855,6 +864,15 @@ DTEND:20250720
 SUMMARY:Lääne: Haapsalu heainakuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-heinakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Pärnu juulikuulaat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Pärnu: Pärnu juulikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-juulikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1692,6 +1710,15 @@ DTEND:20250810
 SUMMARY:Tartu: Tartu toidu- ja veinifestival
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-toidu-ja-veinifestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Suur kodulindude ja küülikute laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Tartu: Suur kodulindude ja küülikute laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/suur-kodulindude-ja-kuulikute-laat/
 END:VEVENT
 
 BEGIN:VEVENT
