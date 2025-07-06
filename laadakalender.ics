@@ -660,6 +660,15 @@ URL:https://laadakalender.ee/kivioli-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-13.Suurupi vanavara ja käsitöö laat
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Harju: Suurupi vanavara ja käsitöö laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suurupi-vanavara-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-14.Piimapäev
 DTSTART:20250714
 DTEND:20250715
