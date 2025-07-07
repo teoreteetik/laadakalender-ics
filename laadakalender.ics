@@ -543,6 +543,15 @@ URL:https://laadakalender.ee/kilingi-nomme-linnapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Laiuse käsitöö teematurg
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Jõgeva: Laiuse käsitöö teematurg
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiuse-kasitoo-teematurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -2475,6 +2484,15 @@ DTEND:20250907
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Valga valla kogukonnapäev
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Valga: Valga valla kogukonnapäev
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-valla-kogukonnapaev/
 END:VEVENT
 
 BEGIN:VEVENT
