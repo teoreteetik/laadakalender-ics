@@ -318,6 +318,15 @@ URL:https://laadakalender.ee/jogeva-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-11.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250711
+DTEND:20250712
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-12.Mustvee linna suur suvelaat
 DTSTART:20250712
 DTEND:20250713
@@ -768,6 +777,15 @@ URL:https://laadakalender.ee/parnu-juulikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-18.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-19.Saare Laat
 DTSTART:20250719
 DTEND:20250720
@@ -930,6 +948,15 @@ URL:https://laadakalender.ee/kose-juulilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-20.Fotomuuseumi Fototäika
+DTSTART:20250720
+DTEND:20250721
+SUMMARY:Harju: Fotomuuseumi Fototäika
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/fotomuuseumi-fototaika/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-23.Märjamaa õhtuturg
 DTSTART:20250723
 DTEND:20250724
@@ -1026,6 +1053,15 @@ DTEND:20250726
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-25.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1200,6 +1236,24 @@ URL:https://laadakalender.ee/eesti-aasta-pusilill/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Avatud vanalinna päev ja täika
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Tartu: Avatud vanalinna päev ja täika
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/avatud-vanalinna-paev-ja-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-26.Abakhani laadasumin
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Tartu: Abakhani laadasumin
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/abakhani-laadasumin/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -1341,6 +1395,15 @@ DTEND:20250802
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-01.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1587,6 +1650,15 @@ URL:https://laadakalender.ee/tartu-toidu-ja-veinifestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -1740,6 +1812,15 @@ URL:https://laadakalender.ee/suur-kodulindude-ja-kuulikute-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Haaslava vanatehnikapäev
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Tartu: Haaslava vanatehnikapäev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/haaslava-vanatehnikapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -1854,6 +1935,15 @@ DTEND:20250816
 SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-15.Hiiumaiste toodete POP-UP müügipäevad
+DTSTART:20250815
+DTEND:20250816
+SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2043,6 +2133,15 @@ DTEND:20250821
 SUMMARY:Harju: Tallinna kollektsionääride laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-20.Suuremõisa suvelõpu kirbuturg
+DTSTART:20250820
+DTEND:20250821
+SUMMARY:Hiiu: Suuremõisa suvelõpu kirbuturg
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/suuremoisa-suvelopu-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2325,6 +2424,15 @@ URL:https://laadakalender.ee/randava-sauna-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-30.Müürilille täika
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Tartu: Müürilille täika
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/muurilille-taika/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-04.Rapla õhtuturg
 DTSTART:20250904
 DTEND:20250905
@@ -2511,6 +2619,15 @@ DTEND:20250908
 SUMMARY:Järva: Kesk-Eesti sügislaat ja täika
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-07.Voore Seltsimaja perepäeva laat
+DTSTART:20250907
+DTEND:20250908
+SUMMARY:Tartu: Voore Seltsimaja perepäeva laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/voore-seltsimaja-perepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2772,6 +2889,15 @@ DTEND:20250915
 SUMMARY:Harju: Liiva Laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/liiva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-14.Pika tänava festival
+DTSTART:20250914
+DTEND:20250915
+SUMMARY:Harju: Pika tänava festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pika-tanava-festival/
 END:VEVENT
 
 BEGIN:VEVENT
