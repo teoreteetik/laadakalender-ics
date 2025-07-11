@@ -2118,6 +2118,15 @@ URL:https://laadakalender.ee/jarvakandi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-17.Mooste mõisa kirbuturg
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Põlva: Mooste mõisa kirbuturg
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mooste-moisa-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -3477,12 +3486,30 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-11.Mustamäe keskuse sügislaat
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-12.Kohila sügiskuu laat
 DTSTART:20251012
 DTEND:20251013
 SUMMARY:Rapla: Kohila sügiskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-12.Mustamäe keskuse sügislaat
+DTSTART:20251012
+DTEND:20251013
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3747,12 +3774,30 @@ URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-08.Mustamäe keskuse terviselaat
+DTSTART:20251108
+DTEND:20251109
+SUMMARY:Harju: Mustamäe keskuse terviselaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-09.Rapla sügislaat
 DTSTART:20251109
 DTEND:20251110
 SUMMARY:Rapla: Rapla sügislaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-09.Mustamäe keskuse terviselaat
+DTSTART:20251109
+DTEND:20251110
+SUMMARY:Harju: Mustamäe keskuse terviselaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3945,6 +3990,15 @@ URL:https://laadakalender.ee/kodu-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Mustamäe keskuse jõulukingituste laat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Mustamäe keskuse jõulukingituste laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-joulukingituste-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -3978,6 +4032,15 @@ DTEND:20251208
 SUMMARY:Viljandi: Advendilaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Mustamäe keskuse jõulukingituste laat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Mustamäe keskuse jõulukingituste laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-joulukingituste-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4098,12 +4161,30 @@ URL:https://laadakalender.ee/uku-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-20.Mustamäe Keskuse jõulumüük
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Harju: Mustamäe Keskuse jõulumüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-joulumuuk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-21.UKU Keskuse jõululaat
 DTSTART:20251221
 DTEND:20251222
 SUMMARY:Viljandi: UKU Keskuse jõululaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/uku-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-21.Mustamäe Keskuse jõulumüük
+DTSTART:20251221
+DTEND:20251222
+SUMMARY:Harju: Mustamäe Keskuse jõulumüük
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-joulumuuk/
 END:VEVENT
 
 BEGIN:VEVENT
