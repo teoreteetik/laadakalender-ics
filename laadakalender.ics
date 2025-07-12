@@ -561,6 +561,15 @@ URL:https://laadakalender.ee/laiuse-kasitoo-teematurg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-12.Pärnu jõeäärne kirbuturg
+DTSTART:20250712
+DTEND:20250713
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-13.Tallinna merepäevad
 DTSTART:20250713
 DTEND:20250714
@@ -684,6 +693,15 @@ DTEND:20250714
 SUMMARY:Harju: Suurupi vanavara ja käsitöö laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suurupi-vanavara-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-13.Pärnu jõeäärne kirbuturg
+DTSTART:20250713
+DTEND:20250714
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -912,6 +930,24 @@ URL:https://laadakalender.ee/parnu-juulikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-19.Loksa juulilaat
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Harju: Loksa juulilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-juulilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-19.Pärnu jõeäärne kirbuturg
+DTSTART:20250719
+DTEND:20250720
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-20.Kesk-Eesti suvelaat ja täika
 DTSTART:20250720
 DTEND:20250721
@@ -954,6 +990,15 @@ DTEND:20250721
 SUMMARY:Harju: Fotomuuseumi Fototäika
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/fotomuuseumi-fototaika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-20.Pärnu jõeäärne kirbuturg
+DTSTART:20250720
+DTEND:20250721
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1254,6 +1299,15 @@ URL:https://laadakalender.ee/abakhani-laadasumin/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-26.Pärnu jõeäärne kirbuturg
+DTSTART:20250726
+DTEND:20250727
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-27.Jäneda Talupäevad
 DTSTART:20250727
 DTEND:20250728
@@ -1296,6 +1350,15 @@ DTEND:20250728
 SUMMARY:Tartu: Eesti Aasta Püsilill
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/eesti-aasta-pusilill/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-27.Pärnu jõeäärne kirbuturg
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1542,6 +1605,15 @@ URL:https://laadakalender.ee/moisakula-kodukandilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-02.Pärnu jõeäärne kirbuturg
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-03.Vanatehnikalaat Sulle-Mulle
 DTSTART:20250803
 DTEND:20250804
@@ -1566,6 +1638,15 @@ DTEND:20250804
 SUMMARY:Harju: Vääna-Jõesuu külapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/vaana-joesuu-kulapaevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-03.Pärnu jõeäärne kirbuturg
+DTSTART:20250803
+DTEND:20250804
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1821,6 +1902,15 @@ URL:https://laadakalender.ee/haaslava-vanatehnikapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Pärnu jõeäärne kirbuturg
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -1872,6 +1962,24 @@ DTEND:20250811
 SUMMARY:Harju: Kostivere Mõisapäev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kostivere-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-10.Simuna Perepäev ja laat
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Lääne-Viru: Simuna Perepäev ja laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/simuna-perepaev-ja-kasitoo-ja-talukaubalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-10.Pärnu jõeäärne kirbuturg
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2073,6 +2181,15 @@ URL:https://laadakalender.ee/tapa-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-16.Pärnu jõeäärne kirbuturg
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-17.Kohila lõikuskuu laat
 DTSTART:20250817
 DTEND:20250818
@@ -2124,6 +2241,15 @@ DTEND:20250818
 SUMMARY:Põlva: Mooste mõisa kirbuturg
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mooste-moisa-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-17.Pärnu jõeäärne kirbuturg
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2280,6 +2406,15 @@ URL:https://laadakalender.ee/voru-parimustantsu-festival-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Pärnu jõeäärne kirbuturg
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Türi viljakuu laat
 DTSTART:20250824
 DTEND:20250825
@@ -2304,6 +2439,15 @@ DTEND:20250825
 SUMMARY:Võru: Võru vanakraami ja käsitöö laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-24.Pärnu jõeäärne kirbuturg
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2439,6 +2583,24 @@ DTEND:20250831
 SUMMARY:Tartu: Müürilille täika
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/muurilille-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-30.Pärnu jõeäärne kirbuturg
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-31.Pärnu jõeäärne kirbuturg
+DTSTART:20250831
+DTEND:20250901
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
