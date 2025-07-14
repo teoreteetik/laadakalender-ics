@@ -1362,6 +1362,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-27.Jakapäävä laat
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Võru: Jakapäävä laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/jakapaava-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-30.Õllesummer
 DTSTART:20250730
 DTEND:20250731
