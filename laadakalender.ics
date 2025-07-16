@@ -804,6 +804,15 @@ URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-18.Kohila OTT
+DTSTART:20250718
+DTEND:20250719
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-19.Saare Laat
 DTSTART:20250719
 DTEND:20250720
@@ -1116,6 +1125,15 @@ DTEND:20250726
 SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-25.Kohila OTT
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1488,6 +1506,15 @@ URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-01.Kohila OTT
+DTSTART:20250801
+DTEND:20250802
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-02.Luige vanavara- ja käsitöölaat
 DTSTART:20250802
 DTEND:20250803
@@ -1758,6 +1785,15 @@ URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Kohila OTT
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -1929,6 +1965,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Basaar x Balta SUUR KIRBUKAS
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Harju: Basaar x Balta SUUR KIRBUKAS
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/basaar-x-balta-suur-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2070,6 +2115,15 @@ DTEND:20250816
 SUMMARY:Hiiu: Hiiumaiste toodete POP-UP müügipäevad
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiiumaiste-toodete-pop-up-muugipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-15.Kohila OTT
+DTSTART:20250815
+DTEND:20250816
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2271,6 +2325,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-17.Põhjala turg
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Harju: Põhjala turg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohjala-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -2331,6 +2394,15 @@ DTEND:20250823
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-22.Kohila OTT
+DTSTART:20250822
+DTEND:20250823
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2469,6 +2541,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-24.Telliskivi keraamika turg
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Harju: Telliskivi keraamika turg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/telliskivi-keraamika-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-27.Märjamaa õhtuturg
 DTSTART:20250827
 DTEND:20250828
@@ -2529,6 +2610,15 @@ DTEND:20250830
 SUMMARY:Lääne-Viru: Pika laua laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/pika-laua-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-29.Kohila OTT
+DTSTART:20250829
+DTEND:20250830
+SUMMARY:Rapla: Kohila OTT
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2610,6 +2700,15 @@ DTEND:20250831
 SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-30.Suur raamatulaat Balti Jaama turul
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Harju: Suur raamatulaat Balti Jaama turul
+LOCATION:Harjumaa, Estonia
+URL:
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3330,6 +3429,24 @@ DTEND:20250928
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-27.Jõhvi Mihklilaat
+DTSTART:20250927
+DTEND:20250928
+SUMMARY:Ida-Viru: Jõhvi Mihklilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/johvi-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-27.Narva-Jõesuu silmufestival
+DTSTART:20250927
+DTEND:20250928
+SUMMARY:Ida-Viru: Narva-Jõesuu silmufestival
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/silmufestival/
 END:VEVENT
 
 BEGIN:VEVENT
