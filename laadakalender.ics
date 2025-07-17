@@ -1137,6 +1137,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-25.Võru suvelaat
+DTSTART:20250725
+DTEND:20250726
+SUMMARY:Võru: Võru suvelaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-26.Jäneda Talupäevad
 DTSTART:20250726
 DTEND:20250727
@@ -1395,6 +1404,15 @@ DTEND:20250728
 SUMMARY:Võru: Jakapäävä laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/jakapaava-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-27.Räpina suvelaat
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Põlva: Räpina suvelaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1665,15 +1683,6 @@ DTEND:20250804
 SUMMARY:Tartu: Vanatehnikalaat Sulle-Mulle
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/vanatehnika-ja-vanavara-laat-sulle-mulle/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-08-03.Tapa lõikuskuu laat
-DTSTART:20250803
-DTEND:20250804
-SUMMARY:Lääne-Viru: Tapa lõikuskuu laat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/tapa-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2046,6 +2055,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-10.Räpina lõikuskuu laat
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Põlva: Räpina lõikuskuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-12.Jõgeva OTT
 DTSTART:20250812
 DTEND:20250813
@@ -2262,15 +2280,6 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-17.Kohila lõikuskuu laat
-DTSTART:20250817
-DTEND:20250818
-SUMMARY:Rapla: Kohila lõikuskuu laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kohila-loikuskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-17.Pärtlipäeva laat
 DTSTART:20250817
 DTEND:20250818
@@ -2343,21 +2352,21 @@ URL:https://laadakalender.ee/marjamaa-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-20.Tallinna kollektsionääride laat
-DTSTART:20250820
-DTEND:20250821
-SUMMARY:Harju: Tallinna kollektsionääride laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-20.Suuremõisa suvelõpu kirbuturg
 DTSTART:20250820
 DTEND:20250821
 SUMMARY:Hiiu: Suuremõisa suvelõpu kirbuturg
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/suuremoisa-suvelopu-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-20.Ääsmäe pirukafest
+DTSTART:20250820
+DTEND:20250821
+SUMMARY:Harju: Ääsmäe pirukafest
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-pirukafest/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2505,15 +2514,6 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-24.Türi viljakuu laat
-DTSTART:20250824
-DTEND:20250825
-SUMMARY:Järva: Türi viljakuu laat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/turi-viljakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-24.Viru Talufest
 DTSTART:20250824
 DTEND:20250825
@@ -2547,6 +2547,15 @@ DTEND:20250825
 SUMMARY:Harju: Telliskivi keraamika turg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/telliskivi-keraamika-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-24.Räpina laat
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Põlva: Räpina laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2709,6 +2718,15 @@ DTEND:20250831
 SUMMARY:Harju: Suur raamatulaat Balti Jaama turul
 LOCATION:Harjumaa, Estonia
 URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-30.Lääne-Harju valla päev
+DTSTART:20250830
+DTEND:20250831
+SUMMARY:Harju: Lääne-Harju valla päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laane-harju-valla-paev-ja-muinastulede-oo/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3009,15 +3027,6 @@ URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-09-13.Kohila sügisandide laat
-DTSTART:20250913
-DTEND:20250914
-SUMMARY:Rapla: Kohila sügisandide laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kohila-sugisandide-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-09-13.Kadrina käsitöö- ja vanavaralaat
 DTSTART:20250913
 DTEND:20250914
@@ -3312,6 +3321,24 @@ DTEND:20250921
 SUMMARY:Harju: Arsenali Õunafestival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/arsenali-ounafestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-20.Kõmsi mihklipäeva laat
+DTSTART:20250920
+DTEND:20250921
+SUMMARY:Pärnu: Kõmsi mihklipäeva laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/komsi-mihklipaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-21.Kohila sügisandide laat
+DTSTART:20250921
+DTEND:20250922
+SUMMARY:Rapla: Kohila sügisandide laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-sugisandide-laat/
 END:VEVENT
 
 BEGIN:VEVENT
