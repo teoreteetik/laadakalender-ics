@@ -1731,15 +1731,6 @@ URL:https://laadakalender.ee/viru-folk/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-08.Tallinn Food Truck Festival
-DTSTART:20250808
-DTEND:20250809
-SUMMARY:Harju: Tallinn Food Truck Festival
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/tallinn-food-truck-festival/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-08.Kuressaare Merepäevad
 DTSTART:20250808
 DTEND:20250809
@@ -2016,6 +2007,15 @@ DTEND:20250811
 SUMMARY:Pärnu: Estonian Grand Prix / Suur võidusõit
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-10.Tallinn Food Truck Festival
+DTSTART:20250810
+DTEND:20250811
+SUMMARY:Harju: Tallinn Food Truck Festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinn-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2907,6 +2907,15 @@ DTEND:20250907
 SUMMARY:Valga: Valga valla kogukonnapäev
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/valga-valla-kogukonnapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Lasnamäe sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Harju: Lasnamäe sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-suur-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
