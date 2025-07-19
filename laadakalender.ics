@@ -921,10 +921,10 @@ URL:https://laadakalender.ee/nomme-kulalaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-07-19.Haapsalu heainakuu laat
+UID:2025-07-19.Haapsalu heinakuu laat
 DTSTART:20250719
 DTEND:20250720
-SUMMARY:Lääne: Haapsalu heainakuu laat
+SUMMARY:Lääne: Haapsalu heinakuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-heinakuu-laat/
 END:VEVENT
