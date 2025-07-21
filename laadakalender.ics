@@ -1416,6 +1416,15 @@ URL:https://laadakalender.ee/rapina-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-27.Plaadi- ja bändisärgi turg
+DTSTART:20250727
+DTEND:20250728
+SUMMARY:Tartu: Plaadi- ja bändisärgi turg
+LOCATION:Tartu, Estonia
+URL:https://laadakalender.ee/plaadi-ja-bandisargi-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-30.Õllesummer
 DTSTART:20250730
 DTEND:20250731
@@ -2919,6 +2928,15 @@ URL:https://laadakalender.ee/lasnamae-suur-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.Kolga laat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Tartu: Kolga laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kolga-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-07.Eesti leiva päev ja sügislaat
 DTSTART:20250907
 DTEND:20250908
@@ -3069,15 +3087,6 @@ DTEND:20250914
 SUMMARY:Harju: Mustamäe sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/sugislaat-manni-park/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-09-13.Kolga laat
-DTSTART:20250913
-DTEND:20250914
-SUMMARY:Tartu: Kolga laat
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/kolga-laat/
 END:VEVENT
 
 BEGIN:VEVENT
