@@ -1983,6 +1983,15 @@ URL:https://laadakalender.ee/basaar-x-balta-suur-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Karksi-Nuia lõikuskuu laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Viljandi: Karksi-Nuia lõikuskuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2952,6 +2961,15 @@ DTEND:20250908
 SUMMARY:Järva: Kesk-Eesti sügislaat ja täika
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-07.Lihula sügislaat
+DTSTART:20250907
+DTEND:20250908
+SUMMARY:Pärnu: Lihula sügislaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lihula-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
