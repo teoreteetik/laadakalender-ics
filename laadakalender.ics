@@ -1488,15 +1488,6 @@ URL:https://laadakalender.ee/supeluse-aastalaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-08-01.Haapsalu viljakuu laat
-DTSTART:20250801
-DTEND:20250802
-SUMMARY:Lääne: Haapsalu viljakuu laat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-08-01.Pärnu Gildipäevad
 DTSTART:20250801
 DTEND:20250802
@@ -1575,15 +1566,6 @@ DTEND:20250803
 SUMMARY:Pärnu: Supeluse Aastalaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/supeluse-aastalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-08-02.Haapsalu viljakuu laat
-DTSTART:20250802
-DTEND:20250803
-SUMMARY:Lääne: Haapsalu viljakuu laat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1989,6 +1971,15 @@ DTEND:20250810
 SUMMARY:Viljandi: Karksi-Nuia lõikuskuu laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-nuia-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Peetri laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Harju: Peetri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/peetri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2532,6 +2523,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Vatla Mõisapäev
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Pärnu: Vatla Mõisapäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vatla-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Viru Talufest
 DTSTART:20250824
 DTEND:20250825
@@ -3018,15 +3018,6 @@ URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-09-12.Haapsalu Vintage Weekend
-DTSTART:20250912
-DTEND:20250913
-SUMMARY:Lääne: Haapsalu Vintage Weekend
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-vintage-weekend/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-09-12.Kuusalu OTT
 DTSTART:20250912
 DTEND:20250913
@@ -3177,15 +3168,6 @@ DTEND:20250915
 SUMMARY:Rapla: Rapla sügisandide laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-sugisandide-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-09-14.Haapsalu Vintage Weekend
-DTSTART:20250914
-DTEND:20250915
-SUMMARY:Lääne: Haapsalu Vintage Weekend
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-vintage-weekend/
 END:VEVENT
 
 BEGIN:VEVENT
