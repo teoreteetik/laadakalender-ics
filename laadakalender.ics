@@ -21,6 +21,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-03.Elva OTT
+DTSTART:20250703
+DTEND:20250704
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-04.Haapsalu Maitsete Promenaad
 DTSTART:20250704
 DTEND:20250705
@@ -216,6 +225,15 @@ DTEND:20250711
 SUMMARY:Saare: Loodusravi mess
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/loodusravi-mess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-10.Elva OTT
+DTSTART:20250710
+DTEND:20250711
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -741,6 +759,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-17.Elva OTT
+DTSTART:20250717
+DTEND:20250718
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-07-18.Saare Laat
 DTSTART:20250718
 DTEND:20250719
@@ -1062,6 +1089,15 @@ DTEND:20250725
 SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-07-24.Elva OTT
+DTSTART:20250724
+DTEND:20250725
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1461,6 +1497,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-07-31.Elva OTT
+DTSTART:20250731
+DTEND:20250801
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-01.Õllesummer
 DTSTART:20250801
 DTEND:20250802
@@ -1710,6 +1755,15 @@ DTEND:20250808
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-07.Elva OTT
+DTSTART:20250807
+DTEND:20250808
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1983,6 +2037,15 @@ URL:https://laadakalender.ee/peetri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Vändra perepäev
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Pärnu: Vändra perepäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vandra-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2106,6 +2169,15 @@ DTEND:20250815
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-14.Elva OTT
+DTSTART:20250814
+DTEND:20250815
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2397,6 +2469,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-21.Elva OTT
+DTSTART:20250821
+DTEND:20250822
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-22.Kuusalu OTT
 DTSTART:20250822
 DTEND:20250823
@@ -2604,6 +2685,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-28.Elva OTT
+DTSTART:20250828
+DTEND:20250829
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-29.Kuusalu OTT
 DTSTART:20250829
 DTEND:20250830
@@ -2772,6 +2862,15 @@ DTEND:20250905
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-04.Elva OTT
+DTSTART:20250904
+DTEND:20250905
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3009,6 +3108,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-11.Elva OTT
+DTSTART:20250911
+DTEND:20250912
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-12.Auto- ja tehnikamess MOTOSHOW
 DTSTART:20250912
 DTEND:20250913
@@ -3243,6 +3351,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-18.Elva OTT
+DTSTART:20250918
+DTEND:20250919
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-19.Kuusalu OTT
 DTSTART:20250919
 DTEND:20250920
@@ -3402,6 +3519,15 @@ DTEND:20250926
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-25.Elva OTT
+DTSTART:20250925
+DTEND:20250926
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3594,6 +3720,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-02.Elva OTT
+DTSTART:20251002
+DTEND:20251003
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-03.Oktoberfest Tallinn
 DTSTART:20251003
 DTEND:20251004
@@ -3756,6 +3891,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-09.Elva OTT
+DTSTART:20251009
+DTEND:20251010
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-10.Haapsalu sügiskuu laat
 DTSTART:20251010
 DTEND:20251011
@@ -3882,6 +4026,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-16.Elva OTT
+DTSTART:20251016
+DTEND:20251017
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-18.Veganmess
 DTSTART:20251018
 DTEND:20251019
@@ -3936,6 +4089,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-23.Elva OTT
+DTSTART:20251023
+DTEND:20251024
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-25.Rapla hommikuturg
 DTSTART:20251025
 DTEND:20251026
@@ -3969,6 +4131,15 @@ DTEND:20251031
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-30.Elva OTT
+DTSTART:20251030
+DTEND:20251031
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
