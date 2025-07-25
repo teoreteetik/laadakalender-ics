@@ -2046,6 +2046,15 @@ URL:https://laadakalender.ee/vandra-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.SADA Sadalas Festival
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Jõgeva: SADA Sadalas Festival
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/sada-sadalas-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -2421,6 +2430,15 @@ DTEND:20250818
 SUMMARY:Harju: Põhjala turg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohjala-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-17.Ihaste Päev
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Tartu: Ihaste Päev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ihaste-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2838,6 +2856,15 @@ URL:https://laadakalender.ee/laane-harju-valla-paev-ja-muinastulede-oo/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-31.Kristiine laat
+DTSTART:20250831
+DTEND:20250901
+SUMMARY:Harju: Kristiine laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-31.Pärnu jõeäärne kirbuturg
 DTSTART:20250831
 DTEND:20250901
@@ -3240,6 +3267,15 @@ DTEND:20250914
 SUMMARY:Harju: Keila kihelkonna laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/keila-kihelkonna-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Mustvee sügislaat "Peipsi kolla"
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Jõgeva: Mustvee sügislaat "Peipsi kolla"
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-sugislaat-peipsi-kolla/
 END:VEVENT
 
 BEGIN:VEVENT
