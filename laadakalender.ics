@@ -3081,6 +3081,15 @@ URL:https://laadakalender.ee/kolga-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.Vissuvere sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Viljandi: Vissuvere sügislaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vissuvere-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-07.Eesti leiva päev ja sügislaat
 DTSTART:20250907
 DTEND:20250908
