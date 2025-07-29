@@ -1749,6 +1749,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-03.Kallaste laat
+DTSTART:20250803
+DTEND:20250804
+SUMMARY:Tartu: Kallaste laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-07.Rapla õhtuturg
 DTSTART:20250807
 DTEND:20250808
