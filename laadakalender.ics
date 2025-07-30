@@ -2388,6 +2388,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-16.Loksa linnapäeva laat
+DTSTART:20250816
+DTEND:20250817
+SUMMARY:Harju: Loksa linnapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-linnapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-17.Pärtlipäeva laat
 DTSTART:20250817
 DTEND:20250818
@@ -2646,6 +2655,15 @@ DTEND:20250824
 SUMMARY:Pärnu: Vatla Mõisapäev
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/vatla-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-23.Keskpõrandale Kokku laat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Harju: Keskpõrandale Kokku laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/keskporandale-kokku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3303,6 +3321,15 @@ DTEND:20250914
 SUMMARY:Jõgeva: Mustvee sügislaat "Peipsi kolla"
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/mustvee-sugislaat-peipsi-kolla/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-13.Jõhvika ja sibulalaat "Peipsipisarad ja soopärlid"
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Tartu: Jõhvika ja sibulalaat "Peipsipisarad ja soopärlid"
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/peipsipisarad-ja-sooparlid/
 END:VEVENT
 
 BEGIN:VEVENT
