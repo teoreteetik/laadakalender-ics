@@ -3333,6 +3333,15 @@ URL:https://laadakalender.ee/peipsipisarad-ja-sooparlid/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-13.Sürgavere kodukandipäev ja laat
+DTSTART:20250913
+DTEND:20250914
+SUMMARY:Viljandi: Sürgavere kodukandipäev ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/surgavere-kodukandipaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-14.Auto- ja tehnikamess MOTOSHOW
 DTSTART:20250914
 DTEND:20250915
