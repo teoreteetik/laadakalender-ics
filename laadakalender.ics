@@ -210,6 +210,15 @@ URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-02.Augustibluusi plaaditurg
+DTSTART:20250802
+DTEND:20250803
+SUMMARY:Lääne: Augustibluusi plaaditurg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/augustibluusi-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-03.Vanatehnikalaat Sulle-Mulle
 DTSTART:20250803
 DTEND:20250804
@@ -1476,6 +1485,15 @@ DTEND:20250907
 SUMMARY:Tartu: Ülenurme Sügislaat ja Tõuloom
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/ulenurme-sugislaat-ja-touloom/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Karksi Meefestival
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Viljandi: Karksi Meefestival
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-meefestival/
 END:VEVENT
 
 BEGIN:VEVENT
