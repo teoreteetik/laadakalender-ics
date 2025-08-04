@@ -354,6 +354,15 @@ URL:https://laadakalender.ee/kohila-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-08.Kadrioru aialaat KuldMunad
+DTSTART:20250808
+DTEND:20250809
+SUMMARY:Harju: Kadrioru aialaat KuldMunad
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kadrioru-aialaat-kuldmunad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-09.Hauka Laat
 DTSTART:20250809
 DTEND:20250810
@@ -567,6 +576,15 @@ DTEND:20250810
 SUMMARY:Jõgeva: SADA Sadalas Festival
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/sada-sadalas-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-09.Tasuta raamatute laat
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Pärnu: Tasuta raamatute laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/tasuta-raamatute-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1164,6 +1182,15 @@ URL:https://laadakalender.ee/keskporandale-kokku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Laste Oma Laat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Tartu: Laste Oma Laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/laste-oma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Viru Talufest
 DTSTART:20250824
 DTEND:20250825
@@ -1206,6 +1233,15 @@ DTEND:20250825
 SUMMARY:Põlva: Räpina laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-24.Suur Kopli täika
+DTSTART:20250824
+DTEND:20250825
+SUMMARY:Harju: Suur Kopli täika
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-kopli-taika/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1376,7 +1412,7 @@ DTSTART:20250830
 DTEND:20250831
 SUMMARY:Harju: Suur raamatulaat Balti Jaama turul
 LOCATION:Harjumaa, Estonia
-URL:
+URL:https://laadakalender.ee/suur-raamatulaat-balti-jaama-turul/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1512,6 +1548,15 @@ DTEND:20250907
 SUMMARY:Ida-Viru: Lüganuse Maarahva Laat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/luganuse-maarahva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-06.Türi Õunafestival ja sügislaat
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Järva: Türi Õunafestival ja sügislaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ounafestival-ja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3168,6 +3213,15 @@ DTEND:20251208
 SUMMARY:Harju: Mustamäe keskuse jõulukingituste laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-keskuse-joulukingituste-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Voore Seltsimaja jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Jõgeva: Voore Seltsimaja jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/voore-seltsimaja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
