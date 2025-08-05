@@ -1191,6 +1191,15 @@ URL:https://laadakalender.ee/laste-oma-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-23.Juuru kogukonnalaat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Rapla: Juuru kogukonnalaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/juuru-kogukonnalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-24.Viru Talufest
 DTSTART:20250824
 DTEND:20250825
@@ -2133,6 +2142,15 @@ DTEND:20250922
 SUMMARY:Rapla: Kohila sügisandide laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-sugisandide-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-21.Lavassaare sügislaat
+DTSTART:20250921
+DTEND:20250922
+SUMMARY:Pärnu: Lavassaare sügislaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lavassaare-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
