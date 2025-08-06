@@ -588,6 +588,15 @@ URL:https://laadakalender.ee/tasuta-raamatute-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-09.Tõstamaa turuhommik / laadahommik
+DTSTART:20250809
+DTEND:20250810
+SUMMARY:Pärnu: Tõstamaa turuhommik / laadahommik
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/tostamaa-osavallapaevade-turuhommik/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-10.Hauka Laat
 DTSTART:20250810
 DTEND:20250811
@@ -1038,6 +1047,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-21.Pärnu augustikuu laat
+DTSTART:20250821
+DTEND:20250822
+SUMMARY:Pärnu: Pärnu augustikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-22.Kuusalu OTT
 DTSTART:20250822
 DTEND:20250823
@@ -1062,6 +1080,15 @@ DTEND:20250823
 SUMMARY:Rapla: Kohila OTT
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-22.Pärnu augustikuu laat
+DTSTART:20250822
+DTEND:20250823
+SUMMARY:Pärnu: Pärnu augustikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-augustikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1197,6 +1224,15 @@ DTEND:20250824
 SUMMARY:Rapla: Juuru kogukonnalaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/juuru-kogukonnalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-08-23.Pärnu augustikuu laat
+DTSTART:20250823
+DTEND:20250824
+SUMMARY:Pärnu: Pärnu augustikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-augustikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
