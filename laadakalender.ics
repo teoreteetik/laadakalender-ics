@@ -993,6 +993,15 @@ URL:https://laadakalender.ee/ihaste-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-08-17.Risti taluturg ja kogukonnalaat
+DTSTART:20250817
+DTEND:20250818
+SUMMARY:Lääne: Risti taluturg ja kogukonnalaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/risti-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-08-20.Märjamaa Laat
 DTSTART:20250820
 DTEND:20250821
@@ -1713,6 +1722,15 @@ URL:https://laadakalender.ee/vissuvere-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-06.Jõhvi lennupäev
+DTSTART:20250906
+DTEND:20250907
+SUMMARY:Ida-Viru: Jõhvi lennupäev
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/johvi-lennupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-07.Eesti leiva päev ja sügislaat
 DTSTART:20250907
 DTEND:20250908
@@ -2187,6 +2205,15 @@ DTEND:20250922
 SUMMARY:Pärnu: Lavassaare sügislaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/lavassaare-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-21.Katariina Sõprade Laat
+DTSTART:20250921
+DTEND:20250922
+SUMMARY:Pärnu: Katariina Sõprade Laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/katariina-soprade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
