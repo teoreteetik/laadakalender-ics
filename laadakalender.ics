@@ -1749,6 +1749,15 @@ URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-12.Mustvee viinakuu laat
+DTSTART:20251012
+DTEND:20251013
+SUMMARY:Jõgeva: Mustvee viinakuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-viinakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-15.Tallinna kollektsionääride laat
 DTSTART:20251015
 DTEND:20251016
