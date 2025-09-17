@@ -975,6 +975,15 @@ URL:https://laadakalender.ee/loksa-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-20.Taritu turupäev
+DTSTART:20250920
+DTEND:20250921
+SUMMARY:Saare: Taritu turupäev
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/taritu-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-21.Kohila sügisandide laat
 DTSTART:20250921
 DTEND:20250922
@@ -1209,6 +1218,15 @@ URL:https://laadakalender.ee/muhu-mihklipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-27.Mihklilaat Vikil
+DTSTART:20250927
+DTEND:20250928
+SUMMARY:Saare: Mihklilaat Vikil
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/mihklilaat-vikil/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-28.Oktoberfest Tallinn
 DTSTART:20250928
 DTEND:20250929
@@ -1233,6 +1251,15 @@ DTEND:20250929
 SUMMARY:Harju: Suur Tondiraba Sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-tondiraba-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-28.Laimjala mihklipäeva laat
+DTSTART:20250928
+DTEND:20250929
+SUMMARY:Saare: Laimjala mihklipäeva laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/laimjala-mihklipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1461,6 +1488,15 @@ URL:https://laadakalender.ee/laekvere-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-04.Mustjala sügislaat
+DTSTART:20251004
+DTEND:20251005
+SUMMARY:Saare: Mustjala sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/mustjala-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-05.Tagadi restauraatorite päev
 DTSTART:20251005
 DTEND:20251006
@@ -1521,6 +1557,15 @@ DTEND:20251006
 SUMMARY:Tartu: Rahvusvaheline plaadilaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/rahvusvaheline-plaadilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-05.Lümanda sügislaat
+DTSTART:20251005
+DTEND:20251006
+SUMMARY:Saare: Lümanda sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/lumanda-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1827,6 +1872,24 @@ DTEND:20251019
 SUMMARY:Järva: Paide oktoobrilaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/paide-oktoobrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-18.Kuuse Tänava Kirbuturg
+DTSTART:20251018
+DTEND:20251019
+SUMMARY:Põlva: Kuuse Tänava Kirbuturg
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/kuuse-tanava-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-18.Suurpalu sügislaat
+DTSTART:20251018
+DTEND:20251019
+SUMMARY:Järva: Suurpalu sügislaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/suurpalu-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
