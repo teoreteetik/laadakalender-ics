@@ -984,6 +984,15 @@ URL:https://laadakalender.ee/taritu-turupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-09-20.Pärnu jõeäärne kirbuturg
+DTSTART:20250920
+DTEND:20250921
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-09-21.Kohila sügisandide laat
 DTSTART:20250921
 DTEND:20250922
@@ -1035,6 +1044,15 @@ DTEND:20250922
 SUMMARY:Jõgeva: Kääpa OTT sügispidu
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott-sugispidu/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-09-21.Pärnu jõeäärne kirbuturg
+DTSTART:20250921
+DTEND:20250922
+SUMMARY:Pärnu: Pärnu jõeäärne kirbuturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joeaarne-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1494,6 +1512,15 @@ DTEND:20251005
 SUMMARY:Saare: Mustjala sügislaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/mustjala-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-04.Kolga mõisa antiigipäev
+DTSTART:20251004
+DTEND:20251005
+SUMMARY:Harju: Kolga mõisa antiigipäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kolga-moisa-antiigipaev/
 END:VEVENT
 
 BEGIN:VEVENT
