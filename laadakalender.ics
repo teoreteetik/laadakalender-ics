@@ -1605,6 +1605,15 @@ URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-08.Pae Keskuse laat
+DTSTART:20251008
+DTEND:20251009
+SUMMARY:Harju: Pae Keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-09.Auriga rallyturg
 DTSTART:20251009
 DTEND:20251010
@@ -1647,6 +1656,15 @@ DTEND:20251010
 SUMMARY:Harju: Järve keskuse sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-09.Pae Keskuse laat
+DTSTART:20251009
+DTEND:20251010
+SUMMARY:Harju: Pae Keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
