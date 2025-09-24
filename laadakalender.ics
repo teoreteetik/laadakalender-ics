@@ -1785,6 +1785,15 @@ URL:https://laadakalender.ee/kehra-turu-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-11.Mustvee viinakuu laat
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Jõgeva: Mustvee viinakuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-viinakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-11.Järve keskuse sügislaat
 DTSTART:20251011
 DTEND:20251012
@@ -1836,15 +1845,6 @@ DTEND:20251013
 SUMMARY:Harju: Järve keskuse sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-10-12.Mustvee viinakuu laat
-DTSTART:20251012
-DTEND:20251013
-SUMMARY:Jõgeva: Mustvee viinakuu laat
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/mustvee-viinakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1935,6 +1935,15 @@ DTEND:20251019
 SUMMARY:Järva: Suurpalu sügislaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/suurpalu-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-18.Karksi-Nuia sügislaat
+DTSTART:20251018
+DTEND:20251019
+SUMMARY:Viljandi: Karksi-Nuia sügislaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
