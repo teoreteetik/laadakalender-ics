@@ -435,6 +435,24 @@ URL:https://laadakalender.ee/ehitus-ja-sisustus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-10.Jõgeva sügislaat
+DTSTART:20251010
+DTEND:20251011
+SUMMARY:Jõgeva: Jõgeva sügislaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-10.Kohtla-Järve sügislaat
+DTSTART:20251010
+DTEND:20251011
+SUMMARY:Ida-Viru: Kohtla-Järve sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-11.Haapsalu sügiskuu laat
 DTSTART:20251011
 DTEND:20251012
@@ -570,6 +588,15 @@ URL:https://laadakalender.ee/loksa-oktoobri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-11.Kohtla-Järve sügislaat
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Ida-Viru: Kohtla-Järve sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-12.Kohila sügiskuu laat
 DTSTART:20251012
 DTEND:20251013
@@ -660,6 +687,15 @@ URL:https://laadakalender.ee/kilingi-nomme-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-12.Kohtla-Järve sügislaat
+DTSTART:20251012
+DTEND:20251013
+SUMMARY:Ida-Viru: Kohtla-Järve sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-15.Tallinna kollektsionääride laat
 DTSTART:20251015
 DTEND:20251016
@@ -702,6 +738,24 @@ DTEND:20251018
 SUMMARY:Pärnu: Pärnu oktoobrikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-17.Võru sügislaat
+DTSTART:20251017
+DTEND:20251018
+SUMMARY:Võru: Võru sügislaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-17.Ahtme sügislaat
+DTSTART:20251017
+DTEND:20251018
+SUMMARY:Ida-Viru: Ahtme sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -786,6 +840,15 @@ URL:https://laadakalender.ee/parnu-oktoobrikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-18.Ahtme sügislaat
+DTSTART:20251018
+DTEND:20251019
+SUMMARY:Ida-Viru: Ahtme sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-19.Veganmess
 DTSTART:20251019
 DTEND:20251020
@@ -810,6 +873,15 @@ DTEND:20251020
 SUMMARY:Põlva: Räpina laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-19.Ahtme sügislaat
+DTSTART:20251019
+DTEND:20251020
+SUMMARY:Ida-Viru: Ahtme sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1389,6 +1461,15 @@ URL:https://laadakalender.ee/varbola-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Nõmme jõuluturg
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Nõmme jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/nomme-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -1596,6 +1677,24 @@ URL:https://laadakalender.ee/rapla-joulumaa-ja-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-19.Pargi Keskuse jõululaat
+DTSTART:20251219
+DTEND:20251220
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-19.Pärnu jõuluküla ja jõuluturg
+DTSTART:20251219
+DTEND:20251220
+SUMMARY:Pärnu: Pärnu jõuluküla ja jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joulukula-ja-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-20.Auriga jõuluturg
 DTSTART:20251220
 DTEND:20251221
@@ -1650,6 +1749,24 @@ URL:https://laadakalender.ee/rapla-joulumaa-ja-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-20.Pargi Keskuse jõululaat
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-20.Pärnu jõuluküla ja jõuluturg
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Pärnu: Pärnu jõuluküla ja jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joulukula-ja-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-21.UKU Keskuse jõululaat
 DTSTART:20251221
 DTEND:20251222
@@ -1674,6 +1791,15 @@ DTEND:20251222
 SUMMARY:Viljandi: Jõulud Viljandis
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/joulud-viljandis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-21.Pärnu jõuluküla ja jõuluturg
+DTSTART:20251221
+DTEND:20251222
+SUMMARY:Pärnu: Pärnu jõuluküla ja jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-joulukula-ja-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
