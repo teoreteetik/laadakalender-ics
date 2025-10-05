@@ -597,6 +597,15 @@ URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-11.Mustika Lastekas
+DTSTART:20251011
+DTEND:20251012
+SUMMARY:Harju: Mustika Lastekas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustikas-lastekas-perelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-12.Kohila sügiskuu laat
 DTSTART:20251012
 DTEND:20251013
