@@ -1218,15 +1218,6 @@ URL:https://laadakalender.ee/uma-mekk-suurlaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-11-09.Rapla sügislaat
-DTSTART:20251109
-DTEND:20251110
-SUMMARY:Rapla: Rapla sügislaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-sugislaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-11-09.Mustamäe keskuse terviselaat
 DTSTART:20251109
 DTEND:20251110
@@ -1269,6 +1260,15 @@ DTEND:20251116
 SUMMARY:Harju: Festival Maitsev Eesti
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/festival-maitsev-eesti/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-15.Rapla sügislaat
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Rapla: Rapla sügislaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1359,6 +1359,15 @@ DTEND:20251130
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-29.Abja-Paluoja jõuluootuse laat
+DTSTART:20251129
+DTEND:20251130
+SUMMARY:Viljandi: Abja-Paluoja jõuluootuse laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-jouluootuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1470,6 +1479,15 @@ URL:https://laadakalender.ee/varbola-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Rapla jõulukuu laat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Rapla: Rapla jõulukuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-joulukuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-06.Nõmme jõuluturg
 DTSTART:20251206
 DTEND:20251207
@@ -1494,15 +1512,6 @@ DTEND:20251208
 SUMMARY:Valga: Otepää aiandusmaja jõululaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-12-07.Rapla jõulukuu laat
-DTSTART:20251207
-DTEND:20251208
-SUMMARY:Rapla: Rapla jõulukuu laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/rapla-joulukuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1620,6 +1629,15 @@ DTEND:20251215
 SUMMARY:Tartu: ERMi jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/ermi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Eidapere Kultuurikeskuse jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Rapla: Eidapere Kultuurikeskuse jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/eidapere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
