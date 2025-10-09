@@ -939,6 +939,15 @@ URL:https://laadakalender.ee/pulmamess-eesti-pulmad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-19.Paldiski oktoobrikuu laat
+DTSTART:20251019
+DTEND:20251020
+SUMMARY:Harju: Paldiski oktoobrikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-22.Märjamaa õhtuturg
 DTSTART:20251022
 DTEND:20251023
@@ -1557,6 +1566,15 @@ DTEND:20251206
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-05.Värska jõululaat
+DTSTART:20251205
+DTEND:20251206
+SUMMARY:Võru: Värska jõululaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/varska-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
