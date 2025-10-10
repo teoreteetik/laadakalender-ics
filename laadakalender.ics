@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-10-15.Mustakivi keskuse laat
+DTSTART:20251015
+DTEND:20251016
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-10-16.Rapla õhtuturg
 DTSTART:20251016
 DTEND:20251017
@@ -765,6 +774,15 @@ DTEND:20251017
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-16.Mustakivi keskuse laat
+DTSTART:20251016
+DTEND:20251017
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -837,15 +855,6 @@ DTEND:20251019
 SUMMARY:Järva: Paide oktoobrilaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/paide-oktoobrilaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-10-18.Kuuse Tänava Kirbuturg
-DTSTART:20251018
-DTEND:20251019
-SUMMARY:Põlva: Kuuse Tänava Kirbuturg
-LOCATION:Põlvamaa, Estonia
-URL:https://laadakalender.ee/kuuse-tanava-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -945,6 +954,15 @@ DTEND:20251020
 SUMMARY:Harju: Paldiski oktoobrikuu laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/paldiski-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-10-19.Kallaste sügislaat
+DTSTART:20251019
+DTEND:20251020
+SUMMARY:Tartu: Kallaste sügislaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1827,6 +1845,15 @@ DTEND:20251215
 SUMMARY:Rapla: Eidapere Kultuurikeskuse jõululaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/eidapere-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Haapsalu jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Lääne: Haapsalu jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-kultuurikeskus-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
