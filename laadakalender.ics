@@ -1362,6 +1362,15 @@ URL:https://laadakalender.ee/auriga-kirpar/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-08.Jaani Jõulud
+DTSTART:20251108
+DTEND:20251109
+SUMMARY:Valga: Jaani Jõulud
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/jaani-joulud/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-09.Mustamäe keskuse terviselaat
 DTSTART:20251109
 DTEND:20251110
@@ -1440,6 +1449,15 @@ DTEND:20251116
 SUMMARY:Harju: Suur Tondiraba Sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-tondiraba-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-15.Perepäev ja laat "Päev koos isaga"
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Jõgeva: Perepäev ja laat "Päev koos isaga"
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-laat-paev-koos-isaga/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1722,9 +1740,9 @@ URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-12-07.Otepää aiandusmaja jõululaat
-DTSTART:20251207
-DTEND:20251208
+UID:2025-12-06.Otepää aiandusmaja jõululaat
+DTSTART:20251206
+DTEND:20251207
 SUMMARY:Valga: Otepää aiandusmaja jõululaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
