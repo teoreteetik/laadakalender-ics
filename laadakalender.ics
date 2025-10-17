@@ -1191,6 +1191,15 @@ URL:https://laadakalender.ee/halloweeni-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-01.Aruküla Waldorflasteaia Miikaeli laat
+DTSTART:20251101
+DTEND:20251102
+SUMMARY:Harju: Aruküla Waldorflasteaia Miikaeli laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/arukula-waldorflasteaia-miikaeli-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-05.Järve Keskuse Ostubuumi laat
 DTSTART:20251105
 DTEND:20251106
@@ -1785,6 +1794,15 @@ URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Suur Keila Jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Suur Keila Jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-keila-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -1827,6 +1845,15 @@ DTEND:20251208
 SUMMARY:Viljandi: Jõulud Viljandis
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/joulud-viljandis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Käsitöö ja väiketootjate jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Järva: Käsitöö ja väiketootjate jõululaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/kasitoo-ja-joulukaupade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
