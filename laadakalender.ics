@@ -1506,6 +1506,15 @@ URL:https://laadakalender.ee/perepaev-ja-laat-paev-koos-isaga/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-15.Abja-Paluoja sügislaat
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Viljandi: Abja-Paluoja sügislaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-16.Kohila sügislaat
 DTSTART:20251116
 DTEND:20251117
@@ -1521,6 +1530,15 @@ DTEND:20251117
 SUMMARY:Harju: Festival Maitsev Eesti
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/festival-maitsev-eesti/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-16.Kilingi-Nõmme laat
+DTSTART:20251116
+DTEND:20251117
+SUMMARY:Pärnu: Kilingi-Nõmme laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/kilingi-nomme-laat/
 END:VEVENT
 
 BEGIN:VEVENT
