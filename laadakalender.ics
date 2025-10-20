@@ -1461,6 +1461,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-14.Pärnu novembrikuu laat
+DTSTART:20251114
+DTEND:20251115
+SUMMARY:Pärnu: Pärnu novembrikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-novembrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-15.Rapla hommikuturg
 DTSTART:20251115
 DTEND:20251116
@@ -1512,6 +1521,15 @@ DTEND:20251116
 SUMMARY:Viljandi: Abja-Paluoja sügislaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/abja-paluoja-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-15.Pärnu novembrikuu laat
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Pärnu: Pärnu novembrikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-novembrikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1956,6 +1974,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-13.Jägala-Joa Infokohviku jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Harju: Jägala-Joa Infokohviku jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jagala-joa-infokohviku-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-14.Jõulud Viljandis
 DTSTART:20251214
 DTEND:20251215
@@ -1998,6 +2025,15 @@ DTEND:20251215
 SUMMARY:Ida-Viru: Kiviõli jõululaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/joululaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Jägala-Joa Infokohviku jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Harju: Jägala-Joa Infokohviku jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jagala-joa-infokohviku-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
