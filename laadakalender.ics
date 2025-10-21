@@ -1200,12 +1200,30 @@ URL:https://laadakalender.ee/arukula-waldorflasteaia-miikaeli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-01.Võru valla spordivarustuse laat
+DTSTART:20251101
+DTEND:20251102
+SUMMARY:Võru: Võru valla spordivarustuse laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-valla-spordivarustuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-05.Järve Keskuse Ostubuumi laat
 DTSTART:20251105
 DTEND:20251106
 SUMMARY:Harju: Järve Keskuse Ostubuumi laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ostubuumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-05.Pae Keskuse laat
+DTSTART:20251105
+DTEND:20251106
+SUMMARY:Harju: Pae Keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1242,6 +1260,15 @@ DTEND:20251107
 SUMMARY:Harju: Järve Keskuse Ostubuumi laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ostubuumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-06.Pae Keskuse laat
+DTSTART:20251106
+DTEND:20251107
+SUMMARY:Harju: Pae Keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1413,6 +1440,15 @@ DTEND:20251109
 SUMMARY:Valga: Jaani Jõulud
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/jaani-joulud/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-08.Turba OTT
+DTSTART:20251108
+DTEND:20251109
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1602,6 +1638,15 @@ DTEND:20251123
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-22.Turba OTT
+DTSTART:20251122
+DTEND:20251123
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1839,6 +1884,15 @@ URL:https://laadakalender.ee/suur-keila-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Karksi-Nuia suur jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Viljandi: Karksi-Nuia suur jõululaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -1890,6 +1944,15 @@ DTEND:20251208
 SUMMARY:Järva: Käsitöö ja väiketootjate jõululaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kasitoo-ja-joulukaupade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Viimsi Artiumi jõuluturg
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Viimsi Artiumi jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-artiumi-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2064,6 +2127,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-18.Pärnu jõululaat
+DTSTART:20251218
+DTEND:20251219
+SUMMARY:Pärnu: Pärnu jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-19.Auriga jõuluturg
 DTSTART:20251219
 DTEND:20251220
@@ -2124,6 +2196,15 @@ DTEND:20251220
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-19.Pärnu jõululaat
+DTSTART:20251219
+DTEND:20251220
+SUMMARY:Pärnu: Pärnu jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2214,6 +2295,15 @@ DTEND:20251221
 SUMMARY:Viljandi: Abja-Paluoja jõululaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/abja-paluoja-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-20.Pärnu jõululaat
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Pärnu: Pärnu jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
