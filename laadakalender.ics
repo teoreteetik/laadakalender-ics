@@ -1227,6 +1227,15 @@ URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-05.Märjamaa õhtuturg
+DTSTART:20251105
+DTEND:20251106
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-06.Mardilaat
 DTSTART:20251106
 DTEND:20251107
@@ -1602,6 +1611,15 @@ DTEND:20251120
 SUMMARY:Harju: Tallinna kollektsionääride laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-19.Märjamaa õhtuturg
+DTSTART:20251119
+DTEND:20251120
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
