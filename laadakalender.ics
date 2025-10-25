@@ -1218,6 +1218,15 @@ URL:https://laadakalender.ee/tapa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-02.Räpina Mardilaat
+DTSTART:20251102
+DTEND:20251103
+SUMMARY:Põlva: Räpina Mardilaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-mardilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-05.Järve Keskuse Ostubuumi laat
 DTSTART:20251105
 DTEND:20251106
@@ -1677,6 +1686,15 @@ URL:https://laadakalender.ee/ahtme-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-15.Paide novembrilaat
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Järva: Paide novembrilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-novembrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-16.Festival Maitsev Eesti
 DTSTART:20251116
 DTEND:20251117
@@ -1827,6 +1845,15 @@ DTEND:20251201
 SUMMARY:Jõgeva: Laiuse advenditurg
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/laiuse-advenditurg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-30.Rõngu Rahvamaja jõuluootuse laadahommik
+DTSTART:20251130
+DTEND:20251201
+SUMMARY:Tartu: Rõngu Rahvamaja jõuluootuse laadahommik
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/rongu-rahvamaja-jouluootuse-laadahommik/
 END:VEVENT
 
 BEGIN:VEVENT
