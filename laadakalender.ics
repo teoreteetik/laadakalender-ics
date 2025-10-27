@@ -1857,6 +1857,15 @@ URL:https://laadakalender.ee/rongu-rahvamaja-jouluootuse-laadahommik/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-30.Wittensteini jõulukingituste ja -maitsete turg
+DTSTART:20251130
+DTEND:20251201
+SUMMARY:Järva: Wittensteini jõulukingituste ja -maitsete turg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/wittensteini-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-04.Auriga advendi turg
 DTSTART:20251204
 DTEND:20251205
