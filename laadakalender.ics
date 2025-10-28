@@ -2145,6 +2145,24 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-12.Märjamaa Jõulumaa jõuluturg
+DTSTART:20251212
+DTEND:20251213
+SUMMARY:Rapla: Märjamaa Jõulumaa jõuluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-joulumaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-12.Mustika keskuse jõululaat
+DTSTART:20251212
+DTEND:20251213
+SUMMARY:Harju: Mustika keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustika-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-13.Tartu jõululaat
 DTSTART:20251213
 DTEND:20251214
@@ -2217,6 +2235,24 @@ URL:https://laadakalender.ee/jagala-joa-infokohviku-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-13.Rannarootsi Keskuse jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Lääne: Rannarootsi Keskuse jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/rannarootsi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Mustika keskuse jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Harju: Mustika keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustika-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-14.Jõulud Viljandis
 DTSTART:20251214
 DTEND:20251215
@@ -2280,12 +2316,30 @@ URL:https://laadakalender.ee/suur-tondiraba-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-14.Mustika keskuse jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Harju: Mustika keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustika-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-17.Tallinna kollektsionääride laat
 DTSTART:20251217
 DTEND:20251218
 SUMMARY:Harju: Tallinna kollektsionääride laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinna-kollektsionaaride-klubi/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-17.Järve keskuse jõululaat
+DTSTART:20251217
+DTEND:20251218
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2313,6 +2367,15 @@ DTEND:20251219
 SUMMARY:Pärnu: Pärnu jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-18.Järve keskuse jõululaat
+DTSTART:20251218
+DTEND:20251219
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2385,6 +2448,15 @@ DTEND:20251220
 SUMMARY:Pärnu: Pärnu jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-19.Järve keskuse jõululaat
+DTSTART:20251219
+DTEND:20251220
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2496,6 +2568,15 @@ URL:https://laadakalender.ee/kuressaare-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-20.Järve keskuse jõululaat
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-21.UKU Keskuse jõululaat
 DTSTART:20251221
 DTEND:20251222
@@ -2550,6 +2631,15 @@ URL:https://laadakalender.ee/kuressaare-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-21.Järve keskuse jõululaat
+DTSTART:20251221
+DTEND:20251222
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-22.Kuressaare jõuluturg
 DTSTART:20251222
 DTEND:20251223
@@ -2559,12 +2649,30 @@ URL:https://laadakalender.ee/kuressaare-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-22.Järve keskuse jõululaat
+DTSTART:20251222
+DTEND:20251223
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-23.Kuressaare jõuluturg
 DTSTART:20251223
 DTEND:20251224
 SUMMARY:Saare: Kuressaare jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-23.Järve keskuse jõululaat
+DTSTART:20251223
+DTEND:20251224
+SUMMARY:Harju: Järve keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
