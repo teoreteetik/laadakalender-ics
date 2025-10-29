@@ -1227,6 +1227,15 @@ URL:https://laadakalender.ee/rapina-mardilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-02.Kääpa OTT
+DTSTART:20251102
+DTEND:20251103
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-05.Järve Keskuse Ostubuumi laat
 DTSTART:20251105
 DTEND:20251106
@@ -1569,12 +1578,39 @@ URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-09.Kääpa OTT
+DTSTART:20251109
+DTEND:20251110
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-12.Mustakivi keskuse laat
+DTSTART:20251112
+DTEND:20251113
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-13.Rapla õhtuturg
 DTSTART:20251113
 DTEND:20251114
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-13.Mustakivi keskuse laat
+DTSTART:20251113
+DTEND:20251114
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1695,6 +1731,15 @@ URL:https://laadakalender.ee/paide-novembrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-15.Loksa talvekuu laat
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Harju: Loksa talvekuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-talvekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-16.Festival Maitsev Eesti
 DTSTART:20251116
 DTEND:20251117
@@ -1719,6 +1764,15 @@ DTEND:20251117
 SUMMARY:Ida-Viru: Ahtme sügislaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/ahtme-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-16.Kääpa OTT
+DTSTART:20251116
+DTEND:20251117
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1794,6 +1848,15 @@ URL:https://laadakalender.ee/suur-kadrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-23.Kääpa OTT
+DTSTART:20251123
+DTEND:20251124
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-27.Rapla õhtuturg
 DTSTART:20251127
 DTEND:20251128
@@ -1863,6 +1926,15 @@ DTEND:20251201
 SUMMARY:Järva: Wittensteini jõulukingituste ja -maitsete turg
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/wittensteini-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-30.Kääpa OTT
+DTSTART:20251130
+DTEND:20251201
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2127,6 +2199,15 @@ URL:https://laadakalender.ee/tapa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-07.Kääpa OTT
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-11.Rapla õhtuturg
 DTSTART:20251211
 DTEND:20251212
@@ -2322,6 +2403,24 @@ DTEND:20251215
 SUMMARY:Harju: Mustika keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustika-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Kääpa OTT
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Kääpa jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Jõgeva: Kääpa jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2640,6 +2739,24 @@ URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-21.Otepää talveturg
+DTSTART:20251221
+DTEND:20251222
+SUMMARY:Valga: Otepää talveturg
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-talveturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-21.Kääpa OTT
+DTSTART:20251221
+DTEND:20251222
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-22.Kuressaare jõuluturg
 DTSTART:20251222
 DTEND:20251223
@@ -2682,6 +2799,15 @@ DTEND:20251227
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-28.Kääpa OTT
+DTSTART:20251228
+DTEND:20251229
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
