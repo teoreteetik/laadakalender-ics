@@ -1938,6 +1938,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-30.Keila advendilaat
+DTSTART:20251130
+DTEND:20251201
+SUMMARY:Harju: Keila advendilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/keila-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-04.Auriga advendi turg
 DTSTART:20251204
 DTEND:20251205
@@ -2127,6 +2136,24 @@ URL:https://laadakalender.ee/karksi-nuia-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Märjamaa Jõulumaa jõuluturg
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Rapla: Märjamaa Jõulumaa jõuluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-joulumaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-06.Vormsi jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Lääne: Vormsi jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/vormsi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -2223,15 +2250,6 @@ DTEND:20251213
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-12-12.Märjamaa Jõulumaa jõuluturg
-DTSTART:20251212
-DTEND:20251213
-SUMMARY:Rapla: Märjamaa Jõulumaa jõuluturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/marjamaa-joulumaa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
