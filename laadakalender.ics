@@ -2064,15 +2064,6 @@ URL:https://laadakalender.ee/rakvere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2025-12-06.Varbola jõululaat
-DTSTART:20251206
-DTEND:20251207
-SUMMARY:Rapla: Varbola jõululaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/varbola-joululaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2025-12-06.Rapla jõulukuu laat
 DTSTART:20251206
 DTEND:20251207
@@ -2154,21 +2145,21 @@ URL:https://laadakalender.ee/vormsi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Aegviidu jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Aegviidu jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aegviidu-rahvamaja-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
 SUMMARY:Tartu: Tartu jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2025-12-07.Advendilaat
-DTSTART:20251207
-DTEND:20251208
-SUMMARY:Viljandi: Advendilaat
-LOCATION:Viljandimaa, Estonia
-URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2208,12 +2199,30 @@ URL:https://laadakalender.ee/kasitoo-ja-joulukaupade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-07.Varbola jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Rapla: Varbola jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Viimsi Artiumi jõuluturg
 DTSTART:20251207
 DTEND:20251208
 SUMMARY:Harju: Viimsi Artiumi jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/viimsi-artiumi-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Advendilaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Viljandi: Advendilaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
 END:VEVENT
 
 BEGIN:VEVENT
