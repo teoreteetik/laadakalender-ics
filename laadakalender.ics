@@ -1164,6 +1164,15 @@ URL:https://laadakalender.ee/mustika-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-12.Türi jõululaat
+DTSTART:20251212
+DTEND:20251213
+SUMMARY:Järva: Türi jõululaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-13.Tartu jõululaat
 DTSTART:20251213
 DTEND:20251214
@@ -1260,6 +1269,15 @@ DTEND:20251214
 SUMMARY:Harju: Kiisa jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kiisa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Türi jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Järva: Türi jõululaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
