@@ -705,6 +705,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-22.Hageri kadrilaat
+DTSTART:20251122
+DTEND:20251123
+SUMMARY:Rapla: Hageri kadrilaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/hageri-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-23.Suur kadrilaat
 DTSTART:20251123
 DTEND:20251124
@@ -1029,6 +1038,24 @@ URL:https://laadakalender.ee/karlova-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Kadrioru jõululaat ja toidutänav
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Kadrioru jõululaat ja toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kadrioru-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-06.Palamuse jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Jõgeva: Palamuse jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/palamuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -1134,6 +1161,24 @@ DTEND:20251208
 SUMMARY:Põlva: Mooste jõulukuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mooste-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Kadrioru jõululaat ja toidutänav
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Kadrioru jõululaat ja toidutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kadrioru-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Rakke jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Lääne-Viru: Rakke jõululaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/rakke-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
