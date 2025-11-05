@@ -642,6 +642,15 @@ URL:https://laadakalender.ee/baasi-kirppar/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-16.Kose novembrilaat
+DTSTART:20251116
+DTEND:20251117
+SUMMARY:Harju: Kose novembrilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-novembrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-19.Tallinna kollektsionääride laat
 DTSTART:20251119
 DTEND:20251120
@@ -711,6 +720,15 @@ DTEND:20251123
 SUMMARY:Rapla: Hageri kadrilaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/hageri-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-22.Fotomuuseumi fototäika
+DTSTART:20251122
+DTEND:20251123
+SUMMARY:Harju: Fotomuuseumi fototäika
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/fotomuuseumi-fototaika/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1182,6 +1200,15 @@ URL:https://laadakalender.ee/rakke-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-07.Põhjala Tehase Jõuluturg
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Põhjala Tehase Jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohjala-tehase-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-11.Rapla õhtuturg
 DTSTART:20251211
 DTEND:20251212
@@ -1422,6 +1449,15 @@ DTEND:20251215
 SUMMARY:Pärnu: Kõmsi jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/komsi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.EKA Jõuluturg
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Harju: EKA Jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eka-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1683,6 +1719,15 @@ DTEND:20251221
 SUMMARY:Harju: Saku jõulutelk
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/saku-joulutelk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-20.Telliskivi Loomelinnaku jõuluturg
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Harju: Telliskivi Loomelinnaku jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/telliskivi-loomelinnaku-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
