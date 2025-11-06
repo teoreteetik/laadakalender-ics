@@ -1209,6 +1209,15 @@ URL:https://laadakalender.ee/pohjala-tehase-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-07.Maarja-Magdaleena jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Tartu: Maarja-Magdaleena jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/maarja-magdaleena-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-11.Rapla õhtuturg
 DTSTART:20251211
 DTEND:20251212
@@ -1353,6 +1362,33 @@ URL:https://laadakalender.ee/turi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-13.Eesti muuseumipoodide jõuluturg
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Harju: Eesti muuseumipoodide jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-muuseumipoodide-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Vääna jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Harju: Vääna jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-heategevuslik-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-13.Valgeranna Muusikatalli jõuluturg
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Pärnu: Valgeranna Muusikatalli jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-14.Jõulud Viljandis
 DTSTART:20251214
 DTEND:20251215
@@ -1458,6 +1494,33 @@ DTEND:20251215
 SUMMARY:Harju: EKA Jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eka-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Haabersti talvelaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Harju: Haabersti talvelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/haabersti-talvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Valgeranna Muusikatalli jõuluturg
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Pärnu: Valgeranna Muusikatalli jõuluturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Seljametsa jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Pärnu: Seljametsa jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
