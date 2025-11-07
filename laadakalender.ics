@@ -147,6 +147,15 @@ URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-06.Elva OTT
+DTSTART:20251106
+DTEND:20251107
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-07.Mardilaat
 DTSTART:20251107
 DTEND:20251108
@@ -471,6 +480,15 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-13.Elva OTT
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-14.Otepää OTT
 DTSTART:20251114
 DTEND:20251115
@@ -678,6 +696,15 @@ URL:https://laadakalender.ee/rapla-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-20.Elva OTT
+DTSTART:20251120
+DTEND:20251121
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-21.Otepää OTT
 DTSTART:20251121
 DTEND:20251122
@@ -768,6 +795,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-27.Elva OTT
+DTSTART:20251127
+DTEND:20251128
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-29.Andresepäeva laat
 DTSTART:20251129
 DTEND:20251130
@@ -840,6 +876,15 @@ URL:https://laadakalender.ee/keila-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-02.Väätsa jõuluturg
+DTSTART:20251202
+DTEND:20251203
+SUMMARY:Järva: Väätsa jõuluturg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/vaatsa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-04.Auriga advendi turg
 DTSTART:20251204
 DTEND:20251205
@@ -855,6 +900,15 @@ DTEND:20251205
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-04.Elva OTT
+DTSTART:20251204
+DTEND:20251205
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1224,6 +1278,15 @@ DTEND:20251212
 SUMMARY:Rapla: Rapla õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-11.Elva OTT
+DTSTART:20251211
+DTEND:20251212
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1794,6 +1857,15 @@ URL:https://laadakalender.ee/telliskivi-loomelinnaku-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-20.Elva jõulu OTT
+DTSTART:20251220
+DTEND:20251221
+SUMMARY:Tartu: Elva jõulu OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-21.UKU Keskuse jõululaat
 DTSTART:20251221
 DTEND:20251222
@@ -1920,12 +1992,39 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-27.Muusikatalli Aastalõpu Toiduturg
+DTSTART:20251227
+DTEND:20251228
+SUMMARY:Pärnu: Muusikatalli Aastalõpu Toiduturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-aastalopu-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-28.Kääpa OTT
 DTSTART:20251228
 DTEND:20251229
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-28.Muusikatalli Aastalõpu Toiduturg
+DTSTART:20251228
+DTEND:20251229
+SUMMARY:Pärnu: Muusikatalli Aastalõpu Toiduturg
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-aastalopu-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-30.Elva OTT
+DTSTART:20251230
+DTEND:20251231
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
