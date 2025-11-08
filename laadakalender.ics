@@ -615,6 +615,15 @@ URL:https://laadakalender.ee/loksa-talvekuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-15.Lasteraamatukirbukas
+DTSTART:20251115
+DTEND:20251116
+SUMMARY:Rapla: Lasteraamatukirbukas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-keskraamatukogu-lasteraamatukirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-16.Festival Maitsev Eesti
 DTSTART:20251116
 DTEND:20251117
@@ -948,6 +957,15 @@ URL:https://laadakalender.ee/varska-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-05.Kohila Jõulumaa - jõululaat
+DTSTART:20251205
+DTEND:20251206
+SUMMARY:Rapla: Kohila Jõulumaa - jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-joulumaa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-06.Tartu jõululaat
 DTSTART:20251206
 DTEND:20251207
@@ -1128,6 +1146,15 @@ URL:https://laadakalender.ee/palamuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Eriline Kingiturg Astangul
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Eriline Kingiturg Astangul
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eriline-kingiturg-astangul/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
@@ -1272,6 +1299,24 @@ URL:https://laadakalender.ee/maarja-magdaleena-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-07.Ääsmäe jõuluorg
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Ääsmäe jõuluorg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-jouluorg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Puka jõuluvana laat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Valga: Puka jõuluvana laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/puka-ohtune-jouluvana-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-11.Rapla õhtuturg
 DTSTART:20251211
 DTEND:20251212
@@ -1314,6 +1359,15 @@ DTEND:20251213
 SUMMARY:Järva: Türi jõululaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-12.Ülenurme jõululaat
+DTSTART:20251212
+DTEND:20251213
+SUMMARY:Tartu: Ülenurme jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1452,6 +1506,15 @@ URL:https://laadakalender.ee/valgeranna-muusikatalli-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-13.Kehtna jõululaat
+DTSTART:20251213
+DTEND:20251214
+SUMMARY:Rapla: Kehtna jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kehtna-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-14.Jõulud Viljandis
 DTSTART:20251214
 DTEND:20251215
@@ -1584,6 +1647,42 @@ DTEND:20251215
 SUMMARY:Pärnu: Seljametsa jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/seljametsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Lelle jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Rapla: Lelle jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/lelle-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Kolme Kandi jõululaat Kuimetsas
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Rapla: Kolme Kandi jõululaat Kuimetsas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kuimetsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Kaerepere jõululaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Rapla: Kaerepere jõululaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kaerepere-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-14.Uue-Antsla advendilaat
+DTSTART:20251214
+DTEND:20251215
+SUMMARY:Võru: Uue-Antsla advendilaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/uue-antsla-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
