@@ -1182,6 +1182,15 @@ URL:https://laadakalender.ee/polvest-polve-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-12-06.Aruküla Vaba Waldorfkooli jõululaat
+DTSTART:20251206
+DTEND:20251207
+SUMMARY:Harju: Aruküla Vaba Waldorfkooli jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/arukula-vaba-waldorfkooli-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-12-07.Tartu jõululaat
 DTSTART:20251207
 DTEND:20251208
