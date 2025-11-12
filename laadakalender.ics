@@ -678,6 +678,15 @@ URL:https://laadakalender.ee/kose-novembrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2025-11-16.Paldiski Novembrikuu Laat
+DTSTART:20251116
+DTEND:20251117
+SUMMARY:Harju: Paldiski Novembrikuu Laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-novembrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2025-11-19.Tallinna kollektsionääride laat
 DTSTART:20251119
 DTEND:20251120
@@ -765,6 +774,15 @@ DTEND:20251123
 SUMMARY:Harju: Fotomuuseumi fototäika
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/fotomuuseumi-fototaika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-11-22.Valga Kadrilaat
+DTSTART:20251122
+DTEND:20251123
+SUMMARY:Valga: Valga Kadrilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-kadrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1350,6 +1368,24 @@ DTEND:20251208
 SUMMARY:Valga: Puka jõuluvana laat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/puka-ohtune-jouluvana-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Lohkva jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Tartu: Lohkva jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/lohkva-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2025-12-07.Kuusalu kihelkonna jõululaat
+DTSTART:20251207
+DTEND:20251208
+SUMMARY:Harju: Kuusalu kihelkonna jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-kihelkonna-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
