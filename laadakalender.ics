@@ -1209,6 +1209,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Obinitsa kogukonnafestival
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Võru: Obinitsa kogukonnafestival
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/obinitsa-kogukonnafestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-22.Kuusalu OTT
 DTSTART:20260522
 DTEND:20260523
