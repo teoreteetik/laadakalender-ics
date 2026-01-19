@@ -1110,6 +1110,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-02.Märjamaa kevadlaat
+DTSTART:20260502
+DTEND:20260503
+SUMMARY:Rapla: Märjamaa kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-08.Luige Laat - Maaelu Näituslaat
 DTSTART:20260508
 DTEND:20260509
