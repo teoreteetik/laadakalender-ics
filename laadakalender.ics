@@ -300,6 +300,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-04.Märjamaa õhtuturg
+DTSTART:20260204
+DTEND:20260205
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-06.Kuusalu OTT
 DTSTART:20260206
 DTEND:20260207
@@ -345,12 +354,30 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-11.Pae Keskuse veebruari laat
+DTSTART:20260211
+DTEND:20260212
+SUMMARY:Harju: Pae Keskuse veebruari laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-12.Lasnamäe Centrumi sõbrapäeva laat
 DTSTART:20260212
 DTEND:20260213
 SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Pae Keskuse veebruari laat
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Harju: Pae Keskuse veebruari laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -495,6 +522,15 @@ DTEND:20260219
 SUMMARY:Harju: Järve Keskuse aastapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-18.Märjamaa õhtuturg
+DTSTART:20260218
+DTEND:20260219
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
