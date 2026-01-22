@@ -840,6 +840,15 @@ URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Käsitöö- ja talukauba laat EHEDALT OMA
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Lääne-Viru: Käsitöö- ja talukauba laat EHEDALT OMA
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/eesti-vaiketootjate-kasitoo-ja-talukauba-laat-ehedalt-oma/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-15.Seenioride mess
 DTSTART:20260315
 DTEND:20260316
@@ -1146,12 +1155,30 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-01.Suur Vanamõisa Kevadlaat
+DTSTART:20260501
+DTEND:20260502
+SUMMARY:Harju: Suur Vanamõisa Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-02.Märjamaa kevadlaat
 DTSTART:20260502
 DTEND:20260503
 SUMMARY:Rapla: Märjamaa kevadlaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-02.Suur Vanamõisa Kevadlaat
+DTSTART:20260502
+DTEND:20260503
+SUMMARY:Harju: Suur Vanamõisa Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1479,6 +1506,15 @@ URL:https://laadakalender.ee/jogevamaa-liikumispidu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-13.Liivimaa laat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Valga: Liivimaa laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-19.Kuusalu OTT
 DTSTART:20260619
 DTEND:20260620
@@ -1668,6 +1704,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Võiste Suvefestival
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Pärnu: Võiste Suvefestival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/voiste-suvefestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-24.Kuusalu OTT
 DTSTART:20260724
 DTEND:20260725
@@ -1839,12 +1884,39 @@ URL:https://laadakalender.ee/suur-paunvere-valjanaitus-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-10.Liivimaa Mihklilaat
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Valga: Liivimaa Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/liivimaa-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-28.Lindora laat
 DTSTART:20261028
 DTEND:20261029
 SUMMARY:Võru: Lindora laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/lindora-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-21.Suur kadrilaat
+DTSTART:20261121
+DTEND:20261122
+SUMMARY:Lääne-Viru: Suur kadrilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-22.Suur kadrilaat
+DTSTART:20261122
+DTEND:20261123
+SUMMARY:Lääne-Viru: Suur kadrilaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-kadrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
