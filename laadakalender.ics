@@ -1542,6 +1542,15 @@ URL:https://laadakalender.ee/vastseliina-maarahva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-22.Ambla jaanilaat
+DTSTART:20260622
+DTEND:20260623
+SUMMARY:Järva: Ambla jaanilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/ambla-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-23.Avinurme tünnilaat
 DTSTART:20260623
 DTEND:20260624
@@ -1944,6 +1953,15 @@ DTEND:20261207
 SUMMARY:Tartu: Tartu jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/joululaat-tartu-messikeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-12.Tartu jõululaat
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Tartu: Tartu jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tartu-joululaat/
 END:VEVENT
 
 END:VCALENDAR
