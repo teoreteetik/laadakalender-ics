@@ -579,6 +579,15 @@ URL:https://laadakalender.ee/lasnamae-vastlapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-21.Vigala taluturg
+DTSTART:20260221
+DTEND:20260222
+SUMMARY:Rapla: Vigala taluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-22.Järve Keskuse aastapäeva laat
 DTSTART:20260222
 DTEND:20260223
@@ -819,6 +828,15 @@ DTEND:20260309
 SUMMARY:Harju: Lasnamäe Centrumi naistepäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lasnamae-centrumi-naistepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-08.Muusikatalli Naistepäeva Laat
+DTSTART:20260308
+DTEND:20260309
+SUMMARY:Pärnu: Muusikatalli Naistepäeva Laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
