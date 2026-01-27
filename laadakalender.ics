@@ -480,6 +480,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-14.Turba OTT
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-15.Turismimess Tourest
 DTSTART:20260215
 DTEND:20260216
@@ -657,6 +666,15 @@ DTEND:20260301
 SUMMARY:Tartu: Kallaste Karakatitsa
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/kallaste-karakatitsa/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-28.Turba OTT
+DTSTART:20260228
+DTEND:20260301
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
