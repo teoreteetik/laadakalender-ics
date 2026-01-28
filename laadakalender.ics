@@ -813,6 +813,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-07.Loksa naistepäevalaat
+DTSTART:20260307
+DTEND:20260308
+SUMMARY:Harju: Loksa naistepäevalaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-naistepaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-08.Meremess
 DTSTART:20260308
 DTEND:20260309
