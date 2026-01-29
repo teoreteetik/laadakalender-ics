@@ -1173,6 +1173,15 @@ URL:https://laadakalender.ee/sisustusmess-interjoor/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-25.Varnja laat
+DTSTART:20260425
+DTEND:20260426
+SUMMARY:Tartu: Varnja laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/varnja-kalalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-26.Disainilaat
 DTSTART:20260426
 DTEND:20260427
@@ -1557,6 +1566,15 @@ DTEND:20260614
 SUMMARY:Valga: Liivimaa laat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/liivimaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Loo laat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Harju: Loo laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
