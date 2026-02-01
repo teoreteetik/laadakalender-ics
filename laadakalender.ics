@@ -75,6 +75,15 @@ URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-11.Mustakivi keskuse laat
+DTSTART:20260211
+DTEND:20260212
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-12.Lasnamäe Centrumi sõbrapäeva laat
 DTSTART:20260212
 DTEND:20260213
@@ -90,6 +99,15 @@ DTEND:20260213
 SUMMARY:Harju: Pae Keskuse veebruari laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Mustakivi keskuse laat
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -552,6 +570,15 @@ URL:https://laadakalender.ee/loksa-naistepaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-07.Vaala keskuse kevadlaat
+DTSTART:20260307
+DTEND:20260308
+SUMMARY:Lääne-Viru: Vaala keskuse kevadlaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/suur-vaala-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-08.Meremess
 DTSTART:20260308
 DTEND:20260309
@@ -597,6 +624,15 @@ URL:https://laadakalender.ee/valgeranna-muusikatalli-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-13.Motoexotica
+DTSTART:20260313
+DTEND:20260314
+SUMMARY:Tartu: Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-13.Kuusalu OTT
 DTSTART:20260313
 DTEND:20260314
@@ -624,6 +660,15 @@ URL:https://laadakalender.ee/eesti-vaiketootjate-kasitoo-ja-talukauba-laat-eheda
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Motoexotica
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Tartu: Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-15.Seenioride mess
 DTSTART:20260315
 DTEND:20260316
@@ -648,6 +693,15 @@ DTEND:20260316
 SUMMARY:Harju: Mustamäe keskuse terviselaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-15.Motoexotica
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Tartu: Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1074,6 +1128,15 @@ URL:https://laadakalender.ee/komsi-emadepaeva-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-15.Türi Lillelaat
+DTSTART:20260515
+DTEND:20260516
+SUMMARY:Järva: Türi Lillelaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-lillelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-15.Kuusalu OTT
 DTSTART:20260515
 DTEND:20260516
@@ -1092,12 +1155,30 @@ URL:https://laadakalender.ee/obinitsa-kogukonnafestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Türi Lillelaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Järva: Türi Lillelaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-lillelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
 SUMMARY:Jõgeva: Jakobsoni talupäev
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/jakobsoni-talupaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-17.Türi Lillelaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Järva: Türi Lillelaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1260,6 +1341,15 @@ DTEND:20260608
 SUMMARY:Viljandi: Viljandi Hansalaat / Viljandi Hansapäevad
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-hansalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Ääsmäe kevadlaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Harju: Ääsmäe kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1518,8 +1608,8 @@ BEGIN:VEVENT
 UID:2026-07-11.Mustvee linna suur suvelaat
 DTSTART:20260711
 DTEND:20260712
-SUMMARY:: Mustvee linna suur suvelaat
-LOCATION:, Estonia
+SUMMARY:Jõgeva: Mustvee linna suur suvelaat
+LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/mustvee-linna-suur-suvelaat/
 END:VEVENT
 
@@ -1713,6 +1803,24 @@ URL:https://laadakalender.ee/voore-seltsimaja-kooli-alguse-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-11.MOTOSHOW – auto- ja tehnikamess
+DTSTART:20260911
+DTEND:20260912
+SUMMARY:Tartu: MOTOSHOW – auto- ja tehnikamess
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Tikupoisi sügislaat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Järva: Tikupoisi sügislaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/tikupoisi-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-12.Tartu Maarjalaat
 DTSTART:20260912
 DTEND:20260913
@@ -1731,12 +1839,21 @@ URL:https://laadakalender.ee/vissuvere-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-09-12.Tikupoisi sügislaat
+UID:2026-09-12.MOTOSHOW – auto- ja tehnikamess
 DTSTART:20260912
 DTEND:20260913
-SUMMARY:Järva: Tikupoisi sügislaat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/tikupoisi-sugislaat/
+SUMMARY:Tartu: MOTOSHOW – auto- ja tehnikamess
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-13.MOTOSHOW – auto- ja tehnikamess
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Tartu: MOTOSHOW – auto- ja tehnikamess
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1749,12 +1866,39 @@ URL:https://laadakalender.ee/suur-paunvere-valjanaitus-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-09.Ehitus ja Sisustus
+DTSTART:20261009
+DTEND:20261010
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-10.Liivimaa Mihklilaat
 DTSTART:20261010
 DTEND:20261011
 SUMMARY:Valga: Liivimaa Mihklilaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/liivimaa-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-10.Ehitus ja Sisustus
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-11.Ehitus ja Sisustus
+DTSTART:20261011
+DTEND:20261012
+SUMMARY:Tartu: Ehitus ja Sisustus
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ehitus-ja-sisustus/
 END:VEVENT
 
 BEGIN:VEVENT
