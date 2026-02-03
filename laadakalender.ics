@@ -1641,6 +1641,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-03.Pärnu Hansapäevad
+DTSTART:20260703
+DTEND:20260704
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-04.Antiigilaat Kila-Kola
 DTSTART:20260704
 DTEND:20260705
@@ -1665,6 +1674,24 @@ DTEND:20260705
 SUMMARY:Lääne-Viru: Kunda mere- ja perepäev
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/kunda-mere-ja-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Pärnu Hansapäevad
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-05.Pärnu Hansapäevad
+DTSTART:20260705
+DTEND:20260706
+SUMMARY:Pärnu: Pärnu Hansapäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-hansapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
