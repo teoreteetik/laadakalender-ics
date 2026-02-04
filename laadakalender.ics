@@ -111,6 +111,15 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-12.Sõbrapäeva turg
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-13.Turismimess Tourest
 DTSTART:20260213
 DTEND:20260214
@@ -144,6 +153,15 @@ DTEND:20260214
 SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Sõbrapäeva turg
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -234,6 +252,15 @@ DTEND:20260215
 SUMMARY:Lääne-Viru: Sõmeru sõbrapäevalaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/someru-sobrapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Sõbrapäeva turg
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
