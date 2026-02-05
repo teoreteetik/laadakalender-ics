@@ -1299,6 +1299,15 @@ URL:https://laadakalender.ee/turi-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-17.Kalamaja Taaskasutusfestival "Kooskasutus"
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Harju: Kalamaja Taaskasutusfestival "Kooskasutus"
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kalamaja-taaskasutusfestival-kooskasutus/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-22.Kuusalu OTT
 DTSTART:20260522
 DTEND:20260523
@@ -1395,6 +1404,15 @@ DTEND:20260531
 SUMMARY:Harju: Keila Laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/keila-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-20.Tuulekala Festival
+DTSTART:20260520
+DTEND:20260521
+SUMMARY:Hiiu: Tuulekala Festival
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/tuulekala-festival/
 END:VEVENT
 
 BEGIN:VEVENT
