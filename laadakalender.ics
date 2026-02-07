@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-21.Karksi-Nuia kevade alguse laat
+DTSTART:20260321
+DTEND:20260322
+SUMMARY:Viljandi: Karksi-Nuia kevade alguse laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-kevade-alguse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-22.Kääpa OTT
 DTSTART:20260322
 DTEND:20260323
@@ -1791,6 +1800,15 @@ DTEND:20260712
 SUMMARY:Jõgeva: Mustvee linna suur suvelaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/mustvee-linna-suur-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-11.Mini Festival
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Pärnu: Mini Festival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/mini-festival/
 END:VEVENT
 
 BEGIN:VEVENT
