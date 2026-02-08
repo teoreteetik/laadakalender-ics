@@ -264,6 +264,15 @@ URL:https://laadakalender.ee/sobrapaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-14.Eesti Õpilasfirmade laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Eesti Õpilasfirmade laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-15.Turismimess Tourest
 DTSTART:20260215
 DTEND:20260216
@@ -297,6 +306,15 @@ DTEND:20260216
 SUMMARY:Ida-Viru: Kiviõli sõbrapäeva laat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kivioli-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Eesti Õpilasfirmade laat
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Eesti Õpilasfirmade laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1602,6 +1620,15 @@ DTEND:20260621
 SUMMARY:Võru: Vastseliina Maarahva Laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/vastseliina-maarahva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Pärnu turu jaanilaat
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Pärnu: Pärnu turu jaanilaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-turu-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
