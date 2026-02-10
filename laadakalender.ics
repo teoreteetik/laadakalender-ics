@@ -318,6 +318,15 @@ URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-15.Paldiski sõbrapäeva laat
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Paldiski sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-18.Järve Keskuse aastapäeva laat
 DTSTART:20260218
 DTEND:20260219
@@ -489,6 +498,15 @@ URL:https://laadakalender.ee/ostubuumi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-04.Pae Keskuse märtsi laat
+DTSTART:20260304
+DTEND:20260305
+SUMMARY:Harju: Pae Keskuse märtsi laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-05.Meremess
 DTSTART:20260305
 DTEND:20260306
@@ -504,6 +522,15 @@ DTEND:20260306
 SUMMARY:Harju: Järve Keskuse Ostubuumi laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ostubuumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-05.Pae Keskuse märtsi laat
+DTSTART:20260305
+DTEND:20260306
+SUMMARY:Harju: Pae Keskuse märtsi laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2064,6 +2091,15 @@ URL:https://laadakalender.ee/avatud-talude-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-25.Võru Lastefestival
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Võru: Võru Lastefestival
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-lastefestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-26.Youngtimer Camp
 DTSTART:20260726
 DTEND:20260727
@@ -2079,6 +2115,15 @@ DTEND:20260727
 SUMMARY:üle Eesti: Avatud Talude Päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/avatud-talude-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-26.Võru Lastefestival
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Võru: Võru Lastefestival
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-lastefestival/
 END:VEVENT
 
 BEGIN:VEVENT
