@@ -606,6 +606,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-naistepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-06.Oru OTT
+DTSTART:20260306
+DTEND:20260307
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-07.Meremess
 DTSTART:20260307
 DTEND:20260308
@@ -750,6 +759,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-13.Oru OTT
+DTSTART:20260313
+DTEND:20260314
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-14.Mustamäe keskuse terviselaat
 DTSTART:20260314
 DTEND:20260315
@@ -822,6 +840,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-20.Oru OTT
+DTSTART:20260320
+DTEND:20260321
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-21.Karksi-Nuia kevade alguse laat
 DTSTART:20260321
 DTEND:20260322
@@ -846,6 +873,15 @@ DTEND:20260328
 SUMMARY:Harju: Kuusalu OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-27.Oru OTT
+DTSTART:20260327
+DTEND:20260328
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2217,6 +2253,15 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-07.Pärnu Gildipäevad
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Pärnu: Pärnu Gildipäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-gildipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-08.Hauka Laat
 DTSTART:20260808
 DTEND:20260809
@@ -2232,6 +2277,15 @@ DTEND:20260809
 SUMMARY:Rapla: Rapla melu - käsitöö- ja melulaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-melu-kasitoo-ja-melulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Pärnu Gildipäevad
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Pärnu: Pärnu Gildipäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-gildipaevad/
 END:VEVENT
 
 BEGIN:VEVENT
