@@ -768,6 +768,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-13.Pärnu märtsikuu laat
+DTSTART:20260313
+DTEND:20260314
+SUMMARY:Pärnu: Pärnu märtsikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-martsikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-14.Mustamäe keskuse terviselaat
 DTSTART:20260314
 DTEND:20260315
@@ -792,6 +801,15 @@ DTEND:20260315
 SUMMARY:Tartu: Motoexotica
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-14.Pärnu märtsikuu laat
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Pärnu: Pärnu märtsikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1380,6 +1398,15 @@ URL:https://laadakalender.ee/parnu-taimelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.UMA MEKK kevadlaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Võru: UMA MEKK kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/uma-mekk-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -1704,6 +1731,15 @@ URL:https://laadakalender.ee/rapla-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-06.Järva-Jaani Laat ja Tänavafestival
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Järva: Järva-Jaani Laat ja Tänavafestival
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/jarva-jaani-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-07.Viljandi Hansalaat / Viljandi Hansapäevad
 DTSTART:20260607
 DTEND:20260608
@@ -1719,6 +1755,15 @@ DTEND:20260608
 SUMMARY:Harju: Ääsmäe kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/aasmae-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Eesti-Läti kevadine piirilinnalaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Viljandi: Eesti-Läti kevadine piirilinnalaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/eesti-lati-kevadine-piirilinnalaat/
 END:VEVENT
 
 BEGIN:VEVENT
