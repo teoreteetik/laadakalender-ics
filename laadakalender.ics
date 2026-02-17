@@ -480,6 +480,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-02-24.Perepäev ja kollektsionääride laat
+DTSTART:20260224
+DTEND:20260225
+SUMMARY:Valga: Perepäev ja kollektsionääride laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-02-25.Lohesaba Seikluslinnaku sõbrakuu laat
 DTSTART:20260225
 DTEND:20260226
@@ -750,6 +759,15 @@ URL:https://laadakalender.ee/haiba-naistepaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-07.Kuldkalakese laat
+DTSTART:20260307
+DTEND:20260308
+SUMMARY:Viljandi: Kuldkalakese laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/liwi-kuldkalake/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-08.Meremess
 DTSTART:20260308
 DTEND:20260309
@@ -792,6 +810,15 @@ DTEND:20260309
 SUMMARY:Pärnu: Muusikatalli Naistepäeva Laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/valgeranna-muusikatalli-naistepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-08.Rapla naistepäevalaat
+DTSTART:20260308
+DTEND:20260309
+SUMMARY:Rapla: Rapla naistepäevalaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-naistepaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
