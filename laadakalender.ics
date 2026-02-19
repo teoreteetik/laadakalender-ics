@@ -678,6 +678,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-06.Jõgeva naistepäeva laat
+DTSTART:20260306
+DTEND:20260307
+SUMMARY:Jõgeva: Jõgeva naistepäeva laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-naistepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-07.Meremess
 DTSTART:20260307
 DTEND:20260308
@@ -903,21 +912,30 @@ URL:https://laadakalender.ee/parnu-martsikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Viljandi linna suur perepäev ja laat
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Viljandi: Viljandi linna suur perepäev ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-linna-suur-perepaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-15.Motoexotica
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Tartu: Motoexotica
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/motoexotica/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-15.Seenioride mess
 DTSTART:20260315
 DTEND:20260316
 SUMMARY:Pärnu: Seenioride mess
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/seenioride-mess/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-03-15.Kääpa OTT
-DTSTART:20260315
-DTEND:20260316
-SUMMARY:Jõgeva: Kääpa OTT
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -930,12 +948,21 @@ URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-03-15.Motoexotica
+UID:2026-03-15.Kiviõli märtsikuu laat
 DTSTART:20260315
 DTEND:20260316
-SUMMARY:Tartu: Motoexotica
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/motoexotica/
+SUMMARY:Ida-Viru: Kiviõli märtsikuu laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-martsikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-15.Kääpa OTT
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1017,6 +1044,15 @@ DTEND:20260329
 SUMMARY:Harju: Tallinn Beauty Festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinn-beauty-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-28.Abja-Paluoja märtsikuulaat
+DTSTART:20260328
+DTEND:20260329
+SUMMARY:Viljandi: Abja-Paluoja märtsikuulaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-martsikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
