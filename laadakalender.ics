@@ -3288,6 +3288,24 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-18.Jõululaat "Jõulusäras Olustvere"
+DTSTART:20261218
+DTEND:20261219
+SUMMARY:Viljandi: Jõululaat "Jõulusäras Olustvere"
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/olustvere-teenindus-ja-maamajanduskooli-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Jõululaat "Jõulusäras Olustvere"
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Viljandi: Jõululaat "Jõulusäras Olustvere"
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/olustvere-teenindus-ja-maamajanduskooli-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-25.Otepää OTT
 DTSTART:20261225
 DTEND:20261226
