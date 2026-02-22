@@ -2631,6 +2631,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-07.Viru Folk - käsitöölaat
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Lääne-Viru: Viru Folk - käsitöölaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-folk/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-08.Hauka Laat
 DTSTART:20260808
 DTEND:20260809
@@ -2655,6 +2664,15 @@ DTEND:20260809
 SUMMARY:Pärnu: Pärnu Gildipäevad
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-gildipaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Viru Folk - käsitöölaat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Lääne-Viru: Viru Folk - käsitöölaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/viru-folk/
 END:VEVENT
 
 BEGIN:VEVENT
