@@ -615,6 +615,15 @@ URL:https://laadakalender.ee/pae-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-05.Naistepäeva turg
+DTSTART:20260305
+DTEND:20260306
+SUMMARY:Saare: Naistepäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-06.Meremess
 DTSTART:20260306
 DTEND:20260307
@@ -684,6 +693,15 @@ DTEND:20260307
 SUMMARY:Jõgeva: Jõgeva naistepäeva laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/jogeva-naistepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-06.Naistepäeva turg
+DTSTART:20260306
+DTEND:20260307
+SUMMARY:Saare: Naistepäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -777,6 +795,15 @@ URL:https://laadakalender.ee/liwi-kuldkalake/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-07.Naistepäeva turg
+DTSTART:20260307
+DTEND:20260308
+SUMMARY:Saare: Naistepäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/naistepaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-08.Meremess
 DTSTART:20260308
 DTEND:20260309
@@ -828,6 +855,15 @@ DTEND:20260309
 SUMMARY:Rapla: Rapla naistepäevalaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-naistepaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-12.Viimsi OTT
+DTSTART:20260312
+DTEND:20260313
+SUMMARY:Harju: Viimsi OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1125,6 +1161,15 @@ DTEND:20260410
 SUMMARY:Harju: Veinimess
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/veinimess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-09.Viimsi OTT
+DTSTART:20260409
+DTEND:20260410
+SUMMARY:Harju: Viimsi OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1656,6 +1701,15 @@ DTEND:20260511
 SUMMARY:Lääne: Linnamäe Lillepäev ja Oru OTT Kevadlaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/linnamae-lillepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-14.Viimsi OTT
+DTSTART:20260514
+DTEND:20260515
+SUMMARY:Harju: Viimsi OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
