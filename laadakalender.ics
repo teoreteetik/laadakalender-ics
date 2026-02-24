@@ -1173,6 +1173,15 @@ URL:https://laadakalender.ee/viimsi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-09.Auriga kevadeturg
+DTSTART:20260409
+DTEND:20260410
+SUMMARY:Saare: Auriga kevadeturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-kevadturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-10.Ehitusmess "Eesti ehitab"
 DTSTART:20260410
 DTEND:20260411
@@ -1227,6 +1236,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-10.Auriga kevadeturg
+DTSTART:20260410
+DTEND:20260411
+SUMMARY:Saare: Auriga kevadeturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-kevadturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-11.Ehitusmess "Eesti ehitab"
 DTSTART:20260411
 DTEND:20260412
@@ -1269,6 +1287,15 @@ DTEND:20260412
 SUMMARY:Rapla: Rapla kevadkuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-kevadkuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-11.Auriga kevadeturg
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Saare: Auriga kevadeturg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-kevadturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1830,6 +1857,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-22.Kuressaare Aiandus- ja Lillepäevad
+DTSTART:20260522
+DTEND:20260523
+SUMMARY:Saare: Kuressaare Aiandus- ja Lillepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-23.Jäneda Aia- ja Lillepäevad
 DTSTART:20260523
 DTEND:20260524
@@ -1854,6 +1890,15 @@ DTEND:20260524
 SUMMARY:Lääne: Haapsalu kevadlaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Kuressaare Aiandus- ja Lillepäevad
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Saare: Kuressaare Aiandus- ja Lillepäevad
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
