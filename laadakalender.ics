@@ -1506,21 +1506,30 @@ URL:https://laadakalender.ee/tallinn-coffee-festival/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-05-01.Kuusalu OTT
-DTSTART:20260501
-DTEND:20260502
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-05-01.Suur Vanamõisa Kevadlaat
 DTSTART:20260501
 DTEND:20260502
 SUMMARY:Harju: Suur Vanamõisa Kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-01.Kuusalu kihelkonna mailaat
+DTSTART:20260501
+DTEND:20260502
+SUMMARY:Harju: Kuusalu kihelkonna mailaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-kihelkonna-mailaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-01.Kuusalu OTT
+DTSTART:20260501
+DTEND:20260502
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2079,6 +2088,15 @@ DTEND:20260607
 SUMMARY:Järva: Järva-Jaani Laat ja Tänavafestival
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/jarva-jaani-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-06.Ülemõisa lastefestival ja laat
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Viljandi: Ülemõisa lastefestival ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/ulemoisa-lastefestival-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
