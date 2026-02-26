@@ -1434,6 +1434,15 @@ URL:https://laadakalender.ee/maamess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-25.Luige vanavara- ja käsitöölaat
+DTSTART:20260425
+DTEND:20260426
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-25.Disainilaat
 DTSTART:20260425
 DTEND:20260426
@@ -2703,6 +2712,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-01.Luige vanavara- ja käsitöölaat
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-01.Hargla "Uma Üülaat"
 DTSTART:20260801
 DTEND:20260802
@@ -3096,6 +3114,15 @@ DTEND:20260926
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-26.Luige vanavara- ja käsitöölaat
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Harju: Luige vanavara- ja käsitöölaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
