@@ -3243,6 +3243,15 @@ URL:https://laadakalender.ee/lindora-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-28.Kõrgesilla vanavara laat
+DTSTART:20261028
+DTEND:20261029
+SUMMARY:Võru: Kõrgesilla vanavara laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/korgesilla-vanavara-raamatute-toostuskaupade-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-30.Otepää OTT
 DTSTART:20261030
 DTEND:20261031
