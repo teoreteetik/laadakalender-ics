@@ -3,564 +3,6 @@ VERSION:2.0
 PRODID:https://github.com/teoreteetik/laadakalender-ics
 
 BEGIN:VEVENT
-UID:2026-02-01.Kääpa OTT
-DTSTART:20260201
-DTEND:20260202
-SUMMARY:Jõgeva: Kääpa OTT
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/kaapa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-04.Märjamaa õhtuturg
-DTSTART:20260204
-DTEND:20260205
-SUMMARY:Rapla: Märjamaa õhtuturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/marjamaa-ohtuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-06.Kuusalu OTT
-DTSTART:20260206
-DTEND:20260207
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-06.Põltsamaa turutänava laadapäevad
-DTSTART:20260206
-DTEND:20260207
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-06.Otepää OTT
-DTSTART:20260206
-DTEND:20260207
-SUMMARY:Valga: Otepää OTT
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-07.Põltsamaa turutänava laadapäevad
-DTSTART:20260207
-DTEND:20260208
-SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-07.Vigala kirbukas
-DTSTART:20260207
-DTEND:20260208
-SUMMARY:Rapla: Vigala kirbukas
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/vigala-kirbukas/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-08.Kääpa OTT
-DTSTART:20260208
-DTEND:20260209
-SUMMARY:Jõgeva: Kääpa OTT
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/kaapa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-11.Pae Keskuse veebruari laat
-DTSTART:20260211
-DTEND:20260212
-SUMMARY:Harju: Pae Keskuse veebruari laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-11.Mustakivi keskuse laat
-DTSTART:20260211
-DTEND:20260212
-SUMMARY:Harju: Mustakivi keskuse laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustakivi-keskuse-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-12.Lasnamäe Centrumi sõbrapäeva laat
-DTSTART:20260212
-DTEND:20260213
-SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-12.Pae Keskuse veebruari laat
-DTSTART:20260212
-DTEND:20260213
-SUMMARY:Harju: Pae Keskuse veebruari laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-12.Mustakivi keskuse laat
-DTSTART:20260212
-DTEND:20260213
-SUMMARY:Harju: Mustakivi keskuse laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustakivi-keskuse-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-12.Sõbrapäeva turg
-DTSTART:20260212
-DTEND:20260213
-SUMMARY:Saare: Sõbrapäeva turg
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-kingiturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Turismimess Tourest
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Harju: Turismimess Tourest
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turismimess-tourest/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Kuusalu OTT
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Mustika Keskuse sõbrapäeva laat
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Harju: Mustika Keskuse sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Lasnamäe Centrumi sõbrapäeva laat
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Sõbrapäeva turg
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Saare: Sõbrapäeva turg
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-kingiturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Oru OTT
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Lääne: Oru OTT
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/oru-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-13.Otepää OTT
-DTSTART:20260213
-DTEND:20260214
-SUMMARY:Valga: Otepää OTT
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Turismimess Tourest
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Turismimess Tourest
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turismimess-tourest/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Sõbrapäeva laat Mustamäe Keskuses
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Sõbrapäeva laat Mustamäe Keskuses
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-laat-mustamae-keskuses/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Valgeranna Muusikatalli Sõbrapäeva Laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Pärnu: Valgeranna Muusikatalli Sõbrapäeva Laat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/valgeranna-muusikatalli-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Loksa sõbrapäeva laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Loksa sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/loksa-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Sõbrapäeva ja vastlapäeva laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Rapla: Sõbrapäeva ja vastlapäeva laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-vastlapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Mustika Keskuse sõbrapäeva laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Mustika Keskuse sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Lasnamäe Centrumi sõbrapäeva laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Turba OTT
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Turba OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turba-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Põhja-Tallinna vastlapäev
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Põhja-Tallinna vastlapäev
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/pohja-tallinna-vastlapaev/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Sõmeru sõbrapäevalaat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Lääne-Viru: Sõmeru sõbrapäevalaat
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/someru-sobrapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Sõbrapäeva turg
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Saare: Sõbrapäeva turg
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-kingiturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-14.Eesti Õpilasfirmade laat
-DTSTART:20260214
-DTEND:20260215
-SUMMARY:Harju: Eesti Õpilasfirmade laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Turismimess Tourest
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Harju: Turismimess Tourest
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turismimess-tourest/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Kääpa OTT
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Jõgeva: Kääpa OTT
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/kaapa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Sõbrapäeva laat Mustamäe Keskuses
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Harju: Sõbrapäeva laat Mustamäe Keskuses
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/sobrapaeva-laat-mustamae-keskuses/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Kiviõli sõbrapäeva laat
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Ida-Viru: Kiviõli sõbrapäeva laat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kivioli-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Eesti Õpilasfirmade laat
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Harju: Eesti Õpilasfirmade laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-15.Paldiski sõbrapäeva laat
-DTSTART:20260215
-DTEND:20260216
-SUMMARY:Harju: Paldiski sõbrapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/paldiski-sobrapaeva-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-18.Järve Keskuse aastapäeva laat
-DTSTART:20260218
-DTEND:20260219
-SUMMARY:Harju: Järve Keskuse aastapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-18.Märjamaa õhtuturg
-DTSTART:20260218
-DTEND:20260219
-SUMMARY:Rapla: Märjamaa õhtuturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/marjamaa-ohtuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-19.Järve Keskuse aastapäeva laat
-DTSTART:20260219
-DTEND:20260220
-SUMMARY:Harju: Järve Keskuse aastapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-20.Järve Keskuse aastapäeva laat
-DTSTART:20260220
-DTEND:20260221
-SUMMARY:Harju: Järve Keskuse aastapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-20.Kuusalu OTT
-DTSTART:20260220
-DTEND:20260221
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-20.Oru OTT
-DTSTART:20260220
-DTEND:20260221
-SUMMARY:Lääne: Oru OTT
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/oru-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-20.Otepää OTT
-DTSTART:20260220
-DTEND:20260221
-SUMMARY:Valga: Otepää OTT
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-21.Järve Keskuse aastapäeva laat
-DTSTART:20260221
-DTEND:20260222
-SUMMARY:Harju: Järve Keskuse aastapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-21.Lasnamäe vastlapäev
-DTSTART:20260221
-DTEND:20260222
-SUMMARY:Harju: Lasnamäe vastlapäev
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lasnamae-vastlapaev/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-21.Vigala taluturg
-DTSTART:20260221
-DTEND:20260222
-SUMMARY:Rapla: Vigala taluturg
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/vigala-taluturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-22.Järve Keskuse aastapäeva laat
-DTSTART:20260222
-DTEND:20260223
-SUMMARY:Harju: Järve Keskuse aastapäeva laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-22.Türi valla suur perepäev ja laat
-DTSTART:20260222
-DTEND:20260223
-SUMMARY:Järva: Türi valla suur perepäev ja laat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/turi-valla-perepaev/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-22.Maardu maslenitsa
-DTSTART:20260222
-DTEND:20260223
-SUMMARY:Harju: Maardu maslenitsa
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/maardu-maslenitsa/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-22.Kääpa OTT
-DTSTART:20260222
-DTEND:20260223
-SUMMARY:Jõgeva: Kääpa OTT
-LOCATION:Jõgevamaa, Estonia
-URL:https://laadakalender.ee/kaapa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-24.Perepäev ja kollektsionääride laat
-DTSTART:20260224
-DTEND:20260225
-SUMMARY:Valga: Perepäev ja kollektsionääride laat
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/perepaev-ja-kollektsionaaride-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-25.Lohesaba Seikluslinnaku sõbrakuu laat
-DTSTART:20260225
-DTEND:20260226
-SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-26.Lohesaba Seikluslinnaku sõbrakuu laat
-DTSTART:20260226
-DTEND:20260227
-SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-27.Kuusalu OTT
-DTSTART:20260227
-DTEND:20260228
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-27.Lohesaba Seikluslinnaku sõbrakuu laat
-DTSTART:20260227
-DTEND:20260228
-SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-27.Oru OTT
-DTSTART:20260227
-DTEND:20260228
-SUMMARY:Lääne: Oru OTT
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/oru-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-27.Otepää OTT
-DTSTART:20260227
-DTEND:20260228
-SUMMARY:Valga: Otepää OTT
-LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-28.Kallaste Karakatitsa
-DTSTART:20260228
-DTEND:20260301
-SUMMARY:Tartu: Kallaste Karakatitsa
-LOCATION:Tartumaa, Estonia
-URL:https://laadakalender.ee/kallaste-karakatitsa/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-02-28.Turba OTT
-DTSTART:20260228
-DTEND:20260301
-SUMMARY:Harju: Turba OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/turba-ott/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-03-01.Kääpa OTT
 DTSTART:20260301
 DTEND:20260302
@@ -1002,6 +444,15 @@ URL:https://laadakalender.ee/viljandi-linna-suur-perepaev-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Turba OTT
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-15.Motoexotica
 DTSTART:20260315
 DTEND:20260316
@@ -1110,6 +561,15 @@ URL:https://laadakalender.ee/paide-martsilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-21.Vigala taluturg
+DTSTART:20260321
+DTEND:20260322
+SUMMARY:Rapla: Vigala taluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-22.Kääpa OTT
 DTSTART:20260322
 DTEND:20260323
@@ -1188,6 +648,15 @@ DTEND:20260329
 SUMMARY:Harju: Kevadine raamatulaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/raamatulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-28.Turba OTT
+DTSTART:20260328
+DTEND:20260329
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4293,6 +3762,564 @@ DTEND:20260131
 SUMMARY:Harju: Kuusalu OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-01.Kääpa OTT
+DTSTART:20260201
+DTEND:20260202
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-04.Märjamaa õhtuturg
+DTSTART:20260204
+DTEND:20260205
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-06.Kuusalu OTT
+DTSTART:20260206
+DTEND:20260207
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-06.Põltsamaa turutänava laadapäevad
+DTSTART:20260206
+DTEND:20260207
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-06.Otepää OTT
+DTSTART:20260206
+DTEND:20260207
+SUMMARY:Valga: Otepää OTT
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-07.Põltsamaa turutänava laadapäevad
+DTSTART:20260207
+DTEND:20260208
+SUMMARY:Jõgeva: Põltsamaa turutänava laadapäevad
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-07.Vigala kirbukas
+DTSTART:20260207
+DTEND:20260208
+SUMMARY:Rapla: Vigala kirbukas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-08.Kääpa OTT
+DTSTART:20260208
+DTEND:20260209
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-11.Pae Keskuse veebruari laat
+DTSTART:20260211
+DTEND:20260212
+SUMMARY:Harju: Pae Keskuse veebruari laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-11.Mustakivi keskuse laat
+DTSTART:20260211
+DTEND:20260212
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Lasnamäe Centrumi sõbrapäeva laat
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Pae Keskuse veebruari laat
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Harju: Pae Keskuse veebruari laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-veebruari-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Mustakivi keskuse laat
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-12.Sõbrapäeva turg
+DTSTART:20260212
+DTEND:20260213
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Turismimess Tourest
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Harju: Turismimess Tourest
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turismimess-tourest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Kuusalu OTT
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Mustika Keskuse sõbrapäeva laat
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Harju: Mustika Keskuse sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Lasnamäe Centrumi sõbrapäeva laat
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Sõbrapäeva turg
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Oru OTT
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-13.Otepää OTT
+DTSTART:20260213
+DTEND:20260214
+SUMMARY:Valga: Otepää OTT
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Turismimess Tourest
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Turismimess Tourest
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turismimess-tourest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Sõbrapäeva laat Mustamäe Keskuses
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Sõbrapäeva laat Mustamäe Keskuses
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-laat-mustamae-keskuses/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Valgeranna Muusikatalli Sõbrapäeva Laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Pärnu: Valgeranna Muusikatalli Sõbrapäeva Laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/valgeranna-muusikatalli-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Loksa sõbrapäeva laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Loksa sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Sõbrapäeva ja vastlapäeva laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Rapla: Sõbrapäeva ja vastlapäeva laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-vastlapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Mustika Keskuse sõbrapäeva laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Mustika Keskuse sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustika-keskuse-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Lasnamäe Centrumi sõbrapäeva laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Lasnamäe Centrumi sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Turba OTT
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Põhja-Tallinna vastlapäev
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Põhja-Tallinna vastlapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-vastlapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Sõmeru sõbrapäevalaat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Lääne-Viru: Sõmeru sõbrapäevalaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/someru-sobrapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Sõbrapäeva turg
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Saare: Sõbrapäeva turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-kingiturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-14.Eesti Õpilasfirmade laat
+DTSTART:20260214
+DTEND:20260215
+SUMMARY:Harju: Eesti Õpilasfirmade laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Turismimess Tourest
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Turismimess Tourest
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turismimess-tourest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Kääpa OTT
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Sõbrapäeva laat Mustamäe Keskuses
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Sõbrapäeva laat Mustamäe Keskuses
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/sobrapaeva-laat-mustamae-keskuses/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Kiviõli sõbrapäeva laat
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Ida-Viru: Kiviõli sõbrapäeva laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Eesti Õpilasfirmade laat
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Eesti Õpilasfirmade laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-opilasfirmade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-15.Paldiski sõbrapäeva laat
+DTSTART:20260215
+DTEND:20260216
+SUMMARY:Harju: Paldiski sõbrapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-sobrapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-18.Järve Keskuse aastapäeva laat
+DTSTART:20260218
+DTEND:20260219
+SUMMARY:Harju: Järve Keskuse aastapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-18.Märjamaa õhtuturg
+DTSTART:20260218
+DTEND:20260219
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-19.Järve Keskuse aastapäeva laat
+DTSTART:20260219
+DTEND:20260220
+SUMMARY:Harju: Järve Keskuse aastapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-20.Järve Keskuse aastapäeva laat
+DTSTART:20260220
+DTEND:20260221
+SUMMARY:Harju: Järve Keskuse aastapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-20.Kuusalu OTT
+DTSTART:20260220
+DTEND:20260221
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-20.Oru OTT
+DTSTART:20260220
+DTEND:20260221
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-20.Otepää OTT
+DTSTART:20260220
+DTEND:20260221
+SUMMARY:Valga: Otepää OTT
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-21.Järve Keskuse aastapäeva laat
+DTSTART:20260221
+DTEND:20260222
+SUMMARY:Harju: Järve Keskuse aastapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-21.Lasnamäe vastlapäev
+DTSTART:20260221
+DTEND:20260222
+SUMMARY:Harju: Lasnamäe vastlapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-vastlapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-21.Vigala taluturg
+DTSTART:20260221
+DTEND:20260222
+SUMMARY:Rapla: Vigala taluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-22.Järve Keskuse aastapäeva laat
+DTSTART:20260222
+DTEND:20260223
+SUMMARY:Harju: Järve Keskuse aastapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-aastapaevalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-22.Türi valla suur perepäev ja laat
+DTSTART:20260222
+DTEND:20260223
+SUMMARY:Järva: Türi valla suur perepäev ja laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-valla-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-22.Maardu maslenitsa
+DTSTART:20260222
+DTEND:20260223
+SUMMARY:Harju: Maardu maslenitsa
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-maslenitsa/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-22.Kääpa OTT
+DTSTART:20260222
+DTEND:20260223
+SUMMARY:Jõgeva: Kääpa OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-24.Perepäev ja kollektsionääride laat
+DTSTART:20260224
+DTEND:20260225
+SUMMARY:Valga: Perepäev ja kollektsionääride laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-kollektsionaaride-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-25.Lohesaba Seikluslinnaku sõbrakuu laat
+DTSTART:20260225
+DTEND:20260226
+SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-26.Lohesaba Seikluslinnaku sõbrakuu laat
+DTSTART:20260226
+DTEND:20260227
+SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-27.Kuusalu OTT
+DTSTART:20260227
+DTEND:20260228
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-27.Lohesaba Seikluslinnaku sõbrakuu laat
+DTSTART:20260227
+DTEND:20260228
+SUMMARY:Harju: Lohesaba Seikluslinnaku sõbrakuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lohesaba-seikluslinnaku-sobrakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-27.Oru OTT
+DTSTART:20260227
+DTEND:20260228
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-27.Otepää OTT
+DTSTART:20260227
+DTEND:20260228
+SUMMARY:Valga: Otepää OTT
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-28.Kallaste Karakatitsa
+DTSTART:20260228
+DTEND:20260301
+SUMMARY:Tartu: Kallaste Karakatitsa
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-karakatitsa/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-02-28.Turba OTT
+DTSTART:20260228
+DTEND:20260301
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 END:VCALENDAR
