@@ -318,6 +318,15 @@ URL:https://laadakalender.ee/rapla-naistepaevalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-08.Paldiski märtsikuu laat
+DTSTART:20260308
+DTEND:20260309
+SUMMARY:Harju: Paldiski märtsikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-martsikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-11.Mustakivi keskuse laat
 DTSTART:20260311
 DTEND:20260312
@@ -441,6 +450,15 @@ DTEND:20260315
 SUMMARY:Viljandi: Viljandi linna suur perepäev ja laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-linna-suur-perepaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-14.Maa maitsed ja meeled
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Harju: Maa maitsed ja meeled
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maa-maitsed-ja-meeled/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1020,6 +1038,24 @@ URL:https://laadakalender.ee/haapsalu-kevadkuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-18.Karksi-Nuia jürikuu laat
+DTSTART:20260418
+DTEND:20260419
+SUMMARY:Viljandi: Karksi-Nuia jürikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-jurikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-18.Perepäev ja laat "Nalja nabani"
+DTSTART:20260418
+DTEND:20260419
+SUMMARY:Jõgeva: Perepäev ja laat "Nalja nabani"
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/perepaev-ja-laat-nalja-nabani/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-23.Maamess
 DTSTART:20260423
 DTEND:20260424
@@ -1389,6 +1425,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-emadepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Rapla kevadlaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Rapla: Rapla kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -1506,6 +1551,15 @@ URL:https://laadakalender.ee/saku-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Seljametsa külalaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Pärnu: Seljametsa külalaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-kulalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1614,6 +1668,15 @@ URL:https://laadakalender.ee/kuressaare-aiandus-ja-lillepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-23.Karksi-Nuia maikuu laat
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Viljandi: Karksi-Nuia maikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20260524
 DTEND:20260525
@@ -1686,9 +1749,9 @@ URL:https://laadakalender.ee/keila-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-05-20.Tuulekala Festival
-DTSTART:20260520
-DTEND:20260521
+UID:2026-05-30.Tuulekala Festival
+DTSTART:20260530
+DTEND:20260531
 SUMMARY:Hiiu: Tuulekala Festival
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/tuulekala-festival/
@@ -1701,6 +1764,15 @@ DTEND:20260531
 SUMMARY:Lääne-Viru: Pandivere päev laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/pandivere-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-30.Sõmeru Maaelufestival
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Lääne-Viru: Sõmeru Maaelufestival
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/maaelufestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1953,6 +2025,15 @@ DTEND:20260614
 SUMMARY:Lääne: Haapsalu jaanikuu laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Karksi-Nuia jaanikuu laat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Viljandi: Karksi-Nuia jaanikuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2295,6 +2376,15 @@ DTEND:20260712
 SUMMARY:Lääne: Haapsalu kesksuve laat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-kesksuve-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-11.Karksi Kihelkonnapäevad - Selle suve laat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Viljandi: Karksi Kihelkonnapäevad - Selle suve laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-kihelkonnapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
