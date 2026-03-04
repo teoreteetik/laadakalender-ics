@@ -1056,6 +1056,15 @@ URL:https://laadakalender.ee/perepaev-ja-laat-nalja-nabani/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-18.Jõgeva valla suur perepäev ja laat
+DTSTART:20260418
+DTEND:20260419
+SUMMARY:Jõgeva: Jõgeva valla suur perepäev ja laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-valla-suur-perepaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-23.Maamess
 DTSTART:20260423
 DTEND:20260424
@@ -1776,6 +1785,15 @@ URL:https://laadakalender.ee/maaelufestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-30.KUKU - Kulinaarsete Kultuuride Festival
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Harju: KUKU - Kulinaarsete Kultuuride Festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuku-kulinaarsete-kultuuride-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-31.Vissuvere käsitöö ja vanavarapäev
 DTSTART:20260531
 DTEND:20260601
@@ -2289,15 +2307,6 @@ URL:https://laadakalender.ee/tapa-kesksuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-10.Kuusalu OTT
-DTSTART:20260710
-DTEND:20260711
-SUMMARY:Harju: Kuusalu OTT
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kuusalu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-07-10.Keskaja Päevad - Meistrite Turg
 DTSTART:20260710
 DTEND:20260711
@@ -2325,12 +2334,30 @@ URL:https://laadakalender.ee/haapsalu-kesksuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-10.Pärnu Food Truck Festival
+DTSTART:20260710
+DTEND:20260711
+SUMMARY:Pärnu: Pärnu Food Truck Festival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-food-truck-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-10.Otepää OTT
 DTSTART:20260710
 DTEND:20260711
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-10.Kuusalu OTT
+DTSTART:20260710
+DTEND:20260711
+SUMMARY:Harju: Kuusalu OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2385,6 +2412,15 @@ DTEND:20260712
 SUMMARY:Viljandi: Karksi Kihelkonnapäevad - Selle suve laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-kihelkonnapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-11.Pärnu Food Truck Festival
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Pärnu: Pärnu Food Truck Festival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2559,6 +2595,15 @@ URL:https://laadakalender.ee/voru-lastefestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-31.Pärnu Maitsete Uulits
+DTSTART:20260731
+DTEND:20260801
+SUMMARY:Pärnu: Pärnu Maitsete Uulits
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maitsete-uulits/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-31.Kuusalu OTT
 DTSTART:20260731
 DTEND:20260801
@@ -2592,6 +2637,15 @@ DTEND:20260802
 SUMMARY:Valga: Hargla "Uma Üülaat"
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/kotusso-uma-uulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-01.Pärnu Maitsete Uulits
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Pärnu: Pärnu Maitsete Uulits
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2676,12 +2730,30 @@ URL:https://laadakalender.ee/viru-folk/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Tallinn Food Truck Festival
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Harju: Tallinn Food Truck Festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinn-food-truck-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
 SUMMARY:Võru: Hauka Laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/hauka-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-09.Tallinn Food Truck Festival
+DTSTART:20260809
+DTEND:20260810
+SUMMARY:Harju: Tallinn Food Truck Festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tallinn-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
