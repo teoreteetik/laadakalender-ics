@@ -1569,6 +1569,15 @@ URL:https://laadakalender.ee/seljametsa-kulalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Tsooru kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Võru: Tsooru kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/tsooru-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1683,6 +1692,15 @@ DTEND:20260524
 SUMMARY:Viljandi: Karksi-Nuia maikuu laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-nuia-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Tamsalu Päevade laat
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Lääne-Viru: Tamsalu Päevade laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tamsalu-paevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1944,6 +1962,15 @@ DTEND:20260608
 SUMMARY:Viljandi: Eesti-Läti kevadine piirilinnalaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/eesti-lati-kevadine-piirilinnalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.E-Lux Peetri jooks ja laat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Harju: E-Lux Peetri jooks ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/peetri-jooks-expo-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2502,6 +2529,15 @@ DTEND:20260719
 SUMMARY:Saare: Saare Laat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/saare-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-18.Lahingu- ja laadapäev
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Lääne-Viru: Lahingu- ja laadapäev
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/lahingu-ja-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
