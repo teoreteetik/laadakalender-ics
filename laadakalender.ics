@@ -516,6 +516,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-15.Laiusekandi OTT
+DTSTART:20260315
+DTEND:20260316
+SUMMARY:Jõgeva: Laiusekandi OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-18.Märjamaa õhtuturg
 DTSTART:20260318
 DTEND:20260319
@@ -1278,6 +1287,15 @@ DTEND:20260503
 SUMMARY:Harju: Suur Vanamõisa Kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-vanamoisa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-02.Romantilise rannatee hobiaednike festival
+DTSTART:20260502
+DTEND:20260503
+SUMMARY:Pärnu: Romantilise rannatee hobiaednike festival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/romantilise-rannatee-hobiaednike-festival/
 END:VEVENT
 
 BEGIN:VEVENT
