@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/otepaa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-04.Vigala kirbukas
+DTSTART:20260404
+DTEND:20260405
+SUMMARY:Rapla: Vigala kirbukas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-08.Järve Keskuse kevadlaat
 DTSTART:20260408
 DTEND:20260409
@@ -1071,6 +1080,15 @@ DTEND:20260419
 SUMMARY:Jõgeva: Jõgeva valla suur perepäev ja laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/jogeva-valla-suur-perepaev-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-19.Suur Keila Kevadlaat
+DTSTART:20260419
+DTEND:20260420
+SUMMARY:Harju: Suur Keila Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-keila-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2469,6 +2487,15 @@ URL:https://laadakalender.ee/parnu-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Hiiumaa Suvine Käsitöö- ja omatoodangu laat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Hiiu: Hiiumaa Suvine Käsitöö- ja omatoodangu laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-suvine-kasitoo-ja-omatoodangu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -2619,6 +2646,15 @@ DTEND:20260726
 SUMMARY:Saare: Auriga suvepäevade turg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-suvepaevade-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Hiiumaa kila-kola laat
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Hiiu: Hiiumaa kila-kola laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-kila-kola-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3591,6 +3627,15 @@ DTEND:20261213
 SUMMARY:Saare: Auriga detsembri turg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-detsembri-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-12.Hiiumaa Talvine Käsitöö- ja omatoodangu laat
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Hiiu: Hiiumaa Talvine Käsitöö- ja omatoodangu laat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiumaa-talvine-kasitoo-ja-omatoodangu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
