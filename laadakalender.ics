@@ -1479,6 +1479,24 @@ URL:https://laadakalender.ee/rapla-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Toataimefestival
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Toataimefestival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/toataimefestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Kose kevadlaat "Kose Kutsub Külla"
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Kose kevadlaat "Kose Kutsub Külla"
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -1530,6 +1548,15 @@ DTEND:20260511
 SUMMARY:Harju: Lasnamäe Centrumi emadepäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lasnamae-centrumi-emadepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-10.Otepää kevadlaat
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Valga: Otepää kevadlaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1614,6 +1641,24 @@ URL:https://laadakalender.ee/tsooru-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.MuuseumiÖö vanavara- ja käsitöölaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Ida-Viru: MuuseumiÖö vanavara- ja käsitöölaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/muuseumioo-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-16.Soomaa Kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Viljandi: Soomaa Kevadlaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/soomaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1638,6 +1683,15 @@ DTEND:20260518
 SUMMARY:Harju: Kalamaja Taaskasutusfestival "Kooskasutus"
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kalamaja-taaskasutusfestival-kooskasutus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-17.Põhjala kevadturg
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Harju: Põhjala kevadturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-pohjala-kevadturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3135,6 +3189,15 @@ URL:https://laadakalender.ee/motoshow-auto-ja-tehnikamess/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-13.Otepää sügislaat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Valga: Otepää sügislaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-18.Otepää OTT
 DTSTART:20260918
 DTEND:20260919
@@ -3555,6 +3618,15 @@ DTEND:20261206
 SUMMARY:Saare: Auriga advenditurg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-advendi-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-05.Otepää aiandusmaja jõululaat
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Valga: Otepää aiandusmaja jõululaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-aiandusmaja-kasitoo-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
