@@ -462,6 +462,15 @@ URL:https://laadakalender.ee/maa-maitsed-ja-meeled/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Valga märtsikuu laat
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Valga: Valga märtsikuu laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-martsikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-14.Turba OTT
 DTSTART:20260314
 DTEND:20260315
@@ -567,6 +576,15 @@ DTEND:20260321
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-20.Võru kevadlaat
+DTSTART:20260320
+DTEND:20260321
+SUMMARY:Võru: Võru kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -711,6 +729,15 @@ DTEND:20260330
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-01.Märjamaa õhtuturg
+DTSTART:20260401
+DTEND:20260402
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -894,6 +921,15 @@ URL:https://laadakalender.ee/mustika-keskuse-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-11.Suur Tondiraba Kevadlaat
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Harju: Suur Tondiraba Kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tondiraba-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-11.Ehitusmess "Eesti ehitab"
 DTSTART:20260411
 DTEND:20260412
@@ -966,6 +1002,15 @@ URL:https://laadakalender.ee/mustika-keskuse-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-11.Kevadlaat Haapsalu turul
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Lääne: Kevadlaat Haapsalu turul
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-haapsalu-turul/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20260412
 DTEND:20260413
@@ -999,6 +1044,24 @@ DTEND:20260413
 SUMMARY:Harju: Lasnamäe Centrumi kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lasnamae-centrumi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-12.Põhja-Tallinna kevadlaat
+DTSTART:20260412
+DTEND:20260413
+SUMMARY:Harju: Põhja-Tallinna kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-15.Märjamaa õhtuturg
+DTSTART:20260415
+DTEND:20260416
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1245,6 +1308,15 @@ URL:https://laadakalender.ee/tallinn-coffee-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-29.Märjamaa õhtuturg
+DTSTART:20260429
+DTEND:20260430
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-30.Elva OTT
 DTSTART:20260430
 DTEND:20260501
@@ -1287,6 +1359,15 @@ DTEND:20260502
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-02.Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20260502
+DTEND:20260503
+SUMMARY:Harju: Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1557,6 +1638,15 @@ DTEND:20260511
 SUMMARY:Valga: Otepää kevadlaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-10.Varbola kevadlaat
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Rapla: Varbola kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2550,6 +2640,15 @@ URL:https://laadakalender.ee/hiiumaa-suvine-kasitoo-ja-omatoodangu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Alatskivi vanavaralaat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Tartu: Alatskivi vanavaralaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/alatskivi-vanavara-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -2637,6 +2736,24 @@ DTEND:20260719
 SUMMARY:Lääne-Viru: Lahingu- ja laadapäev
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/lahingu-ja-laadapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-18.Abja suvepäevad
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Viljandi: Abja suvepäevad
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/abja-paluoja-suvepaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-18.Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Harju: Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3267,6 +3384,15 @@ DTEND:20261003
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-03.Aruvalla antiigi-, vanavara- ja militaarlaat
+DTSTART:20261003
+DTEND:20261004
+SUMMARY:Harju: Aruvalla antiigi-, vanavara- ja militaarlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
