@@ -1011,6 +1011,15 @@ URL:https://laadakalender.ee/kevadlaat-haapsalu-turul/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-11.Loksa kevadlaat
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Harju: Loksa kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-12.Mustamäe Keskuse kevadlaat
 DTSTART:20260412
 DTEND:20260413
