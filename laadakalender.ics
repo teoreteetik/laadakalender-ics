@@ -264,6 +264,15 @@ URL:https://laadakalender.ee/naistepaeva-kingiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-07.Kadrina OTT
+DTSTART:20260307
+DTEND:20260308
+SUMMARY:Lääne-Viru: Kadrina OTT
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-08.Meremess
 DTSTART:20260308
 DTEND:20260309
@@ -336,6 +345,15 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-12.Mustakivi keskuse laat
+DTSTART:20260312
+DTEND:20260313
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-12.Viimsi OTT
 DTSTART:20260312
 DTEND:20260313
@@ -354,12 +372,12 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-03-12.Mustakivi keskuse laat
+UID:2026-03-12.Türi OTT
 DTSTART:20260312
 DTEND:20260313
-SUMMARY:Harju: Mustakivi keskuse laat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -480,6 +498,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-14.Rapla hommikuturg
+DTSTART:20260314
+DTEND:20260315
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-15.Motoexotica
 DTSTART:20260315
 DTEND:20260316
@@ -552,6 +579,15 @@ URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-19.Türi OTT
+DTSTART:20260319
+DTEND:20260320
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-20.Kuusalu OTT
 DTSTART:20260320
 DTEND:20260321
@@ -615,6 +651,15 @@ URL:https://laadakalender.ee/vigala-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-21.Rapla hommikuturg
+DTSTART:20260321
+DTEND:20260322
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-22.Kääpa OTT
 DTSTART:20260322
 DTEND:20260323
@@ -624,12 +669,30 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-25.Oisu OTT
+DTSTART:20260325
+DTEND:20260326
+SUMMARY:Järva: Oisu OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/oisu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-26.Elva OTT
 DTSTART:20260326
 DTEND:20260327
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-26.Türi OTT
+DTSTART:20260326
+DTEND:20260327
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -705,6 +768,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-28.Rapla hommikuturg
+DTSTART:20260328
+DTEND:20260329
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-29.Kevadine raamatulaat
 DTSTART:20260329
 DTEND:20260330
@@ -777,12 +849,39 @@ URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-04.Muhu OTT
+DTSTART:20260404
+DTEND:20260405
+SUMMARY:Saare: Muhu OTT
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-04.Rapla hommikuturg
+DTSTART:20260404
+DTEND:20260405
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-08.Järve Keskuse kevadlaat
 DTSTART:20260408
 DTEND:20260409
 SUMMARY:Harju: Järve Keskuse kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-08.Pae keskuse aprilli laat
+DTSTART:20260408
+DTEND:20260409
+SUMMARY:Harju: Pae keskuse aprilli laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-aprilli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -837,6 +936,15 @@ DTEND:20260410
 SUMMARY:Tartu: Elva OTT
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-09.Pae keskuse aprilli laat
+DTSTART:20260409
+DTEND:20260410
+SUMMARY:Harju: Pae keskuse aprilli laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-aprilli-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1155,6 +1263,15 @@ URL:https://laadakalender.ee/jogeva-valla-suur-perepaev-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-18.Rapla hommikuturg
+DTSTART:20260418
+DTEND:20260419
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-19.Suur Keila Kevadlaat
 DTSTART:20260419
 DTEND:20260420
@@ -1290,6 +1407,15 @@ URL:https://laadakalender.ee/avatud-kalasadamate-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-25.Rapla hommikuturg
+DTSTART:20260425
+DTEND:20260426
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-26.Disainilaat
 DTSTART:20260426
 DTEND:20260427
@@ -1314,6 +1440,15 @@ DTEND:20260427
 SUMMARY:Harju: Tallinn Coffee Festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tallinn-coffee-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-26.Vana-Koiola kevadlaat
+DTSTART:20260426
+DTEND:20260427
+SUMMARY:Põlva: Vana-Koiola kevadlaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/vana-koiola-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1587,6 +1722,15 @@ URL:https://laadakalender.ee/kose-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Kevadine Nigula laat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Lääne-Viru: Kevadine Nigula laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kevadine-nigula-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -1656,6 +1800,15 @@ DTEND:20260511
 SUMMARY:Rapla: Varbola kevadlaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/varbola-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-10.Mammaste Emadepäeva Kevadlaat
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Põlva: Mammaste Emadepäeva Kevadlaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mammaste-emadepaeva-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1758,6 +1911,15 @@ URL:https://laadakalender.ee/soomaa-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Rapla hommikuturg
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1791,6 +1953,15 @@ DTEND:20260518
 SUMMARY:Harju: Põhjala kevadturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/suur-pohjala-kevadturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-17.Muhu kevadlaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Saare: Muhu kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1890,6 +2061,15 @@ DTEND:20260524
 SUMMARY:Lääne-Viru: Tamsalu Päevade laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/tamsalu-paevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Rapla hommikuturg
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1998,6 +2178,15 @@ DTEND:20260531
 SUMMARY:Harju: KUKU - Kulinaarsete Kultuuride Festival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kuku-kulinaarsete-kultuuride-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-30.Rapla hommikuturg
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2271,6 +2460,15 @@ URL:https://laadakalender.ee/karksi-nuia-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-13.Rapla hommikuturg
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-18.Auriga jaaniturg
 DTSTART:20260618
 DTEND:20260619
@@ -2331,6 +2529,15 @@ DTEND:20260621
 SUMMARY:Saare: Auriga jaaniturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/jaaniturg-auriga-kaubanduskeskus/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Rapla hommikuturg
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2403,6 +2610,15 @@ DTEND:20260628
 SUMMARY:Lääne: Haapsalu Maitsete Promenaad
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/tanavatoidufestival-haapsalu-maitsete-promenaad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-27.Rapla hommikuturg
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2658,6 +2874,15 @@ URL:https://laadakalender.ee/alatskivi-vanavara-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Rapla hommikuturg
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -2766,6 +2991,15 @@ URL:https://laadakalender.ee/aruvalla-antiigi-vanavara-ja-militaarlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Rapla hommikuturg
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-23.Auriga suvepäevade turg
 DTSTART:20260723
 DTEND:20260724
@@ -2835,6 +3069,15 @@ DTEND:20260726
 SUMMARY:Hiiu: Hiiumaa kila-kola laat
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiiumaa-kila-kola-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Rapla hommikuturg
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3090,6 +3333,15 @@ URL:https://laadakalender.ee/auriga-augustipaevade-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Rapla hommikuturg
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-16.Türi viljakuu laat
 DTSTART:20260816
 DTEND:20260817
@@ -3135,6 +3387,15 @@ URL:https://laadakalender.ee/luubnitsa-sibula-ja-kalalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Rapla hommikuturg
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-22.Haapsalu viljakuu laat
 DTSTART:20260822
 DTEND:20260823
@@ -3168,6 +3429,15 @@ DTEND:20260830
 SUMMARY:Harju: Kose-Uuemõisa vanatehnikapäev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kose-uuemoisa-vanatehnikapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-29.Rapla hommikuturg
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Rapla: Rapla hommikuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/rapla-hommikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
