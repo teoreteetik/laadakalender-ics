@@ -588,6 +588,15 @@ URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-03-19.Tabasalu Taluturg
+DTSTART:20260319
+DTEND:20260320
+SUMMARY:Harju: Tabasalu Taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-03-20.Kuusalu OTT
 DTSTART:20260320
 DTEND:20260321
@@ -693,6 +702,15 @@ DTEND:20260327
 SUMMARY:Järva: Türi OTT
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-03-26.Tabasalu Taluturg
+DTSTART:20260326
+DTEND:20260327
+SUMMARY:Harju: Tabasalu Taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -831,6 +849,15 @@ URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-02.Tabasalu Taluturg
+DTSTART:20260402
+DTEND:20260403
+SUMMARY:Harju: Tabasalu Taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-03.Prisma Narva Laat
 DTSTART:20260403
 DTEND:20260404
@@ -855,6 +882,15 @@ DTEND:20260404
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-03.Suure reede laat
+DTSTART:20260403
+DTEND:20260404
+SUMMARY:Pärnu: Suure reede laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/pohara-agro-suure-reede-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -990,6 +1026,15 @@ DTEND:20260410
 SUMMARY:Järva: Türi OTT
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-09.Tabasalu Taluturg
+DTSTART:20260409
+DTEND:20260410
+SUMMARY:Harju: Tabasalu Taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1281,6 +1326,15 @@ URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-16.Tabasalu Taluturg
+DTSTART:20260416
+DTEND:20260417
+SUMMARY:Harju: Tabasalu Taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-17.Kuusalu OTT
 DTSTART:20260417
 DTEND:20260418
@@ -1377,6 +1431,15 @@ DTEND:20260419
 SUMMARY:Ida-Viru: Kohtla-Järve kevadlaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kohtla-jarve-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-18.Tabasalu kevadturg
+DTSTART:20260418
+DTEND:20260419
+SUMMARY:Harju: Tabasalu kevadturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tabasalu-kevadturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2097,6 +2160,15 @@ DTEND:20260517
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-16.Kihnu kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Pärnu: Kihnu kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/kihnu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
