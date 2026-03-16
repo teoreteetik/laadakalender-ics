@@ -903,15 +903,6 @@ URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-04-04.Muhu OTT
-DTSTART:20260404
-DTEND:20260405
-SUMMARY:Saare: Muhu OTT
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/muhu-ott/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-04-04.Rapla hommikuturg
 DTSTART:20260404
 DTEND:20260405
@@ -1146,6 +1137,15 @@ URL:https://laadakalender.ee/ehitusmess-eesti-ehitab/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-11.Muhu OTT
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Saare: Muhu OTT
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-11.Mustamäe Keskuse kevadlaat
 DTSTART:20260411
 DTEND:20260412
@@ -1242,6 +1242,15 @@ DTEND:20260412
 SUMMARY:Ida-Viru: Ahtme kevadlaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/ahtme-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-04-11.Kehra turu kevadlaat
+DTSTART:20260411
+DTEND:20260412
+SUMMARY:Harju: Kehra turu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1812,6 +1821,15 @@ URL:https://laadakalender.ee/lasnamae-centrumi-emadepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-08.Varstu kevadlaat
+DTSTART:20260508
+DTEND:20260509
+SUMMARY:Võru: Varstu kevadlaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/varstu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-08.Kuusalu OTT
 DTSTART:20260508
 DTEND:20260509
@@ -1908,15 +1926,6 @@ DTEND:20260510
 SUMMARY:Võru: UMA MEKK kevadlaat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/uma-mekk-kevadlaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-05-09.Varstu kevadlaat
-DTSTART:20260509
-DTEND:20260510
-SUMMARY:Võru: Varstu kevadlaat
-LOCATION:Võrumaa, Estonia
-URL:https://laadakalender.ee/varstu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2352,6 +2361,15 @@ URL:https://laadakalender.ee/suur-tallinna-toidutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-24.Suviste laat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Võru: Suviste laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/suviste-kasitoo-ja-maalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-28.Türi OTT
 DTSTART:20260528
 DTEND:20260529
@@ -2763,6 +2781,15 @@ DTEND:20260614
 SUMMARY:Viljandi: Karksi-Nuia jaanikuu laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-nuia-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Ihamaru Kõivulaat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Põlva: Ihamaru Kõivulaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/ihamaru-koivulaat/
 END:VEVENT
 
 BEGIN:VEVENT
