@@ -1479,6 +1479,15 @@ URL:https://laadakalender.ee/kilingi-nomme-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-04-19.Kevadlaat Kiviõlis
+DTSTART:20260419
+DTEND:20260420
+SUMMARY:Ida-Viru: Kevadlaat Kiviõlis
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kevadlaat-kiviolis/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-04-23.Maamess
 DTSTART:20260423
 DTEND:20260424
