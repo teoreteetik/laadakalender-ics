@@ -1704,6 +1704,15 @@ URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-02.Tibuturg
+DTSTART:20260502
+DTEND:20260503
+SUMMARY:Harju: Tibuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-vaikelooma-ja-kodulinnukasvatajate-uhingu-tibuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-03.Valgeranna Muusikatalli kevadlaat ja täika
 DTSTART:20260503
 DTEND:20260504
@@ -2199,6 +2208,33 @@ URL:https://laadakalender.ee/kaapa-lasteaia-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Muhu OTT
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Saare: Muhu OTT
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Kohila Pop-Up Garaažimüük
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Rapla: Kohila Pop-Up Garaažimüük
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-pop-up-garaazimuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Turba OTT
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -2370,6 +2406,33 @@ URL:https://laadakalender.ee/ape-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-10.Küülikupäev
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Lääne: Küülikupäev
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kuulikupaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-13.Märjamaa õhtuturg
+DTSTART:20260513
+DTEND:20260514
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-13.Mustakivi keskuse laat
+DTSTART:20260513
+DTEND:20260514
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-14.Viimsi OTT
 DTSTART:20260514
 DTEND:20260515
@@ -2412,6 +2475,15 @@ DTEND:20260515
 SUMMARY:Pärnu: Pärnumaa OTT
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnumaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-14.Mustakivi keskuse laat
+DTSTART:20260514
+DTEND:20260515
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2682,6 +2754,15 @@ DTEND:20260517
 SUMMARY:Tartu: Lõunaka UK Fest
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/uk-fest-taaskasutusfestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-16.Vigala taluturg
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Rapla: Vigala taluturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3036,6 +3117,24 @@ URL:https://laadakalender.ee/ahtme-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-23.Pelmeenifestival
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Pärnu: Pelmeenifestival
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/pelmeenifestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Turba OTT
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20260524
 DTEND:20260525
@@ -3096,6 +3195,15 @@ DTEND:20260525
 SUMMARY:Põlva: Räpina külvikuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-kulvikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-27.Märjamaa õhtuturg
+DTSTART:20260527
+DTEND:20260528
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3342,6 +3450,24 @@ URL:https://laadakalender.ee/haapsalu-lillepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-30.Kose aleviku ostutänav
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Harju: Kose aleviku ostutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-aleviku-ostutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-30.Kodulindude ja küülikute näituslaat Keilas
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Harju: Kodulindude ja küülikute näituslaat Keilas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kodulindude-ja-kuulikute-naituslaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-31.Vissuvere käsitöö ja vanavarapäev
 DTSTART:20260531
 DTEND:20260601
@@ -3411,6 +3537,15 @@ DTEND:20260601
 SUMMARY:Järva: Kesk-Eesti mailaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-mailaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-31.Pannkoogifestival
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Tartu: Pannkoogifestival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/pannkoogifestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4800,6 +4935,15 @@ URL:https://laadakalender.ee/otepaa-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-14.Piimapäev
+DTSTART:20260714
+DTEND:20260715
+SUMMARY:Järva: Piimapäev
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/piimapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-16.Kääpa OTT
 DTSTART:20260716
 DTEND:20260717
@@ -5376,6 +5520,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-07.Kuressaare Merepäevad - laat ja haakriku laat
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Saare: Kuressaare Merepäevad - laat ja haakriku laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-08.Hauka Laat
 DTSTART:20260808
 DTEND:20260809
@@ -5436,6 +5589,15 @@ DTEND:20260809
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Kuressaare Merepäevad - laat ja haakriku laat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Saare: Kuressaare Merepäevad - laat ja haakriku laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -6183,6 +6345,15 @@ DTEND:20260920
 SUMMARY:Lääne: Haeska sügislaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haeska-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-19.Maal elamise päev
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:üle Eesti: Maal elamise päev
+LOCATION:üle Eesti, Estonia
+URL:https://laadakalender.ee/maal-elamise-paev/
 END:VEVENT
 
 BEGIN:VEVENT
