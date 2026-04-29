@@ -2235,6 +2235,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Kehra turu emadepäeva lillelaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Kehra turu emadepäeva lillelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kehra-turu-lillelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -3198,6 +3207,15 @@ URL:https://laadakalender.ee/rapina-kulvikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-24.Josephine lillepidu ja taimelaat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Tartu: Josephine lillepidu ja taimelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/josephine-lillepidu/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-27.Märjamaa õhtuturg
 DTSTART:20260527
 DTEND:20260528
@@ -3792,6 +3810,15 @@ URL:https://laadakalender.ee/pohja-parnumaa-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-06.Viimsi Artiumi Kirbuka Festival
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Harju: Viimsi Artiumi Kirbuka Festival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-artiumi-kirbuka-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-07.Viljandi Hansalaat / Viljandi Hansapäevad
 DTSTART:20260607
 DTEND:20260608
@@ -4365,6 +4392,15 @@ DTEND:20260624
 SUMMARY:Tartu: Tartu jaanipäev ja jaanilaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-jaanipaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-23.Karksi jaanilaat
+DTSTART:20260623
+DTEND:20260624
+SUMMARY:Viljandi: Karksi jaanilaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5529,6 +5565,15 @@ URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-07.Estonian Grand Prix
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Pärnu: Estonian Grand Prix
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-08.Hauka Laat
 DTSTART:20260808
 DTEND:20260809
@@ -5598,6 +5643,15 @@ DTEND:20260809
 SUMMARY:Saare: Kuressaare Merepäevad - laat ja haakriku laat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-merepaevad-laat-ja-haakriku-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Estonian Grand Prix
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Pärnu: Estonian Grand Prix
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
