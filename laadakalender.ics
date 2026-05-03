@@ -552,10 +552,10 @@ URL:https://laadakalender.ee/tabivere-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-05-09.Emadepäeva taimelaat
+UID:2026-05-09.Haiba emadepäeva taimelaat
 DTSTART:20260509
 DTEND:20260510
-SUMMARY:Harju: Emadepäeva taimelaat
+SUMMARY:Harju: Haiba emadepäeva taimelaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/haiba-moisa-emadepaeva-taimelaat/
 END:VEVENT
@@ -975,15 +975,6 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-05-14.Kohtla-Järve kevadlaat
-DTSTART:20260514
-DTEND:20260515
-SUMMARY:Ida-Viru: Kohtla-Järve kevadlaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-kevadlaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-05-15.Türi Lillelaat
 DTSTART:20260515
 DTEND:20260516
@@ -1380,6 +1371,15 @@ URL:https://laadakalender.ee/otepaa-oiekuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-17.Kohtla-Järve kevadlaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Ida-Viru: Kohtla-Järve kevadlaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-18.Valjala Lasteaia kevadlaat
 DTSTART:20260518
 DTEND:20260519
@@ -1413,15 +1413,6 @@ DTEND:20260522
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-05-21.Ahtme kevadlaat
-DTSTART:20260521
-DTEND:20260522
-SUMMARY:Ida-Viru: Ahtme kevadlaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/ahtme-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1710,6 +1701,15 @@ DTEND:20260525
 SUMMARY:Tartu: Josephine lillepidu ja taimelaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/josephine-lillepidu/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-24.Ahtme kevadlaat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Ida-Viru: Ahtme kevadlaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
