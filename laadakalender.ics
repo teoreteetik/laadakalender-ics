@@ -723,6 +723,15 @@ URL:https://laadakalender.ee/parnu-vabakooli-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Martna kevadlaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Lääne: Martna kevadlaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/martna-kihelkonna-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -903,6 +912,15 @@ URL:https://laadakalender.ee/kuulikupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-10.Laiusekandi OTT
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Jõgeva: Laiusekandi OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-13.Märjamaa õhtuturg
 DTSTART:20260513
 DTEND:20260514
@@ -1026,6 +1044,15 @@ DTEND:20260516
 SUMMARY:Pärnu: Pärnu maikuulaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maikuulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-15.Avatud uste päev Revonias
+DTSTART:20260515
+DTEND:20260516
+SUMMARY:Harju: Avatud uste päev Revonias
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/revonia-kliendipaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1272,6 +1299,24 @@ URL:https://laadakalender.ee/tahula-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Kollektsionääride mess "Historia Estonia"
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Pärnu: Kollektsionääride mess "Historia Estonia"
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-kollektsionaaride-mess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-16.Avatud uste päev Revonias
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Harju: Avatud uste päev Revonias
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/revonia-kliendipaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1386,6 +1431,15 @@ DTEND:20260519
 SUMMARY:Saare: Valjala Lasteaia kevadlaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/valjala-lasteaia-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-20.Oisu OTT
+DTSTART:20260520
+DTEND:20260521
+SUMMARY:Järva: Oisu OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/oisu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3870,6 +3924,15 @@ DTEND:20260727
 SUMMARY:Harju: Põhjala tehase antiigi ja vanavara laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohjala-tehase-antiigi-vanavara-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-26.Jakapäävä laat
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Võru: Jakapäävä laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/jakapaava-laat/
 END:VEVENT
 
 BEGIN:VEVENT
