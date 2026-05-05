@@ -1542,6 +1542,15 @@ URL:https://laadakalender.ee/ahtme-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-22.Võru maikuu laat
+DTSTART:20260522
+DTEND:20260523
+SUMMARY:Võru: Võru maikuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-23.Jäneda Aia- ja Lillepäevad
 DTSTART:20260523
 DTEND:20260524
@@ -1767,6 +1776,15 @@ URL:https://laadakalender.ee/ahtme-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-24.Kallaste lille- ja taimelaat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Tartu: Kallaste lille- ja taimelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-lille-ja-taimelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-27.Märjamaa õhtuturg
 DTSTART:20260527
 DTEND:20260528
@@ -1845,6 +1863,15 @@ DTEND:20260530
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-29.Prisma Narva Laat
+DTSTART:20260529
+DTEND:20260530
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2046,6 +2073,15 @@ URL:https://laadakalender.ee/nomme-laulu-ja-tantsupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-30.Prisma Narva Laat
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-31.Vissuvere käsitöö ja vanavarapäev
 DTSTART:20260531
 DTEND:20260601
@@ -2124,6 +2160,15 @@ DTEND:20260601
 SUMMARY:Tartu: Pannkoogifestival
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/pannkoogifestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-31.Prisma Narva Laat
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3162,6 +3207,24 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-03.Eesti Tervisemess - Liikuma!
+DTSTART:20260703
+DTEND:20260704
+SUMMARY:Harju: Eesti Tervisemess - Liikuma!
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-03.Eesti tervisemess - näitus ja laat
+DTSTART:20260703
+DTEND:20260704
+SUMMARY:Harju: Eesti tervisemess - näitus ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-04.Antiigilaat Kila-Kola
 DTSTART:20260704
 DTEND:20260705
@@ -3234,6 +3297,24 @@ URL:https://laadakalender.ee/poltsamaa-lossipaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-04.Eesti Tervisemess - Liikuma!
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Harju: Eesti Tervisemess - Liikuma!
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Eesti tervisemess - näitus ja laat
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Harju: Eesti tervisemess - näitus ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-05.Pärnu Hansapäevad
 DTSTART:20260705
 DTEND:20260706
@@ -3267,6 +3348,24 @@ DTEND:20260706
 SUMMARY:Põlva: Räpina suvelaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-05.Eesti Tervisemess - Liikuma!
+DTSTART:20260705
+DTEND:20260706
+SUMMARY:Harju: Eesti Tervisemess - Liikuma!
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-05.Eesti tervisemess - näitus ja laat
+DTSTART:20260705
+DTEND:20260706
+SUMMARY:Harju: Eesti tervisemess - näitus ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
