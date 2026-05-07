@@ -309,6 +309,15 @@ URL:https://laadakalender.ee/pae-keskuse-mai-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-07.Ehte Humanitaargümnaasiumi kevadlaat
+DTSTART:20260507
+DTEND:20260508
+SUMMARY:Harju: Ehte Humanitaargümnaasiumi kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/ehte-humanitaargumnaasiumi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-08.Luige Laat - Maaelu Näituslaat
 DTSTART:20260508
 DTEND:20260509
@@ -387,6 +396,15 @@ DTEND:20260509
 SUMMARY:Jõgeva: Jõgeva maikuu laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/jogeva-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-08.Ehte Humanitaargümnaasiumi kevadlaat
+DTSTART:20260508
+DTEND:20260509
+SUMMARY:Harju: Ehte Humanitaargümnaasiumi kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/ehte-humanitaargumnaasiumi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -714,6 +732,15 @@ URL:https://laadakalender.ee/kehra-turu-lillelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Käina kevadine kirbuturg
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Hiiu: Käina kevadine kirbuturg
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/kaina-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-09.Pärnu Vabakooli kevadlaat Kevadsumin
 DTSTART:20260509
 DTEND:20260510
@@ -729,6 +756,42 @@ DTEND:20260510
 SUMMARY:Lääne: Martna kevadlaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/martna-kihelkonna-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Tõrvandi kevadlaat "Mai Kelluke"
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Tartu: Tõrvandi kevadlaat "Mai Kelluke"
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/torvandi-kevadlaat-mai-kelluke/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Emmaste kevadlaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Hiiu: Emmaste kevadlaat
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/emmaste-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Kiisa kevadkirbukas
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Kiisa kevadkirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kiisa-kevadkirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-09.Peetri pisipõnnide kirbukas
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Harju: Peetri pisipõnnide kirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/peetri-pisiponnide-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -918,6 +981,24 @@ DTEND:20260511
 SUMMARY:Jõgeva: Laiusekandi OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-10.Emadepäeva heategevusik täika
+DTSTART:20260510
+DTEND:20260511
+SUMMARY:Pärnu: Emadepäeva heategevusik täika
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/emadepaeva-heategevusik-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-12.Põhja-Eesti Pimedate Ühingu kevadlaat
+DTSTART:20260512
+DTEND:20260513
+SUMMARY:Harju: Põhja-Eesti Pimedate Ühingu kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-eesti-pimedate-uhingu-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1317,6 +1398,24 @@ URL:https://laadakalender.ee/revonia-kliendipaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Nõva kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Lääne: Nõva kevadlaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/nova-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-16.Montessori Kooli kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Harju: Montessori Kooli kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/montessori-kooli-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1422,6 +1521,24 @@ DTEND:20260518
 SUMMARY:Ida-Viru: Kohtla-Järve kevadlaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kohtla-jarve-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-17.Laitse Seltsimaja kevadlaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Harju: Laitse Seltsimaja kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laitse-seltsimaja-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-17.Vasalemma kevadlaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Harju: Vasalemma kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vasalemma-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1704,6 +1821,24 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-23.Kunstiraamatumess Fair Enough
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Harju: Kunstiraamatumess Fair Enough
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/fair-enough-kunstiraamatumess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Ratas&Kohv x Gardekas kirbukas
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Harju: Ratas&Kohv x Gardekas kirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/ratas-ja-kohv-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20260524
 DTEND:20260525
@@ -1782,6 +1917,24 @@ DTEND:20260525
 SUMMARY:Tartu: Kallaste lille- ja taimelaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/kallaste-lille-ja-taimelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-24.Kohila kevadlaat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Rapla: Kohila kevadlaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-24.Kunstiraamatumess Fair Enough
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Harju: Kunstiraamatumess Fair Enough
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/fair-enough-kunstiraamatumess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2082,6 +2235,15 @@ URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-30.Jõelähtme-Kuusalu laulu- ja tantsupäev
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Harju: Jõelähtme-Kuusalu laulu- ja tantsupäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/joelahtme-kuusalu-laulu-ja-tantsupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-31.Vissuvere käsitöö ja vanavarapäev
 DTSTART:20260531
 DTEND:20260601
@@ -2169,6 +2331,15 @@ DTEND:20260601
 SUMMARY:Ida-Viru: Prisma Narva Laat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/prisma-narva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-31.Suur Lastekaitsepäeva Pidu
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Pärnu: Suur Lastekaitsepäeva Pidu
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/suur-lastekaitsepaeva-pidu/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2424,6 +2595,24 @@ URL:https://laadakalender.ee/viimsi-artiumi-kirbuka-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-06.Vasalemma garaažimüügi päev
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Harju: Vasalemma garaažimüügi päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vasalemma-garaazimuugi-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-06.Kurtna perepäev ja kirbukas
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Harju: Kurtna perepäev ja kirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kurtna-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-07.Viljandi Hansalaat / Viljandi Hansapäevad
 DTSTART:20260607
 DTEND:20260608
@@ -2505,6 +2694,24 @@ URL:https://laadakalender.ee/rapina-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-09.Aravete kultuurimaja kirbukas
+DTSTART:20260609
+DTEND:20260610
+SUMMARY:Järva: Aravete kultuurimaja kirbukas
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-10.Aravete kultuurimaja kirbukas
+DTSTART:20260610
+DTEND:20260611
+SUMMARY:Järva: Aravete kultuurimaja kirbukas
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-11.Türi OTT
 DTSTART:20260611
 DTEND:20260612
@@ -2520,6 +2727,15 @@ DTEND:20260612
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-11.Aravete kultuurimaja kirbukas
+DTSTART:20260611
+DTEND:20260612
+SUMMARY:Järva: Aravete kultuurimaja kirbukas
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2574,6 +2790,15 @@ DTEND:20260613
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-12.Aravete kultuurimaja kirbukas
+DTSTART:20260612
+DTEND:20260613
+SUMMARY:Järva: Aravete kultuurimaja kirbukas
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2727,6 +2952,24 @@ DTEND:20260614
 SUMMARY:Harju: Loksa suvelaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/loksa-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Aravete kultuurimaja kirbukas
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Järva: Aravete kultuurimaja kirbukas
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Vigala kirbukas
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Rapla: Vigala kirbukas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2916,6 +3159,15 @@ DTEND:20260621
 SUMMARY:Harju: Põhja-Tallinna suur jaanilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-tallinna-suur-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Käsitöölaat "Kohtla-Järve 80"
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Ida-Viru: Käsitöölaat "Kohtla-Järve 80"
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4332,6 +4584,15 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Paldiski Päeva Laat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Harju: Paldiski Päeva Laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-linnapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
@@ -4464,6 +4725,15 @@ DTEND:20260816
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Tapa linnalaat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Lääne-Viru: Tapa linnalaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/tapa-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5025,6 +5295,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-18.Kunstimess Foto Tallinn
+DTSTART:20260918
+DTEND:20260919
+SUMMARY:Harju: Kunstimess Foto Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/foto-tallinn-kunstimess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-18.Otepää OTT
 DTSTART:20260918
 DTEND:20260919
@@ -5070,6 +5349,15 @@ URL:https://laadakalender.ee/viljandi-taika/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-19.Kunstimess Foto Tallinn
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Kunstimess Foto Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/foto-tallinn-kunstimess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-19.Haeska sügislaat
 DTSTART:20260919
 DTEND:20260920
@@ -5085,6 +5373,15 @@ DTEND:20260920
 SUMMARY:üle Eesti: Maal elamise päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/maal-elamise-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-20.Kunstimess Foto Tallinn
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Harju: Kunstimess Foto Tallinn
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/foto-tallinn-kunstimess/
 END:VEVENT
 
 BEGIN:VEVENT
