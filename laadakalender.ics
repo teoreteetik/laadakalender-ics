@@ -408,6 +408,15 @@ URL:https://laadakalender.ee/ehte-humanitaargumnaasiumi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-08.Heimtali kooli heategevuslik kevadlaat
+DTSTART:20260508
+DTEND:20260509
+SUMMARY:Viljandi: Heimtali kooli heategevuslik kevadlaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/heimtali-kooli-heategevuslik-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-09.Luige Laat - Maaelu Näituslaat
 DTSTART:20260509
 DTEND:20260510
@@ -795,6 +804,15 @@ URL:https://laadakalender.ee/peetri-pisiponnide-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-09.Haljala Kooli kevadlaat
+DTSTART:20260509
+DTEND:20260510
+SUMMARY:Lääne-Viru: Haljala Kooli kevadlaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/haljala-kooli-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-10.Luige Laat - Maaelu Näituslaat
 DTSTART:20260510
 DTEND:20260511
@@ -999,6 +1017,15 @@ DTEND:20260513
 SUMMARY:Harju: Põhja-Eesti Pimedate Ühingu kevadlaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-eesti-pimedate-uhingu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-12.Tuleviku Lasteaia kevadlaat
+DTSTART:20260512
+DTEND:20260513
+SUMMARY:Harju: Tuleviku Lasteaia kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tuleviku-lasteaia-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1416,6 +1443,15 @@ URL:https://laadakalender.ee/montessori-kooli-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Viljandimaa noorte kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Viljandi: Viljandimaa noorte kevadlaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandimaa-noorte-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1542,6 +1578,15 @@ URL:https://laadakalender.ee/vasalemma-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-17.Kiviloo kevadlaat
+DTSTART:20260517
+DTEND:20260518
+SUMMARY:Harju: Kiviloo kevadlaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kiviloo-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-18.Valjala Lasteaia kevadlaat
 DTSTART:20260518
 DTEND:20260519
@@ -1665,6 +1710,15 @@ DTEND:20260523
 SUMMARY:Võru: Võru maikuu laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-maikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-22.Taimevahetuskuu
+DTSTART:20260522
+DTEND:20260523
+SUMMARY:Saare: Taimevahetuskuu
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-taimevahetuskuu/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1836,6 +1890,15 @@ DTEND:20260524
 SUMMARY:Harju: Ratas&Kohv x Gardekas kirbukas
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/ratas-ja-kohv-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-23.Taimevahetuskuu
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Saare: Taimevahetuskuu
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/kuressaare-taimevahetuskuu/
 END:VEVENT
 
 BEGIN:VEVENT
