@@ -2406,6 +2406,15 @@ URL:https://laadakalender.ee/suur-lastekaitsepaeva-pidu/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-31.Potilaat ja mõisapäev
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Rapla: Potilaat ja mõisapäev
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/potilaat-ja-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-04.Türi OTT
 DTSTART:20260604
 DTEND:20260605
@@ -2673,6 +2682,15 @@ DTEND:20260607
 SUMMARY:Harju: Kurtna perepäev ja kirbukas
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kurtna-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Suur Tondiraba Suvelaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Harju: Suur Tondiraba Suvelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tondiraba-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3042,6 +3060,15 @@ DTEND:20260615
 SUMMARY:Lääne-Viru: Rakvere Kreisilaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/rakvere-linna-paevade-kreisilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-14.Suur Koeru laat ja perepäev
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Järva: Suur Koeru laat ja perepäev
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/suur-koeru-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4143,6 +4170,51 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-24.Haapsalu Promenaadilaat
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Lääne: Haapsalu Promenaadilaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-promenaadilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Suur Haapsalu Toidutänav
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Lääne: Suur Haapsalu Toidutänav
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Kesk-Eesti suvelaat
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Järva: Kesk-Eesti suvelaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/kesk-eesti-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Auriga suvepäevade turg
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Saare: Auriga suvepäevade turg
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/auriga-suvepaevade-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Oru OTT
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Lääne: Oru OTT
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/oru-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-24.Kuusalu OTT
 DTSTART:20260724
 DTEND:20260725
@@ -4158,42 +4230,6 @@ DTEND:20260725
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-24.Auriga suvepäevade turg
-DTSTART:20260724
-DTEND:20260725
-SUMMARY:Saare: Auriga suvepäevade turg
-LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/auriga-suvepaevade-turg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-24.Suur Haapsalu Toidutänav
-DTSTART:20260724
-DTEND:20260725
-SUMMARY:Lääne: Suur Haapsalu Toidutänav
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/suur-haapsalu-toidutanav/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-24.Oru OTT
-DTSTART:20260724
-DTEND:20260725
-SUMMARY:Lääne: Oru OTT
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/oru-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-24.Kesk-Eesti suvelaat
-DTSTART:20260724
-DTEND:20260725
-SUMMARY:Järva: Kesk-Eesti suvelaat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/kesk-eesti-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4248,6 +4284,15 @@ DTEND:20260726
 SUMMARY:Lääne: Risti taluturg
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/risti-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Haapsalu Promenaadilaat
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Lääne: Haapsalu Promenaadilaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-promenaadilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5499,6 +5544,15 @@ DTEND:20260927
 SUMMARY:Harju: Luige vanavara- ja käsitöölaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/luige-vanavara-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-26.Suur Sügislaat Tallinna Lauluväljakul
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Harju: Suur Sügislaat Tallinna Lauluväljakul
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-sugislaat-tallinna-lauluvaljakul/
 END:VEVENT
 
 BEGIN:VEVENT
