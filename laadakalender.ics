@@ -3099,6 +3099,15 @@ URL:https://laadakalender.ee/jaanikuu-laat-otepaa/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-14.Vana-Pärnu perepäev
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Pärnu: Vana-Pärnu perepäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vana-parnu-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-18.Vanamõisa jaanilaat
 DTSTART:20260618
 DTEND:20260619
