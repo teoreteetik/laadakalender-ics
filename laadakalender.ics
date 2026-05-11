@@ -3108,6 +3108,15 @@ URL:https://laadakalender.ee/vana-parnu-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-14.Konnapargi laat
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Jõgeva: Konnapargi laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/konnapargi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-18.Vanamõisa jaanilaat
 DTSTART:20260618
 DTEND:20260619
@@ -4140,6 +4149,15 @@ DTEND:20260719
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-18.Jakob Hurda rahvustoidufestival
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Põlva: Jakob Hurda rahvustoidufestival
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/jakob-hurda-rahvustoidufestival/
 END:VEVENT
 
 BEGIN:VEVENT
