@@ -318,6 +318,15 @@ URL:https://laadakalender.ee/ehte-humanitaargumnaasiumi-kevadlaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-07.Elva OTT
+DTSTART:20260507
+DTEND:20260508
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-08.Luige Laat - Maaelu Näituslaat
 DTSTART:20260508
 DTEND:20260509
@@ -1101,6 +1110,15 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-14.Elva OTT
+DTSTART:20260514
+DTEND:20260515
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-15.Türi Lillelaat
 DTSTART:20260515
 DTEND:20260516
@@ -1461,6 +1479,15 @@ URL:https://laadakalender.ee/noo-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-16.Koela kevadlaat
+DTSTART:20260516
+DTEND:20260517
+SUMMARY:Lääne: Koela kevadlaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/koela-talumuuseumi-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-17.Jakobsoni talupäev
 DTSTART:20260517
 DTEND:20260518
@@ -1656,6 +1683,15 @@ DTEND:20260522
 SUMMARY:Pärnu: Pärnumaa OTT
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnumaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-21.Elva OTT
+DTSTART:20260521
+DTEND:20260522
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1929,6 +1965,15 @@ URL:https://laadakalender.ee/kuressaare-taimevahetuskuu/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-23.Maarja-Magdaleena Gildi täika
+DTSTART:20260523
+DTEND:20260524
+SUMMARY:Pärnu: Maarja-Magdaleena Gildi täika
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/maarja-magdaleena-gildi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-24.Jäneda Aia- ja Lillepäevad
 DTSTART:20260524
 DTEND:20260525
@@ -2070,6 +2115,15 @@ DTEND:20260529
 SUMMARY:Pärnu: Pärnumaa OTT
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnumaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-28.Elva OTT
+DTSTART:20260528
+DTEND:20260529
+SUMMARY:Tartu: Elva OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/elva-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2820,6 +2874,15 @@ URL:https://laadakalender.ee/rapina-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-07.Järvakandi taime- ja käsitöölaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Rapla: Järvakandi taime- ja käsitöölaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/jarvakandi-taime-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-09.Aravete kultuurimaja kirbukas
 DTSTART:20260609
 DTEND:20260610
@@ -3168,6 +3231,15 @@ DTEND:20260615
 SUMMARY:Rapla: Varbola Jaanipäevaeelne suvelaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/varbola-jaanipaevaeelne-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-14.Kalamaja loometurg
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Harju: Kalamaja loometurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kalamaja-loometurg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3555,6 +3627,15 @@ DTEND:20260628
 SUMMARY:Tartu: Elva jaanikuu laat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-jaanikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-27.Muhu kirbukas
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Saare: Muhu kirbukas
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-loomekoondise-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4482,6 +4563,15 @@ DTEND:20260726
 SUMMARY:Põlva: Mooste mõisa lina- ja käsitöölaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mooste-lina-ja-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Muhu kirbukas
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Saare: Muhu kirbukas
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-loomekoondise-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
