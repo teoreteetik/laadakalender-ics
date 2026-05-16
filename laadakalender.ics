@@ -2595,6 +2595,15 @@ URL:https://laadakalender.ee/parnu-juunikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-05.Jõgeva juunikuu laat
+DTSTART:20260605
+DTEND:20260606
+SUMMARY:Jõgeva: Jõgeva juunikuu laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/jogeva-juunikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-06.Viljandi Hansalaat / Viljandi Hansapäevad
 DTSTART:20260606
 DTEND:20260607
@@ -4572,6 +4581,15 @@ DTEND:20260726
 SUMMARY:Saare: Muhu kirbukas
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/muhu-loomekoondise-kirbukas/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Reiu Rehetalu suvelaat
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Pärnu: Reiu Rehetalu suvelaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/reiu-rehetalu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
