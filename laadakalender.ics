@@ -5628,6 +5628,15 @@ URL:https://laadakalender.ee/laine-plaaditurg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-13.Vastemõisa laat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Viljandi: Vastemõisa laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vastemoisa-superlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-17.Kääpa OTT
 DTSTART:20260917
 DTEND:20260918
