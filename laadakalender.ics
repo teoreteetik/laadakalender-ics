@@ -5142,6 +5142,15 @@ URL:https://laadakalender.ee/auriga-augustipaevade-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-14.Haapsalu viljakuu laat
+DTSTART:20260814
+DTEND:20260815
+SUMMARY:Lääne: Haapsalu viljakuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-14.Oru OTT
 DTSTART:20260814
 DTEND:20260815
@@ -5205,6 +5214,15 @@ URL:https://laadakalender.ee/viljandi-taika/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Haapsalu viljakuu laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Lääne: Haapsalu viljakuu laat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-15.Tapa linnalaat
 DTSTART:20260815
 DTEND:20260816
@@ -5259,15 +5277,6 @@ URL:https://laadakalender.ee/kuusalu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-21.Haapsalu viljakuu laat
-DTSTART:20260821
-DTEND:20260822
-SUMMARY:Lääne: Haapsalu viljakuu laat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-08-21.Otepää OTT
 DTSTART:20260821
 DTEND:20260822
@@ -5319,15 +5328,6 @@ DTEND:20260823
 SUMMARY:Rapla: Rapla hommikuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-hommikuturg/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-08-22.Haapsalu viljakuu laat
-DTSTART:20260822
-DTEND:20260823
-SUMMARY:Lääne: Haapsalu viljakuu laat
-LOCATION:Läänemaa, Estonia
-URL:https://laadakalender.ee/haapsalu-viljakuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
