@@ -2082,6 +2082,15 @@ URL:https://laadakalender.ee/paldiski-maikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-24.Kilingi-Nõmme kevadlaat
+DTSTART:20260524
+DTEND:20260525
+SUMMARY:Pärnu: Kilingi-Nõmme kevadlaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/kilingi-nomme-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-27.Märjamaa õhtuturg
 DTSTART:20260527
 DTEND:20260528
@@ -2397,6 +2406,15 @@ URL:https://laadakalender.ee/joelahtme-kuusalu-laulu-ja-tantsupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-05-30.Torgu kevadlaat
+DTSTART:20260530
+DTEND:20260531
+SUMMARY:Saare: Torgu kevadlaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/torgu-kevadlaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-05-31.Vissuvere käsitöö ja vanavarapäev
 DTSTART:20260531
 DTEND:20260601
@@ -2511,6 +2529,24 @@ DTEND:20260601
 SUMMARY:Jõgeva: Sadala lastekaitsepäeva laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/sadala-lastekaitsepaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-31.Antsla õiekuu laat
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Võru: Antsla õiekuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-oiekuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-05-31.Loo kirbukas
+DTSTART:20260531
+DTEND:20260601
+SUMMARY:Harju: Loo kirbukas
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loo-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3261,6 +3297,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-13.Aparaaditehase turupäev - raamatulaat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Tartu: Aparaaditehase turupäev - raamatulaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/aparaaditehase-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-14.Rakvere Kreisilaat
 DTSTART:20260614
 DTEND:20260615
@@ -3765,6 +3810,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-27.Paide juunilaat
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Järva: Paide juunilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-juunilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-28.Suur Tartu Toidutänav
 DTSTART:20260628
 DTEND:20260629
@@ -3897,6 +3951,15 @@ DTEND:20260705
 SUMMARY:Pärnu: Pärnu Hansapäevad
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-hansapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Haaslava vanatehnikapäev
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Tartu: Haaslava vanatehnikapäev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/haaslava-vanatehnikapaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5715,6 +5778,15 @@ DTEND:20260913
 SUMMARY:Lääne: Haapsalu Vintage Weekend
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-vintage-weekend/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Kadrina käsitöö- ja vanavaralaat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Lääne-Viru: Kadrina käsitöö- ja vanavaralaat
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/kadrina-vanavara-ja-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
