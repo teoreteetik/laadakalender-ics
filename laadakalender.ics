@@ -2982,6 +2982,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-07.Käesalu mõisa avatud aed ja väike taimelaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Harju: Käesalu mõisa avatud aed ja väike taimelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kaesalu-moisa-vaike-taimelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-09.Aravete kultuurimaja kirbukas
 DTSTART:20260609
 DTEND:20260610
@@ -5292,6 +5301,15 @@ DTEND:20260816
 SUMMARY:Lääne-Viru: Tapa linnalaat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/tapa-linnapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Tuhalaane rukkimaarjapäeva laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Viljandi: Tuhalaane rukkimaarjapäeva laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/tuhalaane-rukkimaarjapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
