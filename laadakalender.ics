@@ -3000,6 +3000,15 @@ URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-09.Maardu Prisma laat
+DTSTART:20260609
+DTEND:20260610
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-10.Aravete kultuurimaja kirbukas
 DTSTART:20260610
 DTEND:20260611
@@ -3015,6 +3024,15 @@ DTEND:20260611
 SUMMARY:Rapla: Märjamaa õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-10.Maardu Prisma laat
+DTSTART:20260610
+DTEND:20260611
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3477,6 +3495,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-19.Prisma Narva Laat
+DTSTART:20260619
+DTEND:20260620
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-20.Vastseliina Maarahva Laat
 DTSTART:20260620
 DTEND:20260621
@@ -3567,6 +3594,24 @@ URL:https://laadakalender.ee/kohtla-jarve-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-20.Võru vanakraami täika
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Võru: Võru vanakraami täika
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Prisma Narva Laat
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-21.Vastseliina Maarahva Laat
 DTSTART:20260621
 DTEND:20260622
@@ -3609,6 +3654,24 @@ DTEND:20260622
 SUMMARY:Põlva: Räpina jaanilaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-21.Võru vanakraami täika
+DTSTART:20260621
+DTEND:20260622
+SUMMARY:Võru: Võru vanakraami täika
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-21.Prisma Narva Laat
+DTSTART:20260621
+DTEND:20260622
+SUMMARY:Ida-Viru: Prisma Narva Laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3828,12 +3891,30 @@ URL:https://laadakalender.ee/paide-juunilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-27.Sillamäe Linnapäevad - laat
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Ida-Viru: Sillamäe Linnapäevad - laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/sillamae-linnapaevad-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-28.Suur Tartu Toidutänav
 DTSTART:20260628
 DTEND:20260629
 SUMMARY:Tartu: Suur Tartu Toidutänav
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/suur-tartu-toidutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-28.Sillamäe Linnapäevad - laat
+DTSTART:20260628
+DTEND:20260629
+SUMMARY:Ida-Viru: Sillamäe Linnapäevad - laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/sillamae-linnapaevad-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4959,6 +5040,15 @@ DTEND:20260802
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-01.Vanatehnika Põllupäev
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Pärnu: Vanatehnika Põllupäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vanatehnika-pollupaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -8769,9 +8859,9 @@ URL:https://laadakalender.ee/paldiski-aprillikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-07.Maardu Prisma laat
-DTSTART:20260807
-DTEND:20260808
+UID:2026-04-07.Maardu Prisma laat
+DTSTART:20260407
+DTEND:20260408
 SUMMARY:Harju: Maardu Prisma laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/maardu-prisma-laat/
