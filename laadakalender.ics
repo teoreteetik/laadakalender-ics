@@ -2991,6 +2991,24 @@ URL:https://laadakalender.ee/kaesalu-moisa-vaike-taimelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-07.Mammaste Retrolaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Põlva: Mammaste Retrolaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mammaste-retrolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Kallaste laat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Tartu: Kallaste laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-09.Aravete kultuurimaja kirbukas
 DTSTART:20260609
 DTEND:20260610
@@ -3132,6 +3150,15 @@ DTEND:20260613
 SUMMARY:Ida-Viru: Ahtme suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/ahtme-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-12.Võru juunikuu laat
+DTSTART:20260612
+DTEND:20260613
+SUMMARY:Võru: Võru juunikuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-juunikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3900,6 +3927,15 @@ URL:https://laadakalender.ee/sillamae-linnapaevad-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-27.Prangli südasuve festival
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Põlva: Prangli südasuve festival
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/prangli-sudasuve-festival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-28.Suur Tartu Toidutänav
 DTSTART:20260628
 DTEND:20260629
@@ -3915,6 +3951,15 @@ DTEND:20260629
 SUMMARY:Ida-Viru: Sillamäe Linnapäevad - laat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/sillamae-linnapaevad-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-28.Pärnumaa meepäevad
+DTSTART:20260628
+DTEND:20260629
+SUMMARY:Pärnu: Pärnumaa meepäevad
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnumaa-meepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
