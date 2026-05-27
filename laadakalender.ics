@@ -2865,6 +2865,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-06.Kristiine Keskuse taluturg
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-07.Suur Tondiraba Suvelaat
 DTSTART:20260607
 DTEND:20260608
@@ -3006,6 +3015,15 @@ DTEND:20260608
 SUMMARY:Tartu: Kallaste laat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/kallaste-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Laiusekandi OTT
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Jõgeva: Laiusekandi OTT
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/laiusekandi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3450,6 +3468,15 @@ URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-17.Mustakivi keskuse laat
+DTSTART:20260617
+DTEND:20260618
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-18.Vanamõisa jaanilaat
 DTSTART:20260618
 DTEND:20260619
@@ -3483,6 +3510,15 @@ DTEND:20260619
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-18.Mustakivi keskuse laat
+DTSTART:20260618
+DTEND:20260619
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4149,6 +4185,15 @@ DTEND:20260705
 SUMMARY:Harju: Eesti tervisemess - näitus ja laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Kolme Küla Pidu ja Laat
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Jõgeva: Kolme Küla Pidu ja Laat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/kolme-kula-pidu-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
