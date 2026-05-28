@@ -2658,12 +2658,12 @@ URL:https://laadakalender.ee/jogeva-juunikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-05.Kohtla-Järve suvelaat
+UID:2026-06-05.Ahtme suvelaat
 DTSTART:20260605
 DTEND:20260606
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+SUMMARY:Ida-Viru: Ahtme suvelaat
 LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
+URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2856,21 +2856,21 @@ URL:https://laadakalender.ee/parnu-juunikuulaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-06.Kohtla-Järve suvelaat
-DTSTART:20260606
-DTEND:20260607
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-06-06.Kristiine Keskuse taluturg
 DTSTART:20260606
 DTEND:20260607
 SUMMARY:Harju: Kristiine Keskuse taluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-06.Ahtme suvelaat
+DTSTART:20260606
+DTEND:20260607
+SUMMARY:Ida-Viru: Ahtme suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2982,15 +2982,6 @@ URL:https://laadakalender.ee/kurna-pargilaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-07.Kohtla-Järve suvelaat
-DTSTART:20260607
-DTEND:20260608
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-06-07.Käesalu mõisa avatud aed ja väike taimelaat
 DTSTART:20260607
 DTEND:20260608
@@ -3024,6 +3015,15 @@ DTEND:20260608
 SUMMARY:Jõgeva: Laiusekandi OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/laiusekandi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-07.Ahtme suvelaat
+DTSTART:20260607
+DTEND:20260608
+SUMMARY:Ida-Viru: Ahtme suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3162,21 +3162,21 @@ URL:https://laadakalender.ee/aravete-kultuurimaja-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-12.Ahtme suvelaat
-DTSTART:20260612
-DTEND:20260613
-SUMMARY:Ida-Viru: Ahtme suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/ahtme-suvelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-06-12.Võru juunikuu laat
 DTSTART:20260612
 DTEND:20260613
 SUMMARY:Võru: Võru juunikuu laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-juunikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-12.Kohtla-Järve suvelaat
+DTSTART:20260612
+DTEND:20260613
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3351,15 +3351,6 @@ URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-13.Ahtme suvelaat
-DTSTART:20260613
-DTEND:20260614
-SUMMARY:Ida-Viru: Ahtme suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/ahtme-suvelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-06-13.Turba OTT
 DTSTART:20260613
 DTEND:20260614
@@ -3375,6 +3366,15 @@ DTEND:20260614
 SUMMARY:Tartu: Aparaaditehase turupäev - raamatulaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/aparaaditehase-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-13.Kohtla-Järve suvelaat
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3459,12 +3459,12 @@ URL:https://laadakalender.ee/kalamaja-loometurg/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-14.Ahtme suvelaat
+UID:2026-06-14.Kohtla-Järve suvelaat
 DTSTART:20260614
 DTEND:20260615
-SUMMARY:Ida-Viru: Ahtme suvelaat
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
 LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/ahtme-suvelaat/
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -4458,6 +4458,15 @@ URL:https://laadakalender.ee/tallinna-merepaevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Võru pärimustantsu festival - käsitöölaat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Võru: Võru pärimustantsu festival - käsitöölaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-parimustantsu-festival-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -4518,6 +4527,15 @@ DTEND:20260713
 SUMMARY:Valga: Otepää suvelaat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-12.Võru pärimustantsu festival - käsitöölaat
+DTSTART:20260712
+DTEND:20260713
+SUMMARY:Võru: Võru pärimustantsu festival - käsitöölaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-parimustantsu-festival-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -6129,6 +6147,15 @@ DTEND:20260920
 SUMMARY:üle Eesti: Maal elamise päev
 LOCATION:üle Eesti, Estonia
 URL:https://laadakalender.ee/maal-elamise-paev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-19.Kaja sügislaat
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Kaja sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kaja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
