@@ -5034,15 +5034,6 @@ URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-31.Supeluse Aastalaat
-DTSTART:20260731
-DTEND:20260801
-SUMMARY:Pärnu: Supeluse Aastalaat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/supeluse-aastalaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-07-31.Kuusalu OTT
 DTSTART:20260731
 DTEND:20260801
@@ -5094,15 +5085,6 @@ DTEND:20260802
 SUMMARY:Pärnu: Pärnu Maitsete Uulits
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maitsete-uulits/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-08-01.Supeluse Aastalaat
-DTSTART:20260801
-DTEND:20260802
-SUMMARY:Pärnu: Supeluse Aastalaat
-LOCATION:Pärnumaa, Estonia
-URL:https://laadakalender.ee/supeluse-aastalaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -5598,6 +5580,15 @@ DTEND:20260823
 SUMMARY:Võru: Lüübnitsa sibula- ja kalalaat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/luubnitsa-sibula-ja-kalalaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Supeluse Aastalaat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Pärnu: Supeluse Aastalaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/supeluse-aastalaat/
 END:VEVENT
 
 BEGIN:VEVENT
