@@ -3477,15 +3477,6 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-18.Vanamõisa jaanilaat
-DTSTART:20260618
-DTEND:20260619
-SUMMARY:Harju: Vanamõisa jaanilaat
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-jaanilaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-06-18.Auriga jaaniturg
 DTSTART:20260618
 DTEND:20260619
@@ -5319,6 +5310,15 @@ DTEND:20260809
 SUMMARY:Harju: Peetri laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/peetri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Lauritsapäeva laat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Harju: Lauritsapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lauritsapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
