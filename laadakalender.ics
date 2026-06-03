@@ -3459,6 +3459,15 @@ URL:https://laadakalender.ee/tapa-sugisandide-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-06.Lihula sügislaat
+DTSTART:20260906
+DTEND:20260907
+SUMMARY:Pärnu: Lihula sügislaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lihula-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-10.Kääpa OTT
 DTSTART:20260910
 DTEND:20260911
