@@ -984,6 +984,15 @@ URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-17.Lihula väike omatoodangu laat
+DTSTART:20260617
+DTEND:20260618
+SUMMARY:Pärnu: Lihula väike omatoodangu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lihula-vaike-omatoodangu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-18.Auriga jaaniturg
 DTSTART:20260618
 DTEND:20260619
@@ -1728,6 +1737,24 @@ DTEND:20260705
 SUMMARY:Jõgeva: Kolme Küla Pidu ja Laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kolme-kula-pidu-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-04.Haapsalu-Noarootsi merepäev
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Lääne: Haapsalu-Noarootsi merepäev
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-noarootsi-merepaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2910,6 +2937,15 @@ URL:https://laadakalender.ee/tallinn-food-truck-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-09.Poti Laat
+DTSTART:20260809
+DTEND:20260810
+SUMMARY:Rapla: Poti Laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/poti-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Laine Plaaditurg
 DTSTART:20260809
 DTEND:20260810
@@ -3087,6 +3123,15 @@ DTEND:20260817
 SUMMARY:Harju: Keskturu vanavara turg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/keskturu-vanavara-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-16.Kostivere Mõisapäev
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Harju: Kostivere Mõisapäev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kostivere-moisapaev/
 END:VEVENT
 
 BEGIN:VEVENT
