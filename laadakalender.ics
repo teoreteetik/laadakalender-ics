@@ -1200,6 +1200,15 @@ URL:https://laadakalender.ee/prisma-narva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-20.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-21.Vastseliina Maarahva Laat
 DTSTART:20260621
 DTEND:20260622
@@ -1260,6 +1269,15 @@ DTEND:20260622
 SUMMARY:Ida-Viru: Prisma Narva Laat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/prisma-narva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-21.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260621
+DTEND:20260622
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1758,6 +1776,15 @@ URL:https://laadakalender.ee/haapsalu-noarootsi-merepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-04.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-05.Pärnu Hansapäevad
 DTSTART:20260705
 DTEND:20260706
@@ -1809,6 +1836,24 @@ DTEND:20260706
 SUMMARY:Harju: Eesti tervisemess - näitus ja laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-05.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260705
+DTEND:20260706
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-05.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260705
+DTEND:20260706
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2307,6 +2352,15 @@ URL:https://laadakalender.ee/koeru-antiigi-ja-vanavaralaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-19.Kilingi-Nõmme laat
 DTSTART:20260719
 DTEND:20260720
@@ -2331,6 +2385,15 @@ DTEND:20260720
 SUMMARY:Saare: Viikingite käsitöölaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/viikingite-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-19.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260719
+DTEND:20260720
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2739,6 +2802,15 @@ URL:https://laadakalender.ee/otepaa-kasitoomeistrite-ja-rahvamuusikute-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-02.Vääna-Jõesuu külapäeva laat
+DTSTART:20260802
+DTEND:20260803
+SUMMARY:Harju: Vääna-Jõesuu külapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-joesuu-kulapaevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-06.Kääpa OTT
 DTSTART:20260806
 DTEND:20260807
@@ -2808,6 +2880,15 @@ DTEND:20260808
 SUMMARY:Pärnu: Estonian Grand Prix
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-07.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2916,6 +2997,15 @@ DTEND:20260809
 SUMMARY:Harju: Lauritsapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/lauritsapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Vanamõisa vanakraami ja igasuguse kola turg
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
+LOCATION:Lääne-Virumaa, Estonia
+URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3099,6 +3189,15 @@ URL:https://laadakalender.ee/tuhalaane-rukkimaarjapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-16.Türi viljakuu laat
 DTSTART:20260816
 DTEND:20260817
@@ -3132,6 +3231,15 @@ DTEND:20260817
 SUMMARY:Harju: Kostivere Mõisapäev
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kostivere-moisapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-16.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3360,12 +3468,39 @@ URL:https://laadakalender.ee/elava-tee-fest/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-29.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-29.KopliFest
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Harju: KopliFest
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/koplifest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-30.Valge Daami aeg - käsitöölaat
 DTSTART:20260830
 DTEND:20260831
 SUMMARY:Lääne: Valge Daami aeg - käsitöölaat
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/valge-daami-aeg-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-30.Kiirendusspordi Eesti Meistrivõistlused
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
 END:VEVENT
 
 BEGIN:VEVENT
