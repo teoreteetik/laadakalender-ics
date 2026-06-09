@@ -975,6 +975,15 @@ URL:https://laadakalender.ee/keskturu-vanavara-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-14.Paldiski juunikuu laat
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Harju: Paldiski juunikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-juunikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-17.Mustakivi keskuse laat
 DTSTART:20260617
 DTEND:20260618
@@ -1101,6 +1110,15 @@ URL:https://laadakalender.ee/vastseliina-maarahva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-20.Mustamäe grillpidu ja laat
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Harju: Mustamäe grillpidu ja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-jaanilaat-ja-grillpidu/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-20.Pärnu turu jaanilaat
 DTSTART:20260620
 DTEND:20260621
@@ -1164,10 +1182,10 @@ URL:https://laadakalender.ee/viljandi-taika/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-06-20.Põhja-Tallinna suur jaanilaat
+UID:2026-06-20.Põhja-Tallinna jaanilaat
 DTSTART:20260620
 DTEND:20260621
-SUMMARY:Harju: Põhja-Tallinna suur jaanilaat
+SUMMARY:Harju: Põhja-Tallinna jaanilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohja-tallinna-suur-jaanilaat/
 END:VEVENT
@@ -2073,6 +2091,15 @@ URL:https://laadakalender.ee/voru-parimustantsu-festival-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Võõpsu kalameestepäev
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Põlva: Võõpsu kalameestepäev
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/voopsu-kalameestepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -2784,6 +2811,15 @@ URL:https://laadakalender.ee/vanatehnika-pollupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-01.Märjamaa Suvefest - käsitöölaat
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Rapla: Märjamaa Suvefest - käsitöölaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-suvefest-kasitoolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-02.Vanatehnikalaat Sulle-Mulle
 DTSTART:20260802
 DTEND:20260803
@@ -3195,6 +3231,15 @@ DTEND:20260816
 SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Viimsi veinifestival
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Harju: Viimsi veinifestival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-veinifestival/
 END:VEVENT
 
 BEGIN:VEVENT
