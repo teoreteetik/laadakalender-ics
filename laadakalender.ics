@@ -876,6 +876,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-13.Kristiine Keskuse taluturg
+DTSTART:20260613
+DTEND:20260614
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-14.Rakvere Kreisilaat
 DTSTART:20260614
 DTEND:20260615
@@ -981,6 +990,15 @@ DTEND:20260615
 SUMMARY:Harju: Paldiski juunikuu laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/paldiski-juunikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-14.Kohila jaanikuu laat
+DTSTART:20260614
+DTEND:20260615
+SUMMARY:Rapla: Kohila jaanikuu laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-jaanikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1227,6 +1245,33 @@ URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivois
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-20.Saaremaa EHTNE turupäev
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Saare: Saaremaa EHTNE turupäev
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/saaremaa-ehtne-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Kristiine Keskuse taluturg
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-20.Jaanilaat Haapsalu turul
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Lääne: Jaanilaat Haapsalu turul
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-jaanilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-21.Vastseliina Maarahva Laat
 DTSTART:20260621
 DTEND:20260622
@@ -1341,6 +1386,25 @@ DTEND:20260623
 SUMMARY:Rapla: Märjamaa õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-22.Valga jaanilaat
+DTSTART:20260622
+DTEND:20260623
+SUMMARY:Valga: Valga jaanilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-jaanilaat/<br />
+
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-22.Tere Perepäev - Kloogaranna jaanilaat
+DTSTART:20260622
+DTEND:20260623
+SUMMARY:Harju: Tere Perepäev - Kloogaranna jaanilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kloogaranna-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1548,6 +1612,15 @@ DTEND:20260628
 SUMMARY:Põlva: Prangli südasuve festival
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/prangli-sudasuve-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-27.Kristiine Keskuse taluturg
+DTSTART:20260627
+DTEND:20260628
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1875,6 +1948,24 @@ URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivois
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-07.Maardu Prisma laat
+DTSTART:20260707
+DTEND:20260708
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-08.Maardu Prisma laat
+DTSTART:20260708
+DTEND:20260709
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-09.Kääpa OTT
 DTSTART:20260709
 DTEND:20260710
@@ -2100,6 +2191,15 @@ URL:https://laadakalender.ee/voopsu-kalameestepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Loksa juulilaat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Harju: Loksa juulilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-juulilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -2253,6 +2353,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-17.Pärnu juulikuulaat
+DTSTART:20260717
+DTEND:20260718
+SUMMARY:Pärnu: Pärnu juulikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-juulikuulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-18.Jäneda Talupäevad
 DTSTART:20260718
 DTEND:20260719
@@ -2388,6 +2497,15 @@ URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Pärnu juulikuulaat
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Pärnu: Pärnu juulikuulaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-juulikuulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-19.Kilingi-Nõmme laat
 DTSTART:20260719
 DTEND:20260720
@@ -2502,6 +2620,15 @@ DTEND:20260725
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Narva Prisma suvelaat
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2649,6 +2776,15 @@ URL:https://laadakalender.ee/reiu-rehetalu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-25.Narva Prisma suvelaat
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-26.Avatud Talude Päev
 DTSTART:20260726
 DTEND:20260727
@@ -2682,6 +2818,15 @@ DTEND:20260727
 SUMMARY:Võru: Jakapäävä laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/jakapaava-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-26.Narva Prisma suvelaat
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3144,6 +3289,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-14.Pärnu augustikuu laat
+DTSTART:20260814
+DTEND:20260815
+SUMMARY:Pärnu: Pärnu augustikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-15.Vanamõisa suvelõpulaat / Vanamõisa FEST
 DTSTART:20260815
 DTEND:20260816
@@ -3240,6 +3394,15 @@ DTEND:20260816
 SUMMARY:Harju: Viimsi veinifestival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/viimsi-veinifestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Pärnu augustikuu laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Pärnu: Pärnu augustikuu laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/parnu-augustikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
