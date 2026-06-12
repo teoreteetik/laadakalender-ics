@@ -2848,6 +2848,15 @@ URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-31.Tõrva suvelaat
+DTSTART:20260731
+DTEND:20260801
+SUMMARY:Valga: Tõrva suvelaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/torva-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-31.Kuusalu OTT
 DTSTART:20260731
 DTEND:20260801
@@ -2902,12 +2911,30 @@ URL:https://laadakalender.ee/parnu-maitsete-uulits/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-01.Tõrva suvelaat
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Valga: Tõrva suvelaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/torva-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-01.Rapla viljakuu laat
 DTSTART:20260801
 DTEND:20260802
 SUMMARY:Rapla: Rapla viljakuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/rapla-viljakuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-01.Mõisaküla kodukandipäevade laat
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Viljandi: Mõisaküla kodukandipäevade laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/moisakula-kodukandilaat/
 END:VEVENT
 
 BEGIN:VEVENT
