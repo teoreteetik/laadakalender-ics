@@ -1876,6 +1876,15 @@ URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivois
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-04.Mammaste Retrolaat
+DTSTART:20260704
+DTEND:20260705
+SUMMARY:Põlva: Mammaste Retrolaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mammaste-retrolaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-05.Pärnu Hansapäevad
 DTSTART:20260705
 DTEND:20260706
@@ -2197,6 +2206,15 @@ DTEND:20260712
 SUMMARY:Harju: Loksa juulilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/loksa-juulilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-11.Uduvere kodukraami laat
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Pärnu: Uduvere kodukraami laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/uduvere-kodukraami-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3808,6 +3826,15 @@ DTEND:20260906
 SUMMARY:Saare: Saaremaa Toidufestival - sügislaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/saaremaa-toidufestival-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-05.Ülenurme Sügislaat ja Tõuloom
+DTSTART:20260905
+DTEND:20260906
+SUMMARY:Tartu: Ülenurme Sügislaat ja Tõuloom
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/ulenurme-sugislaat-ja-touloom/
 END:VEVENT
 
 BEGIN:VEVENT
