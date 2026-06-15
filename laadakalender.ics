@@ -1191,6 +1191,15 @@ URL:https://laadakalender.ee/abja-paluoja-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-06-20.Kohtla-Järve linnapäevade laat
+DTSTART:20260620
+DTEND:20260621
+SUMMARY:Ida-Viru: Kohtla-Järve linnapäevade laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-linnapaevad-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-06-20.Viljandi täika
 DTSTART:20260620
 DTEND:20260621
@@ -1394,8 +1403,7 @@ DTSTART:20260622
 DTEND:20260623
 SUMMARY:Valga: Valga jaanilaat
 LOCATION:Valgamaa, Estonia
-URL:https://laadakalender.ee/valga-jaanilaat/<br />
-
+URL:https://laadakalender.ee/valga-jaanilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1648,6 +1656,24 @@ DTEND:20260629
 SUMMARY:Pärnu: Pärnumaa meepäevad
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnumaa-meepaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-28.Antsla suvelaat
+DTSTART:20260628
+DTEND:20260629
+SUMMARY:Võru: Antsla suvelaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-06-28.Kallaste laat
+DTSTART:20260628
+DTEND:20260629
+SUMMARY:Tartu: Kallaste laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2560,6 +2586,15 @@ URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-23.Väike käsitöö- ja toiduturg
+DTSTART:20260723
+DTEND:20260724
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-23.Auriga suvepäevade turg
 DTSTART:20260723
 DTEND:20260724
@@ -2602,6 +2637,15 @@ DTEND:20260725
 SUMMARY:Järva: Kesk-Eesti suvelaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-24.Väike käsitöö- ja toiduturg
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2683,6 +2727,15 @@ DTEND:20260726
 SUMMARY:Hiiu: Hiiumaa kila-kola laat
 LOCATION:Hiiumaa, Estonia
 URL:https://laadakalender.ee/hiiumaa-kila-kola-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-25.Väike käsitöö- ja toiduturg
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2827,6 +2880,15 @@ DTEND:20260727
 SUMMARY:Harju: Põhjala tehase antiigi ja vanavara laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pohjala-tehase-antiigi-vanavara-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-26.Väike käsitöö- ja toiduturg
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Viljandi: Väike käsitöö- ja toiduturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vaike-kasitoo-ja-toiduturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3739,6 +3801,15 @@ URL:https://laadakalender.ee/koplifest/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-29.Trükikunstifestival PRESSFEST trükilaat
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Tartu: Trükikunstifestival PRESSFEST trükilaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/trukikunstifestival-pressfest/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-30.Valge Daami aeg - käsitöölaat
 DTSTART:20260830
 DTEND:20260831
@@ -4099,6 +4170,15 @@ URL:https://laadakalender.ee/keskturu-vanavara-turg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-13.Liiva Laat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Harju: Liiva Laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/liiva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-17.Kääpa OTT
 DTSTART:20260917
 DTEND:20260918
@@ -4312,6 +4392,15 @@ DTEND:20260927
 SUMMARY:Tartu: Elva mihklilaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/elva-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-26.Jõhvi Mihklilaat
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Ida-Viru: Jõhvi Mihklilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/johvi-mihklilaat/
 END:VEVENT
 
 BEGIN:VEVENT
