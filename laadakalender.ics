@@ -1713,6 +1713,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-02.Türi OTT
+DTSTART:20260702
+DTEND:20260703
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-03.Õllesummer
 DTSTART:20260703
 DTEND:20260704
@@ -2025,6 +2034,15 @@ DTEND:20260710
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-09.Türi OTT
+DTSTART:20260709
+DTEND:20260710
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2406,6 +2424,15 @@ URL:https://laadakalender.ee/kaapa-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-16.Türi OTT
+DTSTART:20260716
+DTEND:20260717
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-17.Saare Laat
 DTSTART:20260717
 DTEND:20260718
@@ -2664,6 +2691,15 @@ DTEND:20260724
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-23.Türi OTT
+DTSTART:20260723
+DTEND:20260724
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2970,6 +3006,15 @@ DTEND:20260731
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-30.Türi OTT
+DTSTART:20260730
+DTEND:20260731
+SUMMARY:Järva: Türi OTT
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3582,6 +3627,15 @@ DTEND:20260816
 SUMMARY:Pärnu: Pärnu augustikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Rakke päev ja laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Lääne-Viru: Rakke päev ja laat
+LOCATION:Lääne-Virumaa, Estonia
+URL:
 END:VEVENT
 
 BEGIN:VEVENT
