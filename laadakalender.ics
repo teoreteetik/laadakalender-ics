@@ -1947,12 +1947,12 @@ URL:https://laadakalender.ee/paldiski-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-08.Peetri laat
+UID:2026-08-08.Peetri laadapäev
 DTSTART:20260808
 DTEND:20260809
-SUMMARY:Harju: Peetri laat
+SUMMARY:Harju: Peetri laadapäev
 LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/peetri-laat/
+URL:https://laadakalender.ee/peetri-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
