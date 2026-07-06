@@ -255,15 +255,6 @@ URL:https://laadakalender.ee/kolme-kula-pidu-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-04.Vanamõisa vanakraami ja igasuguse kola turg
-DTSTART:20260704
-DTEND:20260705
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-07-04.Haapsalu-Noarootsi merepäev
 DTSTART:20260704
 DTEND:20260705
@@ -351,15 +342,6 @@ DTEND:20260706
 SUMMARY:Harju: Eestimaa Võimlemispidu "Maaelu võlu" laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-tervisemess-liikuma/maaelu-ala-naitus-ja-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-05.Vanamõisa vanakraami ja igasuguse kola turg
-DTSTART:20260705
-DTEND:20260706
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -750,6 +732,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Kristiine Keskuse taluturg
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -1110,15 +1101,6 @@ URL:https://laadakalender.ee/koeru-antiigi-ja-vanavaralaat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-18.Vanamõisa vanakraami ja igasuguse kola turg
-DTSTART:20260718
-DTEND:20260719
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-07-18.Pärnu juulikuulaat
 DTSTART:20260718
 DTEND:20260719
@@ -1155,6 +1137,15 @@ URL:https://laadakalender.ee/luunja-laadapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Kristiine Keskuse taluturg
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-19.Kilingi-Nõmme laat
 DTSTART:20260719
 DTEND:20260720
@@ -1179,15 +1170,6 @@ DTEND:20260720
 SUMMARY:Saare: Viikingite käsitöölaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/viikingite-kasitoolaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-07-19.Vanamõisa vanakraami ja igasuguse kola turg
-DTSTART:20260719
-DTEND:20260720
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1515,6 +1497,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-25.Kristiine Keskuse taluturg
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-26.Avatud Talude Päev
 DTSTART:20260726
 DTEND:20260727
@@ -1839,15 +1830,6 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-07.Vanamõisa vanakraami ja igasuguse kola turg
-DTSTART:20260807
-DTEND:20260808
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-08-08.Hauka Laat
 DTSTART:20260808
 DTEND:20260809
@@ -1965,12 +1947,12 @@ URL:https://laadakalender.ee/lauritsapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-08.Vanamõisa vanakraami ja igasuguse kola turg
+UID:2026-08-08.SADA Sadalas Festival
 DTSTART:20260808
 DTEND:20260809
-SUMMARY:Lääne-Viru: Vanamõisa vanakraami ja igasuguse kola turg
-LOCATION:Lääne-Virumaa, Estonia
-URL:https://laadakalender.ee/vanamoisa-vanakraami-turg/
+SUMMARY:Jõgeva: SADA Sadalas Festival
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/sada-sadalas-festival/
 END:VEVENT
 
 BEGIN:VEVENT
