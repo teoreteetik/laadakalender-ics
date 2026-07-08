@@ -741,6 +741,15 @@ URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Noarootsi kodukandipäevad - vanakraamiturg
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Lääne: Noarootsi kodukandipäevad - vanakraamiturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/noarootsi-kodukandipaevad-vanakraamiturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -966,6 +975,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-17.Valga suvelaat
+DTSTART:20260717
+DTEND:20260718
+SUMMARY:Valga: Valga suvelaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/valga-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-18.Jäneda Talupäevad
 DTSTART:20260718
 DTEND:20260719
@@ -1188,6 +1206,15 @@ DTEND:20260720
 SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-19.Kallaste suvelaat
+DTSTART:20260719
+DTEND:20260720
+SUMMARY:Tartu: Kallaste suvelaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1506,6 +1533,15 @@ URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-25.Pilistvere külapäeva laat
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Viljandi: Pilistvere külapäeva laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-26.Avatud Talude Päev
 DTSTART:20260726
 DTEND:20260727
@@ -1557,6 +1593,15 @@ DTEND:20260727
 SUMMARY:Ida-Viru: Narva Prisma suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-26.Valgehobusemäe Hobufestival
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Järva: Valgehobusemäe Hobufestival
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/valgehobusemae-hobufestival/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1953,6 +1998,24 @@ DTEND:20260809
 SUMMARY:Jõgeva: SADA Sadalas Festival
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/sada-sadalas-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Kambja valla "Avatud Aiad"
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Tartu: Kambja valla "Avatud Aiad"
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kambja-valla-avatud-aiad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Vigala kirbukas
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Rapla: Vigala kirbukas
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3132,6 +3195,15 @@ DTEND:20260927
 SUMMARY:Ida-Viru: Jõhvi Mihklilaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/johvi-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-26.Arsenali Õunafestival
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Harju: Arsenali Õunafestival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/arsenali-ounafestival/
 END:VEVENT
 
 BEGIN:VEVENT
