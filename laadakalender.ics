@@ -750,6 +750,15 @@ URL:https://laadakalender.ee/noarootsi-kodukandipaevad-vanakraamiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-11.Saaremaa EHTNE turupäev
+DTSTART:20260711
+DTEND:20260712
+SUMMARY:Saare: Saaremaa EHTNE turupäev
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/saaremaa-ehtne-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-12.Tartu Hansalaat
 DTSTART:20260712
 DTEND:20260713
@@ -1101,12 +1110,12 @@ URL:https://laadakalender.ee/jakob-hurda-rahvustoidufestival/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-18.Viikingite käsitöölaat
+UID:2026-07-18.Asva linnusepäevad ja laat
 DTSTART:20260718
 DTEND:20260719
-SUMMARY:Saare: Viikingite käsitöölaat
+SUMMARY:Saare: Asva linnusepäevad ja laat
 LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/viikingite-kasitoolaat/
+URL:https://laadakalender.ee/asva-linnusepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1182,12 +1191,12 @@ URL:https://laadakalender.ee/rapina-sudasuve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-07-19.Viikingite käsitöölaat
+UID:2026-07-19.Asva linnusepäevad ja laat
 DTSTART:20260719
 DTEND:20260720
-SUMMARY:Saare: Viikingite käsitöölaat
+SUMMARY:Saare: Asva linnusepäevad ja laat
 LOCATION:Saaremaa, Estonia
-URL:https://laadakalender.ee/viikingite-kasitoolaat/
+URL:https://laadakalender.ee/asva-linnusepaevad/
 END:VEVENT
 
 BEGIN:VEVENT
