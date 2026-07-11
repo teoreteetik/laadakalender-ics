@@ -1353,6 +1353,15 @@ URL:https://laadakalender.ee/narva-prisma-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-24.Võru suvelaat
+DTSTART:20260724
+DTEND:20260725
+SUMMARY:Võru: Võru suvelaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-25.Avatud Talude Päev
 DTSTART:20260725
 DTEND:20260726
@@ -2271,6 +2280,15 @@ URL:
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Karilatsi vabaõhulaat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Põlva: Karilatsi vabaõhulaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/karilatsi-vabaohulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-16.Türi viljakuu laat
 DTSTART:20260816
 DTEND:20260817
@@ -2727,6 +2745,24 @@ DTEND:20260906
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-05.Võrtsjärve angerjafestival
+DTSTART:20260905
+DTEND:20260906
+SUMMARY:Viljandi: Võrtsjärve angerjafestival
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/vortsjarve-angerjafestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-05.Jõhvi lennupäev
+DTSTART:20260905
+DTEND:20260906
+SUMMARY:Ida-Viru: Jõhvi lennupäev
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/johvi-lennupaev/
 END:VEVENT
 
 BEGIN:VEVENT
