@@ -1623,6 +1623,15 @@ URL:https://laadakalender.ee/valgehobusemae-hobufestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-26.Kose juulilaat
+DTSTART:20260726
+DTEND:20260727
+SUMMARY:Harju: Kose juulilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-juulilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-30.Kääpa OTT
 DTSTART:20260730
 DTEND:20260731
@@ -1818,6 +1827,15 @@ DTEND:20260803
 SUMMARY:Harju: Vääna-Jõesuu külapäeva laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/vaana-joesuu-kulapaevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-02.Räpina rukkikuu laat
+DTSTART:20260802
+DTEND:20260803
+SUMMARY:Põlva: Räpina rukkikuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-rukkikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2334,6 +2352,15 @@ URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivois
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-16.Räpina lõikuskuu laat
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Põlva: Räpina lõikuskuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-19.Sindi taasiseseisvumispäev
 DTSTART:20260819
 DTEND:20260820
@@ -2424,6 +2451,15 @@ URL:https://laadakalender.ee/kesk-eesti-augusti-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-21.Võru vanakraami ja käsitöölaat
+DTSTART:20260821
+DTEND:20260822
+SUMMARY:Võru: Võru vanakraami ja käsitöölaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-22.Lüübnitsa sibula- ja kalalaat
 DTSTART:20260822
 DTEND:20260823
@@ -2484,6 +2520,15 @@ DTEND:20260823
 SUMMARY:Viljandi: Viljandi täika
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/viljandi-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Võru vanakraami ja käsitöölaat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Võru: Võru vanakraami ja käsitöölaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2628,6 +2673,15 @@ DTEND:20260831
 SUMMARY:Lääne: Kiirendusspordi Eesti Meistrivõistlused
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/ghost-performance-kiirendusspordi-eesti-meistrivoistlused/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-30.Räpina suvelõpu laat
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Põlva: Räpina suvelõpu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-suvelopu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3014,7 +3068,16 @@ DTSTART:20260913
 DTEND:20260914
 SUMMARY:Rapla: Kohila sügisandide laat
 LOCATION:Raplamaa, Estonia
-URL:
+URL:https://laadakalender.ee/kohila-sugisandide-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-13.Räpina sügiskuu laat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Põlva: Räpina sügiskuu laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3249,6 +3312,15 @@ DTEND:20260927
 SUMMARY:Harju: Arsenali Õunafestival
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/arsenali-ounafestival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-27.Räpina mihklilaat
+DTSTART:20260927
+DTEND:20260928
+SUMMARY:Põlva: Räpina mihklilaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/rapina-mihklilaat/
 END:VEVENT
 
 BEGIN:VEVENT
