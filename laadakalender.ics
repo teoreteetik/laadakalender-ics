@@ -1173,6 +1173,15 @@ URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-18.Aparaaditehase turupäev - nostalgialaat
+DTSTART:20260718
+DTEND:20260719
+SUMMARY:Tartu: Aparaaditehase turupäev - nostalgialaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/aparaaditehase-turupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-19.Kilingi-Nõmme laat
 DTSTART:20260719
 DTEND:20260720
@@ -1224,6 +1233,15 @@ DTEND:20260720
 SUMMARY:Tartu: Kallaste suvelaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/kallaste-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-19.Paldiski juulikuu laat
+DTSTART:20260719
+DTEND:20260720
+SUMMARY:Harju: Paldiski juulikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-juulikuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1803,6 +1821,15 @@ URL:https://laadakalender.ee/marjamaa-suvefest-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-01.Tomatipäev
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Jõgeva: Tomatipäev
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/tomatipaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-02.Vanatehnikalaat Sulle-Mulle
 DTSTART:20260802
 DTEND:20260803
@@ -2109,6 +2136,24 @@ URL:https://laadakalender.ee/kohila-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-11.Maardu Prisma laat
+DTSTART:20260811
+DTEND:20260812
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-12.Maardu Prisma laat
+DTSTART:20260812
+DTEND:20260813
+SUMMARY:Harju: Maardu Prisma laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-13.Auriga augustipäevade turg
 DTSTART:20260813
 DTEND:20260814
@@ -2294,7 +2339,7 @@ DTSTART:20260815
 DTEND:20260816
 SUMMARY:Lääne-Viru: Rakke päev ja laat
 LOCATION:Lääne-Virumaa, Estonia
-URL:
+URL:https://laadakalender.ee/rakke-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2304,6 +2349,24 @@ DTEND:20260816
 SUMMARY:Põlva: Karilatsi vabaõhulaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/karilatsi-vabaohulaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Hiiu Kala ja Õlle Festival
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Hiiu: Hiiu Kala ja Õlle Festival
+LOCATION:Hiiumaa, Estonia
+URL:https://laadakalender.ee/hiiu-kala-ja-olle-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-16.Põhja-Tallinna suvelaat
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Harju: Põhja-Tallinna suvelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-suur-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2568,6 +2631,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-28.Narva Prisma suvelaat
+DTSTART:20260828
+DTEND:20260829
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-29.Kallaste kala- ja sibulalaat
 DTSTART:20260829
 DTEND:20260830
@@ -2658,6 +2730,24 @@ URL:https://laadakalender.ee/trukikunstifestival-pressfest/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-29.Aparaaditehase festival
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Tartu: Aparaaditehase festival
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/aparaaditehase-festival/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-29.Narva Prisma suvelaat
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-30.Valge Daami aeg - käsitöölaat
 DTSTART:20260830
 DTEND:20260831
@@ -2682,6 +2772,15 @@ DTEND:20260831
 SUMMARY:Põlva: Räpina suvelõpu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-suvelopu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-30.Narva Prisma suvelaat
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Ida-Viru: Narva Prisma suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-prisma-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2991,6 +3090,15 @@ URL:https://laadakalender.ee/kogukonnafestival-ja-uma-mekk-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-12.Haiba sügislaat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Harju: Haiba sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/haiba-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-13.MOTOSHOW – auto- ja tehnikamess
 DTSTART:20260913
 DTEND:20260914
@@ -3078,6 +3186,15 @@ DTEND:20260914
 SUMMARY:Põlva: Räpina sügiskuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-13.Rogosi mõisa sügislaat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Võru: Rogosi mõisa sügislaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/rogosi-moisa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
