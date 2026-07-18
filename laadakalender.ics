@@ -876,6 +876,15 @@ URL:https://laadakalender.ee/laiusekandi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-12.Narva-Jõesuu Kalurite päeva laat
+DTSTART:20260712
+DTEND:20260713
+SUMMARY:Ida-Viru: Narva-Jõesuu Kalurite päeva laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-joesuu-kalurite-paev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-14.Piimapäev
 DTSTART:20260714
 DTEND:20260715
@@ -2082,6 +2091,24 @@ URL:https://laadakalender.ee/vigala-kirbukas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Narva-Jõesuu linnapäeva laat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Ida-Viru: Narva-Jõesuu linnapäeva laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/narva-joesuu-linnapaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Maarja-Magdaleena kohvikutepäeva laat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Tartu: Maarja-Magdaleena kohvikutepäeva laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/maarja-magdaleena-kohvikutepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
@@ -2595,6 +2622,15 @@ URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Karksi-Nuia lõikuskuu laat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Viljandi: Karksi-Nuia lõikuskuu laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-nuia-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-27.Kääpa OTT
 DTSTART:20260827
 DTEND:20260828
@@ -2916,6 +2952,15 @@ DTEND:20260906
 SUMMARY:Ida-Viru: Jõhvi lennupäev
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/johvi-lennupaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-05.Karksi Meefestival
+DTSTART:20260905
+DTEND:20260906
+SUMMARY:Viljandi: Karksi Meefestival
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/karksi-meefestival/
 END:VEVENT
 
 BEGIN:VEVENT
