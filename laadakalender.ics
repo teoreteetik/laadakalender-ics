@@ -2145,6 +2145,15 @@ URL:https://laadakalender.ee/vaana-kulapaeva-kasitoolaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Saekaatri Suvelaat
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Jõgeva: Saekaatri Suvelaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/saekaatri-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
@@ -2433,6 +2442,24 @@ URL:https://laadakalender.ee/hiiu-kala-ja-olle-festival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Loksa linnapäeva laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Harju: Loksa linnapäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/loksa-linnapaeva-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Varbola suvelõpulaat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Rapla: Varbola suvelõpulaat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-suvelopulaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-16.Põhja-Tallinna suvelaat
 DTSTART:20260816
 DTEND:20260817
@@ -2493,6 +2520,15 @@ DTEND:20260817
 SUMMARY:Põlva: Räpina lõikuskuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-16.Mammaste Retrolaat
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Põlva: Mammaste Retrolaat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/mammaste-retrolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2673,6 +2709,15 @@ DTEND:20260823
 SUMMARY:Viljandi: Karksi-Nuia lõikuskuu laat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/karksi-nuia-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Võru Linnapäevade Laat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Võru: Võru Linnapäevade Laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-linnapaevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
