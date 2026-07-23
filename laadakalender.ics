@@ -1587,6 +1587,15 @@ URL:https://laadakalender.ee/pilistvere-kulapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-25.Valkla kirbuturg
+DTSTART:20260725
+DTEND:20260726
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-26.Avatud Talude Päev
 DTSTART:20260726
 DTEND:20260727
@@ -1845,6 +1854,15 @@ DTEND:20260802
 SUMMARY:Jõgeva: Tomatipäev
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/tomatipaev/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-01.Sporditäika
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Tartu: Sporditäika
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/sporditaika/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3567,6 +3585,15 @@ URL:https://laadakalender.ee/arsenali-ounafestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-26.Sulbi mihklilaat
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Võru: Sulbi mihklilaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/sulbi-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-27.Räpina mihklilaat
 DTSTART:20260927
 DTEND:20260928
@@ -4314,12 +4341,30 @@ URL:https://laadakalender.ee/auriga-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-21.Jõulukingituste Maja
+DTSTART:20261221
+DTEND:20261222
+SUMMARY:Harju: Jõulukingituste Maja
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/joulukingituste-maja/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-22.Auriga jõuluturg
 DTSTART:20261222
 DTEND:20261223
 SUMMARY:Saare: Auriga jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-22.Jõulukingituste Maja
+DTSTART:20261222
+DTEND:20261223
+SUMMARY:Harju: Jõulukingituste Maja
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/joulukingituste-maja/
 END:VEVENT
 
 BEGIN:VEVENT
