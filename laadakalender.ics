@@ -1740,6 +1740,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-31.Mööblimaja Keskuse tänavaturg-laat
+DTSTART:20260731
+DTEND:20260801
+SUMMARY:Harju: Mööblimaja Keskuse tänavaturg-laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mooblimaja-keskuse-tanavaturg-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-01.Luige vanavara- ja käsitöölaat
 DTSTART:20260801
 DTEND:20260802
@@ -1899,6 +1908,15 @@ DTEND:20260803
 SUMMARY:Põlva: Räpina rukkikuu laat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-rukkikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-02.Kallaste laat
+DTSTART:20260802
+DTEND:20260803
+SUMMARY:Tartu: Kallaste laat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2235,6 +2253,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-09.Kiviõli suvelaat
+DTSTART:20260809
+DTEND:20260810
+SUMMARY:Ida-Viru: Kiviõli suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-11.Maardu Prisma laat
 DTSTART:20260811
 DTEND:20260812
@@ -2322,6 +2349,15 @@ DTEND:20260815
 SUMMARY:Pärnu: Pärnu augustikuu laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-14.Mööblimaja Keskuse tänavaturg-laat
+DTSTART:20260814
+DTEND:20260815
+SUMMARY:Harju: Mööblimaja Keskuse tänavaturg-laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mooblimaja-keskuse-tanavaturg-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2781,6 +2817,15 @@ DTEND:20260829
 SUMMARY:Ida-Viru: Narva Prisma suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-28.Mööblimaja Keskuse tänavaturg-laat
+DTSTART:20260828
+DTEND:20260829
+SUMMARY:Harju: Mööblimaja Keskuse tänavaturg-laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mooblimaja-keskuse-tanavaturg-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3351,6 +3396,15 @@ URL:https://laadakalender.ee/rogosi-moisa-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-13.Kiviõli sügislaat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Ida-Viru: Kiviõli sügislaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-17.Kääpa OTT
 DTSTART:20260917
 DTEND:20260918
@@ -3456,6 +3510,15 @@ DTEND:20260921
 SUMMARY:Harju: Kunstimess Foto Tallinn
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/foto-tallinn-kunstimess/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-20.Lavassaare sügislaat
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Pärnu: Lavassaare sügislaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/lavassaare-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
