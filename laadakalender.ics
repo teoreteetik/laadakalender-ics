@@ -2262,6 +2262,15 @@ URL:https://laadakalender.ee/kivioli-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-09.Suurupi tuletornipäeva vanavara ja käsitöö laat
+DTSTART:20260809
+DTEND:20260810
+SUMMARY:Harju: Suurupi tuletornipäeva vanavara ja käsitöö laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suurupi-vanavara-kasitoo-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-11.Maardu Prisma laat
 DTSTART:20260811
 DTEND:20260812
