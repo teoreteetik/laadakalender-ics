@@ -2676,15 +2676,6 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-21.Kesk-Eesti augusti laat
-DTSTART:20260821
-DTEND:20260822
-SUMMARY:Järva: Kesk-Eesti augusti laat
-LOCATION:Järvamaa, Estonia
-URL:https://laadakalender.ee/kesk-eesti-augusti-laat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-08-21.Võru vanakraami ja käsitöölaat
 DTSTART:20260821
 DTEND:20260822
@@ -2781,6 +2772,15 @@ DTEND:20260823
 SUMMARY:Võru: Võru Linnapäevade Laat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/voru-linnapaevade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-23.Kesk-Eesti augusti laat
+DTSTART:20260823
+DTEND:20260824
+SUMMARY:Järva: Kesk-Eesti augusti laat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/kesk-eesti-augusti-laat/
 END:VEVENT
 
 BEGIN:VEVENT
