@@ -1920,12 +1920,30 @@ URL:https://laadakalender.ee/kallaste-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-05.Märjamaa õhtuturg
+DTSTART:20260805
+DTEND:20260806
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-06.Kääpa OTT
 DTSTART:20260806
 DTEND:20260807
 SUMMARY:Jõgeva: Kääpa OTT
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/kaapa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-06.Ahtme suvelaat
+DTSTART:20260806
+DTEND:20260807
+SUMMARY:Ida-Viru: Ahtme suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1992,12 +2010,12 @@ URL:https://laadakalender.ee/estonian-grand-prix-suur-voidusoit/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-07.Kohtla-Järve suvelaat
+UID:2026-08-07.Ahtme suvelaat
 DTSTART:20260807
 DTEND:20260808
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+SUMMARY:Ida-Viru: Ahtme suvelaat
 LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
+URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2163,15 +2181,6 @@ URL:https://laadakalender.ee/maarja-magdaleena-kohvikutepaev/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-08.Kohtla-Järve suvelaat
-DTSTART:20260808
-DTEND:20260809
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-08-08.Vääna külapäeva käsitöölaat
 DTSTART:20260808
 DTEND:20260809
@@ -2187,6 +2196,15 @@ DTEND:20260809
 SUMMARY:Jõgeva: Saekaatri Suvelaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/saekaatri-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-08.Turba OTT
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2241,15 +2259,6 @@ DTEND:20260810
 SUMMARY:Rapla: Kohila lõikuskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-loikuskuu-laat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-08-09.Kohtla-Järve suvelaat
-DTSTART:20260809
-DTEND:20260810
-SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
-LOCATION:Ida-Virumaa, Estonia
-URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2367,6 +2376,15 @@ DTEND:20260815
 SUMMARY:Harju: Mööblimaja Keskuse tänavaturg-laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mooblimaja-keskuse-tanavaturg-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-14.Kohtla-Järve suvelaat
+DTSTART:20260814
+DTEND:20260815
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2523,6 +2541,24 @@ URL:https://laadakalender.ee/varbola-suvelopulaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-15.Kohtla-Järve suvelaat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Paide augustilaat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Järva: Paide augustilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-augustilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-16.Põhja-Tallinna suvelaat
 DTSTART:20260816
 DTEND:20260817
@@ -2592,6 +2628,15 @@ DTEND:20260817
 SUMMARY:Põlva: Mammaste Retrolaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/mammaste-retrolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-16.Kohtla-Järve suvelaat
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Ida-Viru: Kohtla-Järve suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2685,6 +2730,15 @@ URL:https://laadakalender.ee/voru-vanakraami-ja-kasitoo-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-21.Sillamäe suvelaat
+DTSTART:20260821
+DTEND:20260822
+SUMMARY:Ida-Viru: Sillamäe suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/sillamae-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-22.Lüübnitsa sibula- ja kalalaat
 DTSTART:20260822
 DTEND:20260823
@@ -2775,12 +2829,39 @@ URL:https://laadakalender.ee/voru-linnapaevade-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Sillamäe suvelaat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Ida-Viru: Sillamäe suvelaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/sillamae-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Turba OTT
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Harju: Turba OTT
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-23.Kesk-Eesti augusti laat
 DTSTART:20260823
 DTEND:20260824
 SUMMARY:Järva: Kesk-Eesti augusti laat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/kesk-eesti-augusti-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-26.Märjamaa õhtuturg
+DTSTART:20260826
+DTEND:20260827
+SUMMARY:Rapla: Märjamaa õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2979,6 +3060,15 @@ DTEND:20260831
 SUMMARY:Ida-Viru: Narva Prisma suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-02.Varbola õhtuturg
+DTSTART:20260902
+DTEND:20260903
+SUMMARY:Rapla: Varbola õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3411,6 +3501,15 @@ DTEND:20260914
 SUMMARY:Ida-Viru: Kiviõli sügislaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kivioli-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-16.Varbola õhtuturg
+DTSTART:20260916
+DTEND:20260917
+SUMMARY:Rapla: Varbola õhtuturg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/varbola-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
