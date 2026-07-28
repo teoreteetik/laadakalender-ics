@@ -1947,6 +1947,15 @@ URL:https://laadakalender.ee/ahtme-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-06.Põltsamaa turutänava laadapäevad
+DTSTART:20260806
+DTEND:20260807
+SUMMARY:Põltsa: Põltsamaa turutänava laadapäevad
+LOCATION:Põltsamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-07.Kuusalu OTT
 DTSTART:20260807
 DTEND:20260808
@@ -2016,6 +2025,15 @@ DTEND:20260808
 SUMMARY:Ida-Viru: Ahtme suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/ahtme-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-07.Põltsamaa turutänava laadapäevad
+DTSTART:20260807
+DTEND:20260808
+SUMMARY:Põltsa: Põltsamaa turutänava laadapäevad
+LOCATION:Põltsamaa, Estonia
+URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2208,6 +2226,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Kuusalu Mini Tšillifestival
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Harju: Kuusalu Mini Tšillifestival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kuusalu-mini-tsillifestival/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
@@ -2295,6 +2322,15 @@ DTEND:20260813
 SUMMARY:Harju: Maardu Prisma laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/maardu-prisma-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-12.Mustakivi keskuse laat
+DTSTART:20260812
+DTEND:20260813
+SUMMARY:Harju: Mustakivi keskuse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustakivi-keskuse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2556,6 +2592,15 @@ DTEND:20260816
 SUMMARY:Järva: Paide augustilaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/paide-augustilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-15.Lasnamäe A1000 Marketi tänavaturg-laat
+DTSTART:20260815
+DTEND:20260816
+SUMMARY:Harju: Lasnamäe A1000 Marketi tänavaturg-laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-tanavaturg-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2844,6 +2889,15 @@ DTEND:20260823
 SUMMARY:Harju: Turba OTT
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/turba-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Vatla Mõisapäev
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Pärnu: Vatla Mõisapäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vatla-moisapaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3630,6 +3684,15 @@ URL:https://laadakalender.ee/lavassaare-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-20.Eesti leiva päev ja sügislaat
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Harju: Eesti leiva päev ja sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/eesti-leiva-paev-ja-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-23.Tallinna Toidumess - Food Fair
 DTSTART:20260923
 DTEND:20260924
@@ -3771,6 +3834,15 @@ DTEND:20260928
 SUMMARY:Põlva: Räpina mihklilaat
 LOCATION:Põlvamaa, Estonia
 URL:https://laadakalender.ee/rapina-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-27.Hanila Maapäev - mihklipäeva laat
+DTSTART:20260927
+DTEND:20260928
+SUMMARY:Pärnu: Hanila Maapäev - mihklipäeva laat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/hanila-maapaev-ja-mihklipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
