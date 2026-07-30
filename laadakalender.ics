@@ -1695,6 +1695,15 @@ URL:https://laadakalender.ee/turi-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-07-30.Kohtla-Järve laat
+DTSTART:20260730
+DTEND:20260731
+SUMMARY:Ida-Viru: Kohtla-Järve laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-07-31.Pärnu Maitsete Uulits
 DTSTART:20260731
 DTEND:20260801
@@ -1746,6 +1755,15 @@ DTEND:20260801
 SUMMARY:Harju: Mööblimaja Keskuse tänavaturg-laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/mooblimaja-keskuse-tanavaturg-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-07-31.Kohtla-Järve laat
+DTSTART:20260731
+DTEND:20260801
+SUMMARY:Ida-Viru: Kohtla-Järve laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1872,6 +1890,15 @@ DTEND:20260802
 SUMMARY:Tartu: Sporditäika
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/sporditaika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-01.Kohtla-Järve laat
+DTSTART:20260801
+DTEND:20260802
+SUMMARY:Ida-Viru: Kohtla-Järve laat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kohtla-jarve-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2235,6 +2262,15 @@ URL:https://laadakalender.ee/kuusalu-mini-tsillifestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-08.Tõstamaa osavallapäevade laadahommik
+DTSTART:20260808
+DTEND:20260809
+SUMMARY:Pärnu: Tõstamaa osavallapäevade laadahommik
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/tostamaa-osavallapaevade-turuhommik/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-09.Hauka Laat
 DTSTART:20260809
 DTEND:20260810
@@ -2277,15 +2313,6 @@ DTEND:20260810
 SUMMARY:Lääne-Viru: Simuna Perepäev ja laat
 LOCATION:Lääne-Virumaa, Estonia
 URL:https://laadakalender.ee/simuna-perepaev-ja-kasitoo-ja-talukaubalaat/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-08-09.Kohila lõikuskuu laat
-DTSTART:20260809
-DTEND:20260810
-SUMMARY:Rapla: Kohila lõikuskuu laat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/kohila-loikuskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2727,6 +2754,15 @@ DTEND:20260821
 SUMMARY:Rapla: Märjamaa Laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-20.Ääsmäe pirukafestival
+DTSTART:20260820
+DTEND:20260821
+SUMMARY:Harju: Ääsmäe pirukafestival
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/aasmae-pirukafest/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3447,6 +3483,15 @@ DTEND:20260913
 SUMMARY:Harju: Haiba sügislaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/haiba-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Sürgavere kodukandipäev ja laat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Viljandi: Sürgavere kodukandipäev ja laat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/surgavere-kodukandipaev-ja-laat/
 END:VEVENT
 
 BEGIN:VEVENT
