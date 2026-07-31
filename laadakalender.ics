@@ -2946,6 +2946,15 @@ URL:https://laadakalender.ee/kesk-eesti-augusti-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-23.Otepää lõikuskuu laat
+DTSTART:20260823
+DTEND:20260824
+SUMMARY:Valga: Otepää lõikuskuu laat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-26.Märjamaa õhtuturg
 DTSTART:20260826
 DTEND:20260827
@@ -3738,6 +3747,15 @@ URL:https://laadakalender.ee/eesti-leiva-paev-ja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-20.Otepää Mihklilaat
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Valga: Otepää Mihklilaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-23.Tallinna Toidumess - Food Fair
 DTSTART:20260923
 DTEND:20260924
@@ -4095,6 +4113,15 @@ DTEND:20261019
 SUMMARY:Järva: Türi sügislaat
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/turi-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-18.Otepää sügislaat
+DTSTART:20261018
+DTEND:20261019
+SUMMARY:Valga: Otepää sügislaat
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-sugislaat-maxima/
 END:VEVENT
 
 BEGIN:VEVENT
