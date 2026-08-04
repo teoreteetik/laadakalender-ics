@@ -1191,6 +1191,15 @@ URL:https://laadakalender.ee/vatla-moisapaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Juuru kogukonna laat
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Rapla: Juuru kogukonna laat
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/juuru-kogukonnalaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-23.Kesk-Eesti augusti laat
 DTSTART:20260823
 DTEND:20260824
