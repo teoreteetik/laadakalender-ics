@@ -867,15 +867,6 @@ URL:https://laadakalender.ee/loksa-linnapaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2026-08-15.Varbola suvelõpulaat
-DTSTART:20260815
-DTEND:20260816
-SUMMARY:Rapla: Varbola suvelõpulaat
-LOCATION:Raplamaa, Estonia
-URL:https://laadakalender.ee/varbola-suvelopulaat/
-END:VEVENT
-
-BEGIN:VEVENT
 UID:2026-08-15.Kohtla-Järve suvelaat
 DTSTART:20260815
 DTEND:20260816
@@ -1263,6 +1254,24 @@ URL:https://laadakalender.ee/juuru-kogukonnalaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Laat Haapsalu turul
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Lääne: Laat Haapsalu turul
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/laat-haapsalu-turul/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-22.Miiamilla lastelaat "Suvesups"
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Harju: Miiamilla lastelaat "Suvesups"
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/miiamilla-lastelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-23.Kesk-Eesti augusti laat
 DTSTART:20260823
 DTEND:20260824
@@ -1494,6 +1503,15 @@ DTEND:20260831
 SUMMARY:Ida-Viru: Narva Prisma suvelaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/narva-prisma-suvelaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-30.Kristiine laat
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Harju: Kristiine laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1833,8 +1851,8 @@ BEGIN:VEVENT
 UID:2026-09-12.Kogukonnafestival ja UMA MEKK laat
 DTSTART:20260912
 DTEND:20260913
-SUMMARY:Tartu: Kogukonnafestival ja UMA MEKK laat
-LOCATION:Tartumaa, Estonia
+SUMMARY:Võru: Kogukonnafestival ja UMA MEKK laat
+LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/kogukonnafestival-ja-uma-mekk-laat/
 END:VEVENT
 
@@ -2028,6 +2046,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-18.Lasnamäe Centrumi laat
+DTSTART:20260918
+DTEND:20260919
+SUMMARY:Harjuaa: Lasnamäe Centrumi laat
+LOCATION:Harjuaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-19.Suur Paunvere Väljanäitus ja Laat
 DTSTART:20260919
 DTEND:20260920
@@ -2100,6 +2127,24 @@ URL:https://laadakalender.ee/abja-paluoja-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-19.Keila kihelkonnalaat
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Keila kihelkonnalaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/keila-kihelkonna-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-19.Lasnamäe Centrumi laat
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Lasnamäe Centrumi laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-20.Kunstimess Foto Tallinn
 DTSTART:20260920
 DTEND:20260921
@@ -2151,6 +2196,15 @@ DTEND:20260921
 SUMMARY:Pärnu: Katariina Sõprade Laat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/katariina-soprade-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-20.Lasnamäe Centrumi laat
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Harju: Lasnamäe Centrumi laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2352,6 +2406,24 @@ URL:https://laadakalender.ee/tagadi-restauraatorite-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-07.Järve keskuse sügislaat
+DTSTART:20261007
+DTEND:20261008
+SUMMARY:Harju: Järve keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-08.Järve keskuse sügislaat
+DTSTART:20261008
+DTEND:20261009
+SUMMARY:Harju: Järve keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-08.Auriga rallyturg
 DTSTART:20261008
 DTEND:20261009
@@ -2403,6 +2475,15 @@ DTEND:20261010
 SUMMARY:Saare: Auriga rallyturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-rallyturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-09.Järve keskuse sügislaat
+DTSTART:20261009
+DTEND:20261010
+SUMMARY:Harju: Järve keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2460,6 +2541,24 @@ URL:https://laadakalender.ee/rakvere-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-10.Järve keskuse sügislaat
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Harju: Järve keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-10.Mustamäe keskuse sügislaat
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-11.Ehitus ja Sisustus
 DTSTART:20261011
 DTEND:20261012
@@ -2493,6 +2592,24 @@ DTEND:20261012
 SUMMARY:Rapla: Kohila sügiskuu laat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-sugiskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-11.Järve keskuse sügislaat
+DTSTART:20261011
+DTEND:20261012
+SUMMARY:Harju: Järve keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-11.Mustamäe keskuse sügislaat
+DTSTART:20261011
+DTEND:20261012
+SUMMARY:Harju: Mustamäe keskuse sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2712,6 +2829,15 @@ URL:https://laadakalender.ee/marditurg-aurigas/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-07.Mustamäe keskuse terviselaat
+DTSTART:20261107
+DTEND:20261108
+SUMMARY:Harju: Mustamäe keskuse terviselaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-08.Laine Plaaditurg
 DTSTART:20261108
 DTEND:20261109
@@ -2727,6 +2853,15 @@ DTEND:20261109
 SUMMARY:Rapla: Kohila sügislaat
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/kohila-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-08.Mustamäe keskuse terviselaat
+DTSTART:20261108
+DTEND:20261109
+SUMMARY:Harju: Mustamäe keskuse terviselaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/mustamae-keskuse-terviselaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2997,6 +3132,15 @@ DTEND:20261213
 SUMMARY:Harju: EKA Jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eka-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-12.Rannarootsi Keskuse jõululaat
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Lääne: Rannarootsi Keskuse jõululaat
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/rannarootsi-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
