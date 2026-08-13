@@ -1074,6 +1074,15 @@ URL:https://laadakalender.ee/valga-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-20.Maarjamäe lastelaat
+DTSTART:20260820
+DTEND:20260821
+SUMMARY:Harju: Maarjamäe lastelaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maarjamae-lastelaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-21.Kuusalu OTT
 DTSTART:20260821
 DTEND:20260822
@@ -1272,6 +1281,15 @@ URL:https://laadakalender.ee/miiamilla-lastelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Habaja perepäev ja kogukonnaturg
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Harju: Habaja perepäev ja kogukonnaturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/habaja-perepaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-23.Kesk-Eesti augusti laat
 DTSTART:20260823
 DTEND:20260824
@@ -1287,6 +1305,24 @@ DTEND:20260824
 SUMMARY:Valga: Otepää lõikuskuu laat
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-loikuskuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-23.Püha Bernardi päev ja keskaja laat
+DTSTART:20260823
+DTEND:20260824
+SUMMARY:Harju: Püha Bernardi päev ja keskaja laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/puha-bernardi-paev-keskaja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-23.Maaritsa kogukonna perepäev ja laat
+DTSTART:20260823
+DTEND:20260824
+SUMMARY:Põlva: Maaritsa kogukonna perepäev ja laat
+LOCATION:Põlvamaa, Estonia
+URL:https://laadakalender.ee/maaritsa-kogukonna-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1467,6 +1503,15 @@ DTEND:20260830
 SUMMARY:Harju: Eesti-India Fest
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/eesti-india-fest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-29.Lääne-Harju valla päev
+DTSTART:20260829
+DTEND:20260830
+SUMMARY:Harju: Lääne-Harju valla päev
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/laane-harju-valla-paev/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1890,6 +1935,15 @@ DTEND:20260913
 SUMMARY:Saare: Aste Rahvamaja sügislaat
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/aste-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Haapsalu koguperefest
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Lääne: Haapsalu koguperefest
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/haapsalu-koguperefest/
 END:VEVENT
 
 BEGIN:VEVENT
