@@ -1011,6 +1011,15 @@ URL:https://laadakalender.ee/lullemae-noorte-taika/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-19.Kristiine Keskuse taluturg
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-20.Saksi vanavara laat
 DTSTART:20260820
 DTEND:20260821
@@ -1335,6 +1344,15 @@ URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-26.Kristiine Keskuse taluturg
+DTSTART:20260826
+DTEND:20260827
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-27.Kääpa OTT
 DTSTART:20260827
 DTEND:20260828
@@ -1566,6 +1584,15 @@ DTEND:20260903
 SUMMARY:Rapla: Varbola õhtuturg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/varbola-ohtuturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-02.Kristiine Keskuse taluturg
+DTSTART:20260902
+DTEND:20260903
+SUMMARY:Harju: Kristiine Keskuse taluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1944,6 +1971,15 @@ DTEND:20260913
 SUMMARY:Lääne: Haapsalu koguperefest
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/haapsalu-koguperefest/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Koovi laat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Saare: Koovi laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/koovi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2394,6 +2430,15 @@ DTEND:20260927
 SUMMARY:Võru: Sulbi mihklilaat
 LOCATION:Võrumaa, Estonia
 URL:https://laadakalender.ee/sulbi-mihklilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-26.Laimjala mihklipäeva laat
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Saare: Laimjala mihklipäeva laat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/laimjala-mihklipaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
