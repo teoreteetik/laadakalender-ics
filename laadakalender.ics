@@ -993,6 +993,15 @@ URL:https://laadakalender.ee/kohtla-jarve-suvelaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-16.Plaaditurg Nõmme Turul
+DTSTART:20260816
+DTEND:20260817
+SUMMARY:Harju: Plaaditurg Nõmme Turul
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-19.Sindi taasiseseisvumispäev
 DTSTART:20260819
 DTEND:20260820
