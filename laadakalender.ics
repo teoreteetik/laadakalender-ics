@@ -1308,6 +1308,15 @@ URL:https://laadakalender.ee/habaja-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-22.Talupäev
+DTSTART:20260822
+DTEND:20260823
+SUMMARY:Pärnu: Talupäev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/talupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-23.Kesk-Eesti augusti laat
 DTSTART:20260823
 DTEND:20260824
@@ -1344,6 +1353,15 @@ URL:https://laadakalender.ee/maaritsa-kogukonna-perepaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-23.Paldiski augustikuu laat
+DTSTART:20260823
+DTEND:20260824
+SUMMARY:Harju: Paldiski augustikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-08-26.Märjamaa õhtuturg
 DTSTART:20260826
 DTEND:20260827
@@ -1359,6 +1377,15 @@ DTEND:20260827
 SUMMARY:Harju: Kristiine Keskuse taluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kristiine-keskuse-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-08-26.Lasnamäe A1000 Marketi tänavaturg-laat
+DTSTART:20260826
+DTEND:20260827
+SUMMARY:Harju: Lasnamäe A1000 Marketi tänavaturg-laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-tanavaturg-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1749,6 +1776,15 @@ URL:https://laadakalender.ee/karksi-meefestival/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-05.Paide septembrilaat
+DTSTART:20260905
+DTEND:20260906
+SUMMARY:Järva: Paide septembrilaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/paide-septembrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-06.Kooli alguse kirbukas
 DTSTART:20260906
 DTEND:20260907
@@ -1764,6 +1800,15 @@ DTEND:20260907
 SUMMARY:Pärnu: Lihula sügislaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/lihula-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-06.Antsla sügiskuu laat
+DTSTART:20260906
+DTEND:20260907
+SUMMARY:Võru: Antsla sügiskuu laat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/antsla-sugiskuu-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1983,6 +2028,42 @@ URL:https://laadakalender.ee/koovi-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-12.Maardu Etnolaat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Harju: Maardu Etnolaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-etnolaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Peipsipisarad ja soopärlid
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Tartu: Peipsipisarad ja soopärlid
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/peipsipisarad-ja-sooparlid/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Kohila Pop-Up Garaažimüük
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Rapla: Kohila Pop-Up Garaažimüük
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/kohila-pop-up-garaazimuuk/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-12.Sibulatee puhvetite päev
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Tartu: Sibulatee puhvetite päev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/sibulatee-puhvetite-paev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-13.MOTOSHOW – auto- ja tehnikamess
 DTSTART:20260913
 DTEND:20260914
@@ -2088,6 +2169,15 @@ DTEND:20260914
 SUMMARY:Ida-Viru: Kiviõli sügislaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kivioli-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-13.Maardu Etnolaat
+DTSTART:20260913
+DTEND:20260914
+SUMMARY:Harju: Maardu Etnolaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/maardu-etnolaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2658,6 +2748,15 @@ URL:https://laadakalender.ee/mustamae-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-10.Buduaari Live turg
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Harju: Buduaari Live turg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/buduaari-live-turg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-11.Ehitus ja Sisustus
 DTSTART:20261011
 DTEND:20261012
@@ -2736,6 +2835,15 @@ DTEND:20261018
 SUMMARY:Viljandi: Abja-Paluoja oktoobrilaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/abja-paluoja-oktoobrikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-17.Buduaari ilumess
+DTSTART:20261017
+DTEND:20261018
+SUMMARY:Harju: Buduaari ilumess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/buduaari-ilumess/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3060,6 +3168,15 @@ DTEND:20261128
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-28.Andresepäeva laat
+DTSTART:20261128
+DTEND:20261129
+SUMMARY:Harju: Andresepäeva laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/andresepaeva-laat/
 END:VEVENT
 
 BEGIN:VEVENT
