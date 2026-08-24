@@ -1605,6 +1605,15 @@ URL:https://laadakalender.ee/kristiine-laat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-30.Valkla kirbuturg
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Harju: Valkla kirbuturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/valkla-kirbuturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-02.Varbola õhtuturg
 DTSTART:20260902
 DTEND:20260903
@@ -2295,6 +2304,15 @@ DTEND:20260920
 SUMMARY:Jõgeva: Suur Paunvere Väljanäitus ja Laat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/suur-paunvere-valjanaitus-ja-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-19.Audru Sügislaat ja Maal Elamise Päev
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Pärnu: Audru Sügislaat ja Maal Elamise Päev
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/suur-audru-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
