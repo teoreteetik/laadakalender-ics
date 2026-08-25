@@ -1614,6 +1614,15 @@ URL:https://laadakalender.ee/valkla-kirbuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-08-30.Paldiski augustikuu laat
+DTSTART:20260830
+DTEND:20260831
+SUMMARY:Harju: Paldiski augustikuu laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/paldiski-augustikuu-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-02.Varbola õhtuturg
 DTSTART:20260902
 DTEND:20260903
@@ -2091,6 +2100,15 @@ URL:https://laadakalender.ee/sibulatee-puhvetite-paev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-12.Mustamäe sügislaat
+DTSTART:20260912
+DTEND:20260913
+SUMMARY:Harju: Mustamäe sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/sugislaat-manni-park/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-13.MOTOSHOW – auto- ja tehnikamess
 DTSTART:20260913
 DTEND:20260914
@@ -2316,6 +2334,15 @@ URL:https://laadakalender.ee/suur-audru-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-09-19.Lasnamäe sügislaat
+DTSTART:20260919
+DTEND:20260920
+SUMMARY:Harju: Lasnamäe sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-suur-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-09-19.Oru OTT sügislaat
 DTSTART:20260919
 DTEND:20260920
@@ -2475,6 +2502,15 @@ DTEND:20260921
 SUMMARY:Ida-Viru: Kohtla-Järve sügislaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/kohtla-jarve-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-09-20.Kaarli Rahvamaja suvelõpulaat
+DTSTART:20260920
+DTEND:20260921
+SUMMARY:Viljandi: Kaarli Rahvamaja suvelõpulaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/kaarli-rahvamaja-suvelopulaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2766,6 +2802,15 @@ URL:https://laadakalender.ee/jarve-keskuse-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-10-10.Suur Tondiraba Sügislaat
+DTSTART:20261010
+DTEND:20261011
+SUMMARY:Harju: Suur Tondiraba Sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-tondiraba-sugislaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-10-10.Liivimaa Mihklilaat
 DTSTART:20261010
 DTEND:20261011
@@ -2916,6 +2961,15 @@ DTEND:20261017
 SUMMARY:Valga: Otepää OTT
 LOCATION:Valgamaa, Estonia
 URL:https://laadakalender.ee/otepaa-ott/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-10-17.Suur Keila Sügislaat
+DTSTART:20261017
+DTEND:20261018
+SUMMARY:Harju: Suur Keila Sügislaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-keila-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3369,6 +3423,15 @@ URL:https://laadakalender.ee/palamuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-05.Suur Keila Jõululaat
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Harju: Suur Keila Jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/suur-keila-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-06.Tartu jõululaat
 DTSTART:20261206
 DTEND:20261207
@@ -3411,6 +3474,15 @@ DTEND:20261213
 SUMMARY:Tartu: Tartu jõululaat
 LOCATION:Tartumaa, Estonia
 URL:https://laadakalender.ee/tartu-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-12.Lasnamäe Centrumi jõululaat
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Harju: Lasnamäe Centrumi jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/lasnamae-centrumi-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
