@@ -561,6 +561,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-14.Muhu OTT
+DTSTART:20261114
+DTEND:20261115
+SUMMARY:Saare: Muhu OTT
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/muhu-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-15.Kilingi-Nõmme laat
 DTSTART:20261115
 DTEND:20261116
@@ -630,6 +639,15 @@ DTEND:20261116
 SUMMARY:Harju: Kose novembrilaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kose-novembrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-15.Kiviõli novembrilaat
+DTSTART:20261115
+DTEND:20261116
+SUMMARY:Ida-Viru: Kiviõli novembrilaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/kivioli-novembrilaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -930,12 +948,39 @@ URL:https://laadakalender.ee/aste-heategevuslik-pakapikuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-29.Mõisaküla väike jõuluturg
+DTSTART:20261129
+DTEND:20261130
+SUMMARY:Viljandi: Mõisaküla väike jõuluturg
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/moisakula-vaike-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-29.Viimsi Artiumi jõuluturg
+DTSTART:20261129
+DTEND:20261130
+SUMMARY:Harju: Viimsi Artiumi jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/viimsi-artiumi-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-30.Balta jõuluturg
 DTSTART:20261130
 DTEND:20261201
 SUMMARY:Harju: Balta jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/balta-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-01.Väätsa jõuluturg
+DTSTART:20261201
+DTEND:20261202
+SUMMARY:Järva: Väätsa jõuluturg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/vaatsa-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1227,6 +1272,24 @@ URL:https://laadakalender.ee/advendilaat-ja-disainiturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-06.Audru jõululaat
+DTSTART:20261206
+DTEND:20261207
+SUMMARY:Pärnu: Audru jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/audru-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-06.Kaarli rahvamaja advendilaat
+DTSTART:20261206
+DTEND:20261207
+SUMMARY:Viljandi: Kaarli rahvamaja advendilaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/kaarli-rahvamaja-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-10.Auriga detsembri turg
 DTSTART:20261210
 DTEND:20261211
@@ -1287,6 +1350,15 @@ DTEND:20261212
 SUMMARY:Põltsa: Põltsamaa turutänava laadapäevad
 LOCATION:Põltsamaa, Estonia
 URL:https://laadakalender.ee/poltsamaa-turutanava-laadapaevad/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-11.Järvamaa Noorte Jõuluturg
+DTSTART:20261211
+DTEND:20261212
+SUMMARY:Järva: Järvamaa Noorte Jõuluturg
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/jarvamaa-noorte-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
