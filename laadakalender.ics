@@ -1623,6 +1623,15 @@ URL:https://laadakalender.ee/joulukingituste-laat-haabersti-hyper-rimi-keskus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-13.Seljametsa jõululaat
+DTSTART:20261213
+DTEND:20261214
+SUMMARY:Pärnu: Seljametsa jõululaat
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/seljametsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-16.Järve keskuse jõululaat
 DTSTART:20261216
 DTEND:20261217
@@ -2160,6 +2169,15 @@ DTEND:20261224
 SUMMARY:Harju: Järve keskuse jõululaat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/jarve-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-23.Ambla jõululaat
+DTSTART:20261223
+DTEND:20261224
+SUMMARY:Järva: Ambla jõululaat
+LOCATION:Järvamaa, Estonia
+URL:https://laadakalender.ee/ambla-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
