@@ -282,6 +282,15 @@ URL:https://laadakalender.ee/valga-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-07.Animega Mess
+DTSTART:20261107
+DTEND:20261108
+SUMMARY:Harju: Animega Mess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/animega-mess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-08.Laine Plaaditurg
 DTSTART:20261108
 DTEND:20261109
@@ -801,6 +810,15 @@ DTEND:20261123
 SUMMARY:Harju: Alavere jõululaat "Jõuluootuses"
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/alavere-joululaat-jouluootuses/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-22.Sandla Sügislaat
+DTSTART:20261122
+DTEND:20261123
+SUMMARY:Saare: Sandla Sügislaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/sandla-sugislaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1548,6 +1566,15 @@ DTEND:20261214
 SUMMARY:Harju: Pirita Jõulumaa – Merivälja pargis
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/pirita-joulumaa-merivalja-park/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-13.Põhja-Tallinna suur jõululaat
+DTSTART:20261213
+DTEND:20261214
+SUMMARY:Harju: Põhja-Tallinna suur jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pohja-tallinna-suur-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
