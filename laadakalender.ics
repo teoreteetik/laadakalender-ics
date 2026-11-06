@@ -930,6 +930,15 @@ URL:https://laadakalender.ee/turba-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-28.Vatla Mõisa Täika
+DTSTART:20261128
+DTEND:20261129
+SUMMARY:Pärnu: Vatla Mõisa Täika
+LOCATION:Pärnumaa, Estonia
+URL:https://laadakalender.ee/vatla-moisa-taika/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-29.Pirita Jõulumaa – Pirita kose pargis
 DTSTART:20261129
 DTEND:20261130
@@ -990,6 +999,15 @@ DTEND:20261130
 SUMMARY:Harju: Viimsi Artiumi jõuluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/viimsi-artiumi-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-29.Tabivere jõululaat
+DTSTART:20261129
+DTEND:20261130
+SUMMARY:Tartu: Tabivere jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/tabivere-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1821,6 +1839,15 @@ URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-18.Pargi Keskuse jõululaat
+DTSTART:20261218
+DTEND:20261219
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-19.Jõululaat "Jõulusäras Olustvere"
 DTSTART:20261219
 DTEND:20261220
@@ -1980,6 +2007,15 @@ DTEND:20261220
 SUMMARY:Saare: Kuressaare jõuluturg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/kuressaare-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Pargi Keskuse jõululaat
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
+LOCATION:Ida-Virumaa, Estonia
+URL:https://laadakalender.ee/pargi-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
