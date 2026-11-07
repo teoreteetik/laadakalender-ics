@@ -1236,6 +1236,15 @@ URL:https://laadakalender.ee/loo-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-05.Aparaaditehase jõululaupäev
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Tartu: Aparaaditehase jõululaupäev
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/aparaaditehase-joululaupaev/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-06.Suur Tondiraba Jõululaat
 DTSTART:20261206
 DTEND:20261207
@@ -1332,6 +1341,15 @@ DTEND:20261207
 SUMMARY:Viljandi: Kaarli rahvamaja advendilaat
 LOCATION:Viljandimaa, Estonia
 URL:https://laadakalender.ee/kaarli-rahvamaja-advendilaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-06.Kose-Uuemõisa jõulutänav
+DTSTART:20261206
+DTEND:20261207
+SUMMARY:Harju: Kose-Uuemõisa jõulutänav
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kose-uuemoisa-joulutanav/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2016,6 +2034,15 @@ DTEND:20261220
 SUMMARY:Ida-Viru: Pargi Keskuse jõululaat
 LOCATION:Ida-Virumaa, Estonia
 URL:https://laadakalender.ee/pargi-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Mustvee jõululaat
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Jõgeva: Mustvee jõululaat
+LOCATION:Jõgevamaa, Estonia
+URL:https://laadakalender.ee/mustvee-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
