@@ -678,12 +678,30 @@ URL:https://laadakalender.ee/marjamaa-ohtuturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-18.Pae Keskuse novembri laat
+DTSTART:20261118
+DTEND:20261119
+SUMMARY:Harju: Pae Keskuse novembri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-novembri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-19.Tabasalu Taluturg
 DTSTART:20261119
 DTEND:20261120
 SUMMARY:Harju: Tabasalu Taluturg
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/tabasalu-taluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-19.Pae Keskuse novembri laat
+DTSTART:20261119
+DTEND:20261120
+SUMMARY:Harju: Pae Keskuse novembri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-novembri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1353,12 +1371,30 @@ URL:https://laadakalender.ee/kose-uuemoisa-joulutanav/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-09.Pae Keskuse detsembri laat
+DTSTART:20261209
+DTEND:20261210
+SUMMARY:Harju: Pae Keskuse detsembri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-detsembri-laat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-10.Auriga detsembri turg
 DTSTART:20261210
 DTEND:20261211
 SUMMARY:Saare: Auriga detsembri turg
 LOCATION:Saaremaa, Estonia
 URL:https://laadakalender.ee/auriga-detsembri-turg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-10.Pae Keskuse detsembri laat
+DTSTART:20261210
+DTEND:20261211
+SUMMARY:Harju: Pae Keskuse detsembri laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-detsembri-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1422,6 +1458,15 @@ DTEND:20261212
 SUMMARY:Järva: Järvamaa Noorte Jõuluturg
 LOCATION:Järvamaa, Estonia
 URL:https://laadakalender.ee/jarvamaa-noorte-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-11.KEIK WinterFest
+DTSTART:20261211
+DTEND:20261212
+SUMMARY:Võru: KEIK WinterFest
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/keik-winterfest/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1713,6 +1758,15 @@ URL:https://laadakalender.ee/jarve-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-16.Pae keskuse jõululaat
+DTSTART:20261216
+DTEND:20261217
+SUMMARY:Harju: Pae keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-17.Auriga jõuluturg
 DTSTART:20261217
 DTEND:20261218
@@ -1746,6 +1800,15 @@ DTEND:20261218
 SUMMARY:Pärnu: Pärnu jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/parnu-maxima-xxx-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-17.Pae keskuse jõululaat
+DTSTART:20261217
+DTEND:20261218
+SUMMARY:Harju: Pae keskuse jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/pae-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -2043,6 +2106,15 @@ DTEND:20261220
 SUMMARY:Jõgeva: Mustvee jõululaat
 LOCATION:Jõgevamaa, Estonia
 URL:https://laadakalender.ee/mustvee-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Kirbla jõuluturg
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Lääne: Kirbla jõuluturg
+LOCATION:Läänemaa, Estonia
+URL:https://laadakalender.ee/kirbla-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
