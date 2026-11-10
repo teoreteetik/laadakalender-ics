@@ -912,6 +912,15 @@ URL:https://laadakalender.ee/oru-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-27.Vabatahtlike mess
+DTSTART:20261127
+DTEND:20261128
+SUMMARY:Harju: Vabatahtlike mess
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vabatahtlike-mess/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-28.Andresepäeva laat
 DTSTART:20261128
 DTEND:20261129
@@ -1263,6 +1272,24 @@ URL:https://laadakalender.ee/aparaaditehase-joululaupaev/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-05.Hara sadama jõuluturg
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Harju: Hara sadama jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/hara-sadama-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-05.Karlova jõululaat
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Tartu: Karlova jõululaat
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/karlova-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-06.Suur Tondiraba Jõululaat
 DTSTART:20261206
 DTEND:20261207
@@ -1368,6 +1395,15 @@ DTEND:20261207
 SUMMARY:Harju: Kose-Uuemõisa jõulutänav
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/kose-uuemoisa-joulutanav/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-06.Hara sadama jõuluturg
+DTSTART:20261206
+DTEND:20261207
+SUMMARY:Harju: Hara sadama jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/hara-sadama-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1641,6 +1677,15 @@ URL:https://laadakalender.ee/eesti-muuseumipoodide-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-12.Hara sadama jõuluturg
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Harju: Hara sadama jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/hara-sadama-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-13.Pirita Jõulumaa – Merivälja pargis
 DTSTART:20261213
 DTEND:20261214
@@ -1746,6 +1791,15 @@ DTEND:20261214
 SUMMARY:Pärnu: Seljametsa jõululaat
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/seljametsa-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-13.Hara sadama jõuluturg
+DTSTART:20261213
+DTEND:20261214
+SUMMARY:Harju: Hara sadama jõuluturg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/hara-sadama-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
