@@ -1290,6 +1290,15 @@ URL:https://laadakalender.ee/karlova-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-05.Märjamaa jõulumaa ja turg
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Rapla: Märjamaa jõulumaa ja turg
+LOCATION:Raplamaa, Estonia
+URL:https://laadakalender.ee/marjamaa-joulumaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-06.Suur Tondiraba Jõululaat
 DTSTART:20261206
 DTEND:20261207
