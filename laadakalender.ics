@@ -579,6 +579,15 @@ URL:https://laadakalender.ee/muhu-ott/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-14.Nõo valla OTT
+DTSTART:20261114
+DTEND:20261115
+SUMMARY:Tartu: Nõo valla OTT
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/noo-ott/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-15.Kilingi-Nõmme laat
 DTSTART:20261115
 DTEND:20261116
@@ -786,6 +795,15 @@ URL:https://laadakalender.ee/kuulikunaitus/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-21.Aruküla Waldorfkooli Kadrilaat
+DTSTART:20261121
+DTEND:20261122
+SUMMARY:Harju: Aruküla Waldorfkooli Kadrilaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/arukula-vaba-waldorfkooli-kadrilaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-22.Suur kadrilaat
 DTSTART:20261122
 DTEND:20261123
@@ -963,6 +981,15 @@ DTEND:20261129
 SUMMARY:Pärnu: Vatla Mõisa Täika
 LOCATION:Pärnumaa, Estonia
 URL:https://laadakalender.ee/vatla-moisa-taika/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-11-28.Haiba jõulu alguse laat
+DTSTART:20261128
+DTEND:20261129
+SUMMARY:Harju: Haiba jõulu alguse laat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/haiba-joulu-alguse-laat/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1296,6 +1323,15 @@ DTEND:20261206
 SUMMARY:Rapla: Märjamaa jõulumaa ja turg
 LOCATION:Raplamaa, Estonia
 URL:https://laadakalender.ee/marjamaa-joulumaa-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-05.Tokumaru Jaapani turg
+DTSTART:20261205
+DTEND:20261206
+SUMMARY:Harju: Tokumaru Jaapani turg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/tokumaru-jaapani-turg/
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1812,6 +1848,15 @@ URL:https://laadakalender.ee/hara-sadama-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-13.Salme jõululaat
+DTSTART:20261213
+DTEND:20261214
+SUMMARY:Saare: Salme jõululaat
+LOCATION:Saaremaa, Estonia
+URL:https://laadakalender.ee/salme-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-16.Järve keskuse jõululaat
 DTSTART:20261216
 DTEND:20261217
@@ -2178,6 +2223,15 @@ DTEND:20261220
 SUMMARY:Lääne: Kirbla jõuluturg
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/kirbla-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Viljandi Vanalinna Laternad - jõululaat
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Viljandi: Viljandi Vanalinna Laternad - jõululaat
+LOCATION:Viljandimaa, Estonia
+URL:https://laadakalender.ee/viljandi-vanalinna-laternad-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
