@@ -1965,6 +1965,15 @@ URL:https://laadakalender.ee/vohma-jouluturg/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-12.Vääna kogukonna jõululaat
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Harju: Vääna kogukonna jõululaat
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/vaana-heategevuslik-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-13.Pirita Jõulumaa – Merivälja pargis
 DTSTART:20261213
 DTEND:20261214
