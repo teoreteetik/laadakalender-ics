@@ -1128,6 +1128,15 @@ URL:https://laadakalender.ee/lahte-advendilaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-11-29.Kinomaja Plaaditurg
+DTSTART:20261129
+DTEND:20261130
+SUMMARY:Harju: Kinomaja Plaaditurg
+LOCATION:Harjumaa, Estonia
+URL:https://laadakalender.ee/kinomaja-plaaditurg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-11-30.Balta jõuluturg
 DTSTART:20261130
 DTEND:20261201
@@ -1215,15 +1224,6 @@ DTEND:20261205
 SUMMARY:Lääne: Oru OTT
 LOCATION:Läänemaa, Estonia
 URL:https://laadakalender.ee/oru-ott/
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2026-12-04.Kinomaja Plaaditurg
-DTSTART:20261204
-DTEND:20261205
-SUMMARY:Harju: Kinomaja Plaaditurg
-LOCATION:Harjumaa, Estonia
-URL:https://laadakalender.ee/kinomaja-plaaditurg/
 END:VEVENT
 
 BEGIN:VEVENT
