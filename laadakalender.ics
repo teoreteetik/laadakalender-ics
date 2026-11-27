@@ -1614,6 +1614,15 @@ URL:https://laadakalender.ee/laekvere-rahvamaja-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-06.Kallaste jõuluturg
+DTSTART:20261206
+DTEND:20261207
+SUMMARY:Tartu: Kallaste jõuluturg
+LOCATION:Tartumaa, Estonia
+URL:https://laadakalender.ee/kallaste-jouluturg/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-08.Tori jõulu ööturg
 DTSTART:20261208
 DTEND:20261209
@@ -2442,6 +2451,15 @@ URL:https://laadakalender.ee/pargi-keskuse-joululaat/
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2026-12-18.Võru jõululaat
+DTSTART:20261218
+DTEND:20261219
+SUMMARY:Võru: Võru jõululaat
+LOCATION:Võrumaa, Estonia
+URL:https://laadakalender.ee/voru-joululaat/
+END:VEVENT
+
+BEGIN:VEVENT
 UID:2026-12-19.Jõululaat "Jõulusäras Olustvere"
 DTSTART:20261219
 DTEND:20261220
@@ -2664,6 +2682,15 @@ DTEND:20261220
 SUMMARY:Harju: Vembu-Tembu jõulumaa laat
 LOCATION:Harjumaa, Estonia
 URL:https://laadakalender.ee/vembu-tembu-joulumaa-laat/
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2026-12-19.Otepää talveturg
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Valga: Otepää talveturg
+LOCATION:Valgamaa, Estonia
+URL:https://laadakalender.ee/otepaa-talveturg/
 END:VEVENT
 
 BEGIN:VEVENT
